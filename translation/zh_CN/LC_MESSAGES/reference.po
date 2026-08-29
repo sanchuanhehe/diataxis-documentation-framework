@@ -10,6 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-09 13:55+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Diátaxis Chinese translation contributors\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,19 +20,19 @@ msgstr ""
 
 #: 2fc73a00ec824d6488f4aa47d93ae851
 msgid "Reference"
-msgstr ""
+msgstr "参考资料"
 
 #: df25538b430b4af8b2cefe57dac5e4a2
 msgid ""
 "Reference guides are **technical descriptions** of the machinery and how to "
 "operate it. Reference material is **information-oriented**."
-msgstr ""
+msgstr "参考指南是对设备及其操作方式的 **技术描述**。参考资料是 **面向信息** 的。"
 
 #: 7ecdc11ee9ab455e9b2e4efaff61e3f0
 msgid ""
 "Reference material contains *propositional or theoretical* knowledge that a "
 "user looks to in their *work*."
-msgstr ""
+msgstr "参考资料包含用户在 *工作* 中查阅的 *命题性或理论性* 知识。"
 
 #: 9989dfe60d4f4673813c1c3b1e7c28ed
 msgid ""
@@ -40,18 +41,20 @@ msgid ""
 " guides are led by needs of the user, reference material is led by the "
 "product it describes."
 msgstr ""
+"参考指南唯一的目的是以尽可能简洁、有序的方式进行描述。教程和实践指南的内容由"
+"用户需求引领；参考资料则由其描述的产品引领。"
 
 #: 1a35dff5b2c649ee84833eb1f494dc98
 msgid ""
 "Reference - information oriented, theoretical knowledge, that serves our "
 "work"
-msgstr ""
+msgstr "参考资料——面向信息、服务工作的理论性知识"
 
 #: ce63c07c2b3a45aabb5328976da3186d
 msgid ""
 "In the case of software, reference guides describe the software itself - "
 "APIs, classes, functions and so on - and how to use them."
-msgstr ""
+msgstr "在软件场景中，参考指南描述软件本身——API、类、函数等——以及它们的使用方式。"
 
 #: 7b17396051854b70a5e1278493667895
 msgid ""
@@ -59,22 +62,24 @@ msgid ""
 "firm platforms on which to stand while they work. Good technical reference "
 "is essential to provide users with the confidence to do their work."
 msgstr ""
+"用户需要参考资料，因为他们需要真相和确定性——在工作时可以立足的坚实平台。良好的"
+"技术参考资料对让用户有信心完成工作至关重要。"
 
 #: c3b3a88989394f059d7ce0a1219321d9
 msgid "Reference as description"
-msgstr ""
+msgstr "作为描述的参考资料"
 
 #: 8d60a269fe98415198f92e64beb945f7
 msgid ""
 "Reference material describes the machinery. It should be **austere**. One "
 "hardly *reads* reference material; one *consults* it."
-msgstr ""
+msgstr "参考资料描述设备，应当 **严谨克制**。人们几乎不 *阅读* 参考资料，而是 *查阅* 它。"
 
 #: 4837ab60fae34ee983633c0fcbbd1b99
 msgid ""
 "There should be no doubt or ambiguity in reference; it should be wholly "
 "authoritative."
-msgstr ""
+msgstr "参考资料中不应有疑义或含混；它应当完全权威。"
 
 #: 65c1f1af7b164e0099c75d4027700d4b
 msgid ""
@@ -83,6 +88,8 @@ msgid ""
 "yourself; a reference guide serves the same purpose for the product and its "
 "internal machinery."
 msgstr ""
+"参考资料像一张地图。地图无需你亲自去勘察地形，便告诉你需要了解的领域信息；"
+"参考指南对产品及其内部机制的作用相同。"
 
 #: 0df476c47f19424fae8476b1d05464d2
 msgid ""
@@ -90,12 +97,14 @@ msgid ""
 "and often needs to include a description of how something works or the "
 "correct way to use it."
 msgstr ""
+"虽然参考资料不应试图展示如何完成任务，却可以且常常需要说明某物的运作方式或"
+"正确使用方式。"
 
 #: 509b2cf899e14d38b67d6db1527f9c4d
 msgid ""
 "Unfortunately, too many software developers think that auto-generated "
 "reference material is all the documentation required."
-msgstr ""
+msgstr "遗憾的是，太多软件开发者认为自动生成的参考资料就是所需的全部文档。"
 
 #: 045aa3fb33cf43a0974710663108adea
 msgid ""
@@ -103,30 +112,32 @@ msgid ""
 "automatically by the software it describes, which is a powerful way of "
 "ensuring that it remains faithfully accurate to the code."
 msgstr ""
+"一些参考资料（如 API 文档）可由其描述的软件自动生成，这是确保其始终忠实准确地"
+"反映代码的一种有力方式。"
 
 #: 7d3fefd3ecfb4ec8a88a0f19c79c08cb
 msgid "Key principles"
-msgstr ""
+msgstr "关键原则"
 
 #: 7afd5c3fa4704778abc1e626e50a8b87
 msgid "Describe and only describe"
-msgstr ""
+msgstr "只作描述"
 
 #: 1ff7e164bcb94c9a85067d4da8567a52
 msgid "*Neutral description* is the key imperative of technical reference."
-msgstr ""
+msgstr "*中立的描述* 是技术参考资料的关键要求。"
 
 #: 5a7105a6bb2b403d9ea8e7b1abd5ad45
 msgid "austere and uncompromising"
-msgstr ""
+msgstr "严谨克制，毫不妥协"
 
 #: c3939c67147f4fd5b2499aef76b930d3
 msgid "neutrality, objectivity, factuality"
-msgstr ""
+msgstr "中立性、客观性、事实性"
 
 #: 305e5575f6d14807998044b9ca896a9b
 msgid "structured according to the structure of the machinery itself"
-msgstr ""
+msgstr "按设备本身的结构组织"
 
 #: 8407c274faef4e8a8b3773013c6a5b1f
 msgid ""
@@ -136,6 +147,9 @@ msgid ""
 " counter to the needs of technical reference, which instead demands "
 "accuracy, precision, completeness and clarity."
 msgstr ""
+"遗憾的是，中立地描述某物是最难做到的事情之一。这并非自然的沟通方式；相反，"
+"解释、指导、讨论、发表观点才更自然，而这些都违背技术参考资料的需求——它要求"
+"准确、精确、完整和清晰。"
 
 #: 0cda67a86dbc4dda9db3285004825a90
 msgid ""
@@ -144,10 +158,12 @@ msgid ""
 "need these other things. Instead, link to how-to guides, explanation and "
 "introductory tutorials."
 msgstr ""
+"很容易引入指导和解释，因为描述可能显得不足以发挥作用，也因为我们确实需要这些"
+"内容。应转而链接到实践指南、解释说明和入门教程。"
 
 #: c7051588fc094e72a40ac511dd4a5cca
 msgid "Adopt standard patterns"
-msgstr ""
+msgstr "采用标准模式"
 
 #: 3a43423712be423d8292b157a416192a
 msgid ""
@@ -155,18 +171,18 @@ msgid ""
 "are what allow us to use reference material effectively. Your job is to "
 "place the material that your user needs where they expect to find it, in a "
 "format that they are familiar with."
-msgstr ""
+msgstr "**参考资料保持一致时才有用。** 标准模式让我们能有效使用参考资料。你的工作是将用户所需的材料放在其期望找到的位置，并以他们熟悉的格式呈现。"
 
 #: 6a99aaf7cf5a426cb5ca9fa7e1012698
 msgid ""
 "There are many opportunities in writing to delight your readers with your "
 "extensive vocabulary and command of multiple styles, but reference material "
 "is definitely not one of them."
-msgstr ""
+msgstr "写作中有许多机会可用丰富词汇和多样风格取悦读者，但参考资料绝不是其中之一。"
 
 #: fb1503f8f2954d15b83c843b1f86cbf9
 msgid "Respect the structure of the machinery"
-msgstr ""
+msgstr "尊重设备的结构"
 
 #: cbd68e6e017d48a18216b0914155c563
 msgid ""
@@ -175,7 +191,7 @@ msgid ""
 "documentation: **the structure of the documentation should mirror the "
 "structure of the product**, so that the user can work their way through them"
 " at the same time."
-msgstr ""
+msgstr "地图与其所表示地形的对应方式，帮助我们借助前者穿行后者。文档也应如此： **文档的结构应映照产品的结构**，使用户能够同时在二者中找到路径。"
 
 #: 152115996af848d0bfd6671a430f90ce
 msgid ""
@@ -183,10 +199,12 @@ msgid ""
 "What's important is that the logical, conceptual arrangement of and "
 "relations within the code should help make sense of the documentation."
 msgstr ""
+"这不意味着要把文档强塞进不自然的结构。重要的是，代码的逻辑和概念编排及其中的"
+"关系，应有助于理解文档。"
 
 #: f877bb15428a4fc2a0ea6cca564948a6
 msgid "Provide examples"
-msgstr ""
+msgstr "提供示例"
 
 #: 4b576ae658c544429e43b770a4d5f59c
 msgid ""
@@ -195,60 +213,60 @@ msgid ""
 "the job of describing. For example, an example of usage of a command can be "
 "a succinct way of illustrating it and its context, without falling into the "
 "trap of trying to explain or instruct."
-msgstr ""
+msgstr "**示例** 是很有价值的说明方式，既帮助读者理解参考资料，又避免偏离描述本职。例如，一条命令的使用示例可以简洁说明它及其语境，而不会落入试图解释或指导的陷阱。"
 
 #: a9ec6a908ddd4c1187ca9cbb29b2c5e8
 msgid "The language of reference guides"
-msgstr ""
+msgstr "参考指南的语言"
 
 #: b298a2dc3fa446d2bc5e99cb0f359511
 msgid ""
 "Django's default logging configuration inherits Python's defaults. It's "
 "available as ``django.utils.log.DEFAULT_LOGGING`` and defined in "
 "``django/utils/log.py``"
-msgstr ""
+msgstr "Django 的默认日志配置继承 Python 的默认配置。它以 ``django.utils.log.DEFAULT_LOGGING`` 提供，并定义在 ``django/utils/log.py`` 中。"
 
 #: df66fdc5b09d4cfdb44c3bfd9c67b93f
 msgid "State facts about the machinery and its behaviour."
-msgstr ""
+msgstr "陈述关于设备及其行为的事实。"
 
 #: 13ec4ef5333248ca859e78b3b3d382cb
 msgid "Sub-commands are: a, b, c, d, e, f."
-msgstr ""
+msgstr "子命令有：a、b、c、d、e、f。"
 
 #: 80397e467b8d43f790c8634819c4630c
 msgid ""
 "List commands, options, operations, features, flags, limitations, error "
 "messages, etc."
-msgstr ""
+msgstr "列出命令、选项、操作、特性、标志、限制、错误消息等。"
 
 #: 428a4a2123784dacae9dced6a57dee7b
 msgid "You must use a. You must not apply b unless c. Never d."
-msgstr ""
+msgstr "必须使用 a；除非满足 c，否则不得应用 b；绝不可使用 d。"
 
 #: 7eb7966f301e4567b21214eb98baa4cf
 msgid "Provide warnings where appropriate."
-msgstr ""
+msgstr "在适当处给出警告。"
 
 #: 0ee408b54afb4cc8aeabe3cf3aef3722
 msgid "Applied to food and cooking"
-msgstr ""
+msgstr "应用到食物和烹饪"
 
 #: 92d8208edf964e14bb7fcfb1c16914a3
 msgid ""
 "You might check the information on a packet of food, in order to help you "
 "make a decision about what to do."
-msgstr ""
+msgstr "你可能会查看食品包装上的信息，以帮助自己决定该怎么做。"
 
 #: ee9a4e3841404b64b3b1293c078944e0
 msgid ""
 "When you're looking for information - relevant facts - you do not want to be"
 " confronted by opinions, speculation, instructions or interpretation."
-msgstr ""
+msgstr "当查找信息——相关事实——时，你不希望面对观点、推测、指令或解释。"
 
 #: 6bf6fbd0db144bf0989ddc4aba1d4d2e
 msgid "Information on the back of a packet of lasagne"
-msgstr ""
+msgstr "千层面包装背面的信息"
 
 #: d3038fbe2ebe483082b781ba02222cb1
 msgid ""
@@ -257,18 +275,20 @@ msgid ""
 " should be stored, its ingredients, what health implications it might have -"
 " can find them quickly, and know you can rely on them."
 msgstr ""
+"你也期望这些信息以标准方式呈现，这样，当需要了解食物的营养属性、储存方法、"
+"成分或可能的健康影响时，就能快速找到，并相信它们可靠。"
 
 #: 93aeef90fa9e434bae8d6446217932e3
 msgid ""
 "So you expect to see for example: *May contain traces of wheat*. Or: *Net "
 "weight: 1000g*."
-msgstr ""
+msgstr "因此，你会期待看到例如： *可能含有小麦痕量成分*，或： *净含量：1000 克*。"
 
 #: 51e2fe8d3af5401b936ca985762856c7
 msgid ""
 "You will certainly not expect to find for example recipes or marketing "
 "claims mixed up with this information; that could be literally dangerous."
-msgstr ""
+msgstr "你当然不会希望食谱或营销宣传混杂在这些信息中；那确实可能造成危险。"
 
 #: 36328be346bc44aca3a2449d501b6d3a
 msgid ""
@@ -276,3 +296,5 @@ msgid ""
 "that it's usually governed by law, and the same kind of seriousness should "
 "apply to all reference documentation."
 msgstr ""
+"食品产品上参考资料的呈现方式如此重要，以至通常受法律约束；同样的严肃性也应"
+"适用于所有参考文档。"

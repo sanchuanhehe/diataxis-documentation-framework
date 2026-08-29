@@ -10,6 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-09 13:55+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Diátaxis Chinese translation contributors\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,14 +20,14 @@ msgstr ""
 
 #: 532962e408604f1db7e4cffb749a5dc2
 msgid "The compass"
-msgstr ""
+msgstr "指南针"
 
 #: 6740221476cb47acbbb0833afb4b8885
 msgid ""
 "The Diátaxis map is an effective reminder of the different kinds of "
 "documentation and their relationship, and it accords well with intuitions "
 "about documentation."
-msgstr ""
+msgstr "Diátaxis 地图能有效提醒我们不同文档类型及其关系，也很符合人们对文档的直觉。"
 
 #: 488dec8a6ff943b49f97ae6970fca5cf
 msgid ""
@@ -34,18 +35,18 @@ msgid ""
 "documentation, an author is faced with the question: *what form of "
 "documentation is this?* or *what form of documentation is needed here?* - "
 "and no obvious, intuitive answer."
-msgstr ""
+msgstr "但直觉并非总是可靠。处理文档时，作者常会面对这样的问题： *这是什么形式的文档？* 或 *这里需要什么形式的文档？* ——而没有明显、直观的答案。"
 
 #: 19bac9316c3f4e2f84eff0abd05e439b
 msgid ""
 "Worse, sometimes intuition provides an immediate answer that is also wrong."
-msgstr ""
+msgstr "更糟的是，有时直觉会立即给出答案，但答案同样是错误的。"
 
 #: 376d4088ea8d46258f6c8e293c5f6ace
 msgid ""
 "A map is most powerful in unfamiliar territory when we also have a compass "
 "to guide us."
-msgstr ""
+msgstr "在陌生领域，地图与能指引我们的指南针相配合时，最能发挥作用。"
 
 #: 14e88149987a404f969881fcfcf63482
 msgid ""
@@ -53,50 +54,52 @@ msgid ""
 "documentation. It reduces a more complex, two-dimensional problem to its "
 "simpler parts, and provides the author with a course-correction tool."
 msgstr ""
+"Diátaxis 指南针类似于文档的真值表或决策树。它把较复杂的二维问题化为更简单的"
+"部分，并为作者提供修正方向的工具。"
 
 #: 5e7f9727dbb04b62bfa1ea2b76fa45e1
 msgid "If the content..."
-msgstr ""
+msgstr "如果内容……"
 
 #: 526c59e2c0d940c9b79046a48fc21f7c
 msgid "...and serves the user's..."
-msgstr ""
+msgstr "……服务于用户的……"
 
 #: 94b486805a394b97ba0768147cc03824
 msgid "...then it must belong to..."
-msgstr ""
+msgstr "……那么它必然属于……"
 
 #: f828c72191fc4a44ad51651253f0a249 ffb6df72ddf34d76964a9a80896a5599
 msgid "informs action"
-msgstr ""
+msgstr "为行动提供信息"
 
 #: d757a2c0984242d8be8de6fab4879885 2ee0a46c9fd8467cb38fa1b6904c35b0
 msgid "acquisition of skill"
-msgstr ""
+msgstr "技能习得"
 
 #: 0c7d5fc7f7f44fa59ba665f7c4b6d7d6
 msgid "a tutorial"
-msgstr ""
+msgstr "教程"
 
 #: ce1dc1d073904f0eaea1fe04129ef794 9a672520a1204bd98c56657fc3589add
 msgid "application of skill"
-msgstr ""
+msgstr "技能应用"
 
 #: 2f80f4e346954762a9abac06ca8bd933
 msgid "a how-to guide"
-msgstr ""
+msgstr "实践指南"
 
 #: 07ec22b0b4504b74b46dcb1f658007cc 241df3eb67a94179a2d6b661fe0c2598
 msgid "informs cognition"
-msgstr ""
+msgstr "为认知提供信息"
 
 #: f41fa4283e2b4b4fad3022c5bf68322c
 msgid "reference"
-msgstr ""
+msgstr "参考资料"
 
 #: 6a3b514540c349368dc6d9dbf8acc94e
 msgid "explanation"
-msgstr ""
+msgstr "解释说明"
 
 #: 1baad74b0a804007a8d10645396fec1b
 msgid ""
@@ -104,20 +107,22 @@ msgid ""
 "documentation, or to documentation itself that perhaps needs to be moved or "
 "improved. Like many good tools, it's surprisingly banal."
 msgstr ""
+"指南针同样可用于需要文档支持的用户情境，也可用于可能需要移动或改进的文档本身。"
+"和许多好工具一样，它朴素得出人意料。"
 
 #: 77e60f58c969409e950fcae88ddc73a3
 msgid ""
 "To use the compass, just two questions need to be asked: *action or "
 "cognition?* *acquisition or application?*"
-msgstr ""
+msgstr "使用指南针，只需问两个问题： *行动还是认知？* *习得还是应用？*"
 
 #: cdace25583004046bd3c686b5be01faf
 msgid "And it yields the answer."
-msgstr ""
+msgstr "答案便会得出。"
 
 #: 6e90cfa7eb3148ad85383566ddeea9ec
 msgid "Using the compass"
-msgstr ""
+msgstr "使用指南针"
 
 #: ba79dd43116d416981b3b46447319d41
 msgid ""
@@ -126,51 +131,54 @@ msgid ""
 " a sense of doubt, or by some difficulty in the work. The compass forces you"
 " to stop and reconsider."
 msgstr ""
+"当你认为自己（或眼前的文档）正在做某件事，但又因怀疑或工作中的某种困难而不安"
+"时，指南针尤其有效。它迫使你停下来重新审视。"
 
 #: aa7cb346ce464283a95545f29337025a
 msgid ""
 "Especially when you are trying to find your initial bearings, use the "
 "compass's terms flexibly; don't get fixated on the exact names."
-msgstr ""
+msgstr "尤其是在最初辨明方向时，应灵活使用指南针的术语；不要执着于名称的精确表述。"
 
 #: ecd0c8f6dcb548ecadd29bcf4a92e0d6
 msgid "*action*: practical steps, doing"
-msgstr ""
+msgstr "*行动*：实际步骤、动手做"
 
 #: 3ec6ddd265f347c0ac4640b4129eef9d
 msgid "*cognition*: theoretical or propositional knowledge, thinking"
-msgstr ""
+msgstr "*认知*：理论性或命题性知识、思考"
 
 #: 75bd1ed5b3ca41939cba8e0ab90dafd5
 msgid "*acquisition*: study"
-msgstr ""
+msgstr "*习得*：学习"
 
 #: a276cb5c19df40bbb2dd9f1a019c7472
 msgid "*application*: work"
-msgstr ""
+msgstr "*应用*：工作"
 
 #: 93e8b8485c5b40d8a5890d0dd933fb9a
 msgid "And the questions themselves can also be used in different ways:"
-msgstr ""
+msgstr "这些问题本身也可以用不同方式提出："
 
 #: 9681c3729c174135b71ae436593f42e3
 msgid "Do I think I am writing for *x* or *y*?"
-msgstr ""
+msgstr "我认为自己是在为 *x* 还是 *y* 写作？"
 
 #: cde63f587196467f9b362699a238d480
 msgid "Is this writing in front of me engaged in *x* or *y*?"
-msgstr ""
+msgstr "眼前这段文字是在进行 *x* 还是 *y*？"
 
 #: 955cf283b7a6473abf45a7fc02cdb955
 msgid "Does the user need *x* or *y*?"
-msgstr ""
+msgstr "用户需要 *x* 还是 *y*？"
 
 #: 14e5e7bee96c4485ae448c7840c740d1
 msgid "Do I want to *x* or *y*?"
-msgstr ""
+msgstr "我想要 *x* 还是 *y*？"
 
 #: 39c75509f8dc46caba7b100b8d471d75
 msgid ""
 "And try applying them close-up, at the level of sentences and words, or from"
 " a wider perspective, considering an entire document."
 msgstr ""
+"还可以近距离地在句子和词语层面应用它们，或从更广阔的角度审视整篇文档。"

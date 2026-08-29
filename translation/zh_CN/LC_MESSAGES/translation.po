@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-08-29 00:00+0800\n"
+"Last-Translator: Diátaxis Chinese translation contributors\n"
 "Language: zh_CN\n"
 "Language-Team: zh_CN <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -21,46 +21,33 @@ msgstr ""
 
 #: ../../source/translation.rst:2
 msgid "Help translate Diátaxis"
-msgstr ""
+msgstr "帮助翻译 Diátaxis"
 
 #: ../../source/translation.rst:4
 msgid ""
 "If you'd like to help translate Diátaxis into your language, that would "
 "be very welcome."
-msgstr ""
-
-#: ../../source/translation.rst:6
-msgid ""
-"See the `staging version of this site with translations <https"
-"://diataxis-translated.readthedocs.io>`_."
-msgstr ""
-
-#: ../../source/translation.rst:8
-msgid ""
-"Currently it's set up for French, Italian, Portuguese and Polish, but "
-"others can be added on request and will be published there when more "
-"translations are added."
-msgstr ""
+msgstr "如果愿意帮助将 Diátaxis 翻译成你的语言，我们非常欢迎。"
 
 #: ../../source/translation.rst:10
 msgid ""
 "As soon as a translation is complete, I will publish it on "
 "https://diataxis.fr."
-msgstr ""
+msgstr "翻译一完成，我就会将其发布到 https://diataxis.fr。"
 
 #: ../../source/translation.rst:14
 msgid "Translation guide"
-msgstr ""
+msgstr "翻译指南"
 
 #: ../../source/translation.rst:17
 msgid ""
 "The best way to contribute to translation is via `Transifex "
 "<https://transifex.com>`_, where you'll need an account."
-msgstr ""
+msgstr "参与翻译的最佳方式是使用 `Transifex <https://transifex.com>`_，你需要在该平台拥有账号。"
 
 #: ../../source/translation.rst:21
 msgid "Joining a language team"
-msgstr ""
+msgstr "加入语言团队"
 
 #: ../../source/translation.rst:23
 msgid ""
@@ -69,6 +56,8 @@ msgid ""
 "`Join this project "
 "<https://app.transifex.com/join/?o=danieleprocida&p=diataxis&t=opensource>`_."
 msgstr ""
+"前往 `Transifex 上的 Diátaxis 页面 <https://explore.transifex.com/danieleprocida/diataxis/>`_，"
+"并选择 `加入此项目 <https://app.transifex.com/join/?o=danieleprocida&p=diataxis&t=opensource>`_。"
 
 #: ../../source/translation.rst:25
 msgid ""
@@ -78,60 +67,53 @@ msgid ""
 "dashboard <https://app.transifex.com/home/>`_ will remain blank until I "
 "do."
 msgstr ""
+"在那里可以选择加入所感兴趣语言的翻译团队。之后我会收到你的加入请求通知，并将你"
+"加入团队。在此之前，你自己的 `Transifex 控制面板 <https://app.transifex.com/home/>`_ 会保持空白。"
 
 #: ../../source/translation.rst:27
 msgid ""
 "By all means email me to let me know, because the Transifex notifications"
 " don't come in immediately."
-msgstr ""
+msgstr "也欢迎给我发邮件告知，因为 Transifex 的通知不会立即送达。"
 
 #: ../../source/translation.rst:31
 msgid "Translating"
-msgstr ""
+msgstr "翻译"
 
 #: ../../source/translation.rst:33
 msgid ""
 "Once you've been added to the team, you'll see an overview of the "
 "available languages. You can see all of them, but can only translate the "
 "one whose team you're in."
-msgstr ""
-
-#: ../../source/translation.rst:35
-msgid ""
-"Translation takes place page by page and then string by string - little "
-"fragments of the overall text. When you save a transalation string, it's "
-"marked as translated. I get notifications of these, and periodically I'll"
-" pull them down into the repository and publish a new version of the site"
-" containing them."
-msgstr ""
+msgstr "加入团队后，你会看到可用语言的概览。可以查看所有语言，但只能翻译自己所属团队的语言。"
 
 #: ../../source/translation.rst:39
 msgid "References and file names"
-msgstr ""
+msgstr "引用和文件名"
 
 #: ../../source/translation.rst:41
 msgid ""
 "Don't translate names of files or Sphinx references. For example, if you "
 "see the string ``:doc:`tutorials` - learning-oriented experiences`` you "
 "need to leave ``tutorials`` as it is."
-msgstr ""
+msgstr "不要翻译文件名或 Sphinx 引用。例如，若看到字符串 ``:doc:`tutorials` - learning-oriented experiences``，必须保持 ``tutorials`` 不变。"
 
 #: ../../source/translation.rst:43
 msgid ""
 "Right now page URLs are *not* being translated, so the French page for "
 "*Tutoriels* will be at https://diataxis-"
 "translated.readthedocs.io/fr/tutorials/."
-msgstr ""
+msgstr "目前页面 URL *不会* 翻译，因此法语的 *Tutoriels* 页面地址会是 https://diataxis-translated.readthedocs.io/fr/tutorials/。"
 
 #: ../../source/translation.rst:45
 msgid ""
 "That's not very elegant, but at this stage I don't know if there is an "
 "alternative."
-msgstr ""
+msgstr "这并不十分优雅，但现阶段我不知道是否有替代方案。"
 
 #: ../../source/translation.rst:49
 msgid "Placeholders"
-msgstr ""
+msgstr "占位符"
 
 #: ../../source/translation.rst:51
 msgid ""
@@ -140,21 +122,23 @@ msgid ""
 "content>`_ for functional Sphinx references. Your translation should "
 "include the placeholders too."
 msgstr ""
+"在 Transifex 中，有时会看到用于功能性 Sphinx 引用的 `带编号占位符 "
+"<https://help.transifex.com/en/articles/6240403-translating-html-content>`_。译文中也应保留这些占位符。"
 
 #: ../../source/translation.rst:55
 msgid "Translation practice"
-msgstr ""
+msgstr "翻译实践"
 
 #: ../../source/translation.rst:58
 msgid "Where to start"
-msgstr ""
+msgstr "从哪里开始"
 
 #: ../../source/translation.rst:60
 msgid ""
 "**The first page to translate** (Transifex calls pages \"resources) for a"
 " new language should be *Start here*. It should also be the first one to "
 "refer to if you're contributing to an existing language."
-msgstr ""
+msgstr "新语言 **第一个要翻译的页面** （Transifex 将页面称为“资源”）应是 *从此开始*。为已有语言贡献时，也应优先参照该页面。"
 
 #: ../../source/translation.rst:62
 msgid ""
@@ -163,10 +147,12 @@ msgid ""
 " you will encounter elsewhere. It should be a good guide to translation "
 "decisions in general."
 msgstr ""
+"原因在于，它在一页中涵盖整个 Diátaxis，并汇集了几乎所有会在其他地方遇到的专用"
+"术语和词形。它应能为一般的翻译决策提供良好指引。"
 
 #: ../../source/translation.rst:66
 msgid "What to aim for"
-msgstr ""
+msgstr "应追求什么"
 
 #: ../../source/translation.rst:68
 msgid ""
@@ -174,7 +160,7 @@ msgid ""
 "their own language**. Even if it's common to use the English term \"how-"
 "to\" in your language, I don't want the translations to do that. They "
 "should find a native alternative, and use it consistently."
-msgstr ""
+msgstr "我希望译文能用 **目标语言自身** 恰当地翻译关键术语。即使你的语言中常用英文 “how-to”，我也不希望译文这样做；应找到本族语的替代说法，并一致使用。"
 
 #: ../../source/translation.rst:70
 msgid ""
@@ -184,44 +170,35 @@ msgid ""
 "be idiomatic and sound unforced. Use native sentence structures and "
 "constructions. If better metaphors or turns of phrase exist in your "
 "language, use those. I'll be happy to discuss those questions."
-msgstr ""
+msgstr "与保留我用英语表达的方式相比，我更在意 Diátaxis 中 **思想的含义和力度**。我当然不想要、也不期待逐字翻译。译文应符合语言习惯、读来不显生硬；请使用本族语的句式和结构。若你的语言中有更好的隐喻或措辞，请用它们。我很乐意讨论这些问题。"
 
 #: ../../source/translation.rst:74
 msgid "Be aware of context"
-msgstr ""
+msgstr "注意语境"
 
 #: ../../source/translation.rst:76
 msgid ""
 "**Take note of the bigger picture.** When you're looking at string by "
 "string translations, it's easy to acquire tunnel vision and lose "
 "awareness of the context."
-msgstr ""
+msgstr "**留意整体图景。** 逐条查看字符串译文时，很容易产生管中窥豹式的视野，丢失对上下文的意识。"
 
 #: ../../source/translation.rst:80
 msgid "Correcting and updating others' translations"
-msgstr ""
+msgstr "修正和更新他人的译文"
 
 #: ../../source/translation.rst:82
 msgid ""
 "I expect that translation will be collaborative work involving multiple "
 "translators, not all of whom might agree on how to translate a particular"
 " string."
-msgstr ""
+msgstr "我预计翻译将是一项涉及多位译者的协作工作，未必所有人都会同意某条字符串应如何翻译。"
 
 #: ../../source/translation.rst:84
 msgid ""
 "If you see something that's clearly wrong (spelling, grammar, "
 "punctuation, lost meaning, unidiomatic rendering) correct it."
-msgstr ""
-
-#: ../../source/translation.rst:86
-msgid ""
-"If it's more complex, and seems like a stylistic choice or a question of "
-"judgement, it would be good to discuss it first. There is a `Transifex "
-"forum for this project "
-"<https://app.transifex.com/danieleprocida/teams/120528/discussions/>`_, "
-"or you cqn raise the question with me."
-msgstr ""
+msgstr "如果看到明显错误（拼写、语法、标点、意思丢失或表达不地道），请修正它。"
 
 #: ../../source/translation.rst:90
 msgid ""
@@ -230,6 +207,8 @@ msgid ""
 "<https://github.com/evildmp/diataxis-documentation-"
 "framework/blob/main/LICENSE.rst>`_."
 msgstr ""
+"翻译贡献采用 `知识共享 署名-相同方式共享 4.0 国际许可协议 <https://github.com/evildmp/diataxis-documentation-"
+"framework/blob/main/LICENSE.rst>`_。"
 
 #~ msgid ""
 #~ "Currently it's set up for French, "
@@ -244,3 +223,18 @@ msgstr ""
 #~ "<https://explore.transifex.com/danieleprocida/diataxis/>`_."
 #~ msgstr ""
 
+#: ../../source/translation.rst:6
+msgid "Currently, the only other language available is Polish."
+msgstr "目前唯一可用的其他语言是波兰语。"
+
+#: ../../source/translation.rst:8
+msgid "Translation is in progress for various other languages, including French, Italian, Portuguese (Brazil), Chinese (Simplified), Korean and Japanese. Others can be added on request and will be published there when more translations are added."
+msgstr "其他多种语言的翻译也在进行中，包括法语、意大利语、葡萄牙语（巴西）、简体中文、韩语和日语。可根据请求添加其他语言；有更多译文时，也会在那里发布。"
+
+#: ../../source/translation.rst:35
+msgid "Translation takes place page by page and then string by string - little fragments of the overall text. When you save a translation string, it's marked as translated. I get notifications of these, and periodically I'll pull them down into the repository and publish a new version of the site containing them."
+msgstr "翻译先逐页进行，再逐条处理字符串，也就是整篇文本中的小片段。保存一条译文后，它会被标记为已翻译。我会收到通知，并定期将译文拉取到代码仓库，发布包含这些译文的新网站版本。"
+
+#: ../../source/translation.rst:86
+msgid "If it's more complex, and seems like a stylistic choice or a question of judgement, it would be good to discuss it first. There is a `Transifex forum for this project <https://app.transifex.com/danieleprocida/teams/120528/discussions/>`_, or you can raise the question with me."
+msgstr "如果情况更复杂，像是风格选择或判断问题，最好先讨论。项目有一个 `Transifex 论坛 <https://app.transifex.com/danieleprocida/teams/120528/discussions/>`_，你也可以向我提出问题。"

@@ -48,7 +48,7 @@ html_context = {
         # ["fr", "Français"],
         # ["it", "Italiano"],
         # ["pt_BR", "Português"],
-        # ["zh_CN", "简体中文"],
+        ["zh_CN", "简体中文"],
         # ["de", "Deutsche"],
         # ["ja", "日本語"],
     ],

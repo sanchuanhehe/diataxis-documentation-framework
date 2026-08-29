@@ -10,6 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-09 13:55+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Diátaxis Chinese translation contributors\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,14 +20,14 @@ msgstr ""
 
 #: fec319631b1448fbb6f788ef38d14439
 msgid "Foundations"
-msgstr ""
+msgstr "理论基础"
 
 #: 8641783c413b4bf3b2cb731d42f3fcab
 msgid ""
 "Diátaxis is successful because it *works* - both users and creators have a "
 "better experience of documentation as a result. It makes sense and it feels "
 "right."
-msgstr ""
+msgstr "Diátaxis 之所以成功，是因为它 *有效*：用户和创建者都因此获得更好的文档体验。它合乎道理，也感觉正确。"
 
 #: 59f54ad2c37e410fad2fd673b679eb57
 msgid ""
@@ -35,24 +36,24 @@ msgid ""
 "show that there is actually some reason why there are exactly four kinds of "
 "documentation, not three or five. It needs to demonstrate rigorous thinking "
 "and analysis, and that it stands on a sound theoretical foundation."
-msgstr ""
+msgstr "不过，这还不足以让我们确信 Diátaxis 是一套文档理论。作为理论，它需要说明自己 *为什么* 有效；需要说明文档类型恰好是四种、而不是三种或五种，确有理由；还需要展示严谨的思考和分析，并证明它建立在稳固的理论基础上。"
 
 #: d125ba031fa448ceb331fddbf89df8f9
 msgid ""
 "Otherwise, it will be just another useful heuristic approach, and the "
 "strongest claim we can make for it is that \"it seems to work quite well\"."
-msgstr ""
+msgstr "否则，它只会是又一种有用的启发式方法，而我们对它最强的主张也只能是“它似乎相当有效”。"
 
 #: cd124bc7ae834854b4897cdde46ca7cc
 msgid "Two dimensions of craft"
-msgstr ""
+msgstr "技艺的两个维度"
 
 #: bca7be6623524ca8b334b13452b2886a
 msgid ""
 "Diátaxis is based on the principle that documentation must serve the needs "
 "of its users. Knowing how to do that means understanding what the needs of "
 "users are."
-msgstr ""
+msgstr "Diátaxis 基于这样一项原则：文档必须服务其用户的需求。要做到这一点，就须理解用户需要什么。"
 
 #: 5943642b0d374e4ca996676a2f11877c
 msgid ""
@@ -61,17 +62,17 @@ msgid ""
 "product is a craft. So is an entire discipline or profession. Using a "
 "programming language is a craft, as is flying a particular aircraft, or even"
 " being a pilot in general."
-msgstr ""
+msgstr "Diátaxis 所服务的用户是 *某一技能领域的实践者*。技能领域由一种技艺界定——使用工具或产品是一种技艺，完整的学科或职业也是。使用一种编程语言是技艺，驾驶某种飞机是技艺，甚至作为飞行员本身也是。"
 
 #: 8d2ea77c498e4b1dbc078ba995bfb363
 msgid ""
 "Understanding the needs of these users means in turn understanding the "
 "essential characteristics of craft or skill."
-msgstr ""
+msgstr "理解这些用户的需求，进而意味着理解技艺或技能的本质特征。"
 
 #: 3d6d516307ed41b7a316d2f0af19b09e
 msgid "Action/cognition"
-msgstr ""
+msgstr "行动／认知"
 
 #: 68769a428e464bb4809b30eda3fc4acb
 msgid ""
@@ -80,11 +81,11 @@ msgid ""
 " *that*, what we think). The two are completely bound up with each other, "
 "but they are counterparts, wholly distinct from each other, two different "
 "aspects of the same thing."
-msgstr ""
+msgstr "一种技能、技艺或实践同时包含 **行动** （实践知识、知道 *如何*、我们所做的事）和 **认知** （理论知识、知道 *什么*、我们所想的事）。二者完全交织，却又互为对应，彼此截然不同，是同一事物的两个不同方面。"
 
 #: c8a92a8d27c5478f9cb459b6caffda8a
 msgid "Acquisition/application"
-msgstr ""
+msgstr "习得／应用"
 
 #: 1f9c2c27b2b942cb902a25193c7a949e
 msgid ""
@@ -93,21 +94,21 @@ msgid ""
 "\"at work\" (concerned with applying the skill and knowledge of their craft)"
 " and being \"at study\" (concerned with acquiring them) are once again "
 "counterparts, distinct but bound up with each other."
-msgstr ""
+msgstr "同样，实践者与其技艺的关系在于：它既需要被 **习得**，也需要被 **应用**。“处于工作中”（关注应用技艺的技能和知识）与“处于学习中”（关注习得它们）同样互为对应，既不同又交织。"
 
 #: d432d672fc544981b20618fdbba74838
 msgid "The map of the territory"
-msgstr ""
+msgstr "领域地图"
 
 #: 15cd97147fa04a0683dccec4bbbb7b55
 msgid ""
 "This gives us two dimensions of skill, that we can lay out on a map - a map "
 "of the territory of craft:"
-msgstr ""
+msgstr "这给出了技能的两个维度，可将其铺陈在一张地图上——一张技艺领域的地图："
 
 #: f43870fbbb02402f92f28847f98fcf62 915328085b384934886dd134246db9dd
 msgid "The territory of craft as a two-dimensional map"
-msgstr ""
+msgstr "以二维地图表示的技艺领域"
 
 #: 28c0a32f86b0423aba373426d377c08e
 msgid ""
@@ -115,7 +116,7 @@ msgid ""
 " cover the entire territory, they define it. This is why there are "
 "necessarily four quarters to it, and there could not be three, or five. It "
 "is not an arbitrary number."
-msgstr ""
+msgstr "这是一张 *完整的* 地图。它只有两个维度，二者不仅覆盖整个领域，还定义了该领域。因此它必然有四个象限，不可能是三个或五个；这不是任意的数字。"
 
 #: a09cf34de127447eb0880e64bbe82c0b
 msgid ""
@@ -123,11 +124,11 @@ msgid ""
 " idea that documentation must serve the needs of craft is applied to this "
 "map, it reveals in turn what documentation must be and do to fulfil those "
 "obligations - in four distinct ways."
-msgstr ""
+msgstr "它还展示了定义各象限的技艺 *特质*。当把“文档必须服务技艺的需求”这一理念应用到这张地图时，它进而揭示文档为履行这些责任必须成为什么、做什么——以四种截然不同的方式。"
 
 #: 7007146631cd437c8ac6eb3772d80592
 msgid "Serving needs"
-msgstr ""
+msgstr "服务需求"
 
 #: e1b8bb920ac24255abacbf10edcbd1eb
 msgid ""
@@ -136,77 +137,79 @@ msgid ""
 " documentation do to align with these qualities of skill, and to what need "
 "is it oriented in each case?"
 msgstr ""
+"技艺领域地图正是我们熟悉的 Diátaxis 文档地图的来源。实际上，这张地图回答的是："
+"文档必须做什么，才能与这些技能特质相一致；在每种情形中，它面向的是哪一种需求？"
 
 #: 1a09e0d1c53542d0bd78ae770cb29099
 msgid ""
 "We can see how the map of documentation addresses *needs* across those two "
 "dimensions, each need also defined by the characteristics of its quarter of "
 "the map."
-msgstr ""
+msgstr "可以看到，文档地图如何在两个维度上回应 *需求*，每种需求也由所在地图象限的特征界定。"
 
 #: 2d973d487969406bb7a24151966620f5
 msgid "need"
-msgstr ""
+msgstr "需求"
 
 #: 2fef7cc884bc419bbe03ff8741ad65dc
 msgid "addressed in"
-msgstr ""
+msgstr "由……回应"
 
 #: a21c07300bbb4a6298f1088bfd637791
 msgid "the user"
-msgstr ""
+msgstr "用户"
 
 #: 20726ba0e98049a28e75d5869c262902
 msgid "the documentation"
-msgstr ""
+msgstr "文档"
 
 #: b96955993e28498b839fc5849744abeb
 msgid "learning"
-msgstr ""
+msgstr "学习"
 
 #: f8b763a56b3746d58756dc2e840dbea6
 msgid "tutorials"
-msgstr ""
+msgstr "教程"
 
 #: 71bed2e58cb546c9ad1564dd3eb9524a 7408849212de4a67896114cb09bed1b6
 msgid "acquires their craft"
-msgstr ""
+msgstr "习得其技艺"
 
 #: a745f7c2ae384920a61b86424f319f7c 9cb5e5b161bb4bf1a98b94eed440880f
 msgid "informs action"
-msgstr ""
+msgstr "为行动提供信息"
 
 #: 05325e08276a447ca87f77126635f79c
 msgid "goals"
-msgstr ""
+msgstr "目标"
 
 #: a5670f3c861b414eae84fcc69201df55
 msgid "how-to guides"
-msgstr ""
+msgstr "实践指南"
 
 #: a7a1aacf466649f28710d2a468d9e961 fc2c056760a243b59f41dbbf18df1301
 msgid "applies their craft"
-msgstr ""
+msgstr "应用其技艺"
 
 #: 7ae66dac5c8f41cf977aebc34e351167
 msgid "information"
-msgstr ""
+msgstr "信息"
 
 #: 16f5c558a40745189540a1b0f41057f1
 msgid "reference"
-msgstr ""
+msgstr "参考资料"
 
 #: 5a27ba57d48a49a381a2895880d24de3 eed2283995a84877a34aa5a4f59df884
 msgid "informs cognition"
-msgstr ""
+msgstr "为认知提供信息"
 
 #: 42c3ec02df6740b88483ee663c0e727f
 msgid "understanding"
-msgstr ""
+msgstr "理解"
 
 #: 2055e3bbff7e4efcbe004e86d44254df
 msgid "explanation"
-msgstr ""
+msgstr "解释说明"
 
 #: 673c4efeb51d4e8c95cfc4a5bcbfafab
 msgid ""
@@ -214,7 +217,7 @@ msgid ""
 " a map is only reliable if it adequately describes a reality. Diátaxis is "
 "underpinned by a systematic description and analysis of generalised **user "
 "needs**."
-msgstr ""
+msgstr "Diátaxis 文档地图是一个易于记忆和理解的概念。但地图唯有充分描述现实才可靠。Diátaxis 以对一般化 **用户需求** 的系统描述和分析为基础。"
 
 #: 136fdadb841348599cc9192f58ff1d66
 msgid ""
@@ -223,3 +226,5 @@ msgid ""
 " practitioners in a craft. This is why there are four and only four types of"
 " documentation. There is simply no other territory to cover."
 msgstr ""
+"这就是为什么 Diátaxis 的教程、实践指南、参考资料和解释说明，完整枚举了服务某种"
+"技艺实践者的文档类型；这就是为什么文档有且仅有四类。没有其他领域需要覆盖。"

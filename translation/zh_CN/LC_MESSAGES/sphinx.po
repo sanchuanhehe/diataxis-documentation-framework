@@ -10,6 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-10 08:57+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Diátaxis Chinese translation contributors\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,24 +20,24 @@ msgstr ""
 
 #: 51465188c69646a0bbedad2eb3417d9b
 msgid "Next"
-msgstr ""
+msgstr "下一页"
 
 #: 729a61b8697941bb9ad1ffa0d928e81b
 msgid "Previous"
-msgstr ""
+msgstr "上一页"
 
 #: 85bd2d30aeb3433d80caa3bc5614b4e0
 msgid "Home"
-msgstr ""
+msgstr "首页"
 
 #: 486690d3d9984baf89bf4f789a36b5e0
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
-msgstr ""
+msgstr "<a href=\"%(path)s\">版权</a> &#169; %(copyright)s"
 
 #: 74792d06efb14cd8984df83bdc066d38
 msgid "Copyright &#169; %(copyright)s"
-msgstr ""
+msgstr "版权 &#169; %(copyright)s"
 
 #: ce36840190774eb2ba9f9f90897ecb44
 msgid "Last updated on %(last_updated)s"
-msgstr ""
+msgstr "最后更新于 %(last_updated)s"

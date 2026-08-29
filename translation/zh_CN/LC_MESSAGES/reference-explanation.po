@@ -10,6 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-09 13:55+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Diátaxis Chinese translation contributors\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,14 +20,14 @@ msgstr ""
 
 #: fa78790502084fb2883653353d462bdb
 msgid "The difference between reference and explanation"
-msgstr ""
+msgstr "参考资料与解释说明的区别"
 
 #: 31183f50a39f4b42b58054665d09dd77
 msgid ""
 "Explanation and reference both belong to the *theory* half of the Diátaxis "
 "map - they don't contain steps to guide the reader, they contain theoretical"
 " knowledge."
-msgstr ""
+msgstr "解释说明和参考资料都属于 Diátaxis 地图的 *理论* 半边：它们不包含引导读者的步骤，而是提供理论知识。"
 
 #: f6149b7797a645b8bd528dee2a88e880
 msgid ""
@@ -34,18 +35,18 @@ msgid ""
 " and how-to guides - the difference between the *acquisition* of skill and "
 "knowledge, and its *application*. In other words it's the distinction "
 "between *study* and *work*."
-msgstr ""
+msgstr "二者的区别——正如教程和实践指南的区别——在于技能与知识的 *习得* 和 *应用* 之别。换言之，即 *学习* 与 *工作* 的区别。"
 
 #: ab0e3bba23d5424eb99e563172726ecd
 msgid "A straightforward distinction, *mostly*"
-msgstr ""
+msgstr "一个大体上直观的区别"
 
 #: b67ac36165e94536851a50c34d216918
 msgid ""
 "Mostly it's fairly straightforward to recognise whether you're dealing with "
 "one or the other. *Reference*, as a form of writing, is well understood; "
 "it's used in distinctions we make about writing from an early age."
-msgstr ""
+msgstr "大多数时候，很容易识别面对的是哪一种。 *参考资料* 作为一种写作形式已广为人知；从很小的时候起，我们便在关于写作的区分中使用它。"
 
 #: 1da8dfedd1554323bb9c1ad325487930
 msgid ""
@@ -53,46 +54,46 @@ msgid ""
 "other. A tidal chart, with its tables of figures, is clearly reference "
 "material. An article that explains *why* there are tides and how they behave"
 " is self-evidently explanation."
-msgstr ""
+msgstr "此外，写作实例本身通常也明显属于某一类。潮汐表及其数值表格显然是参考资料；解释潮汐 *为什么* 产生以及其行为方式的文章，则显然是解释说明。"
 
 #: 8f5b1c49b45b43afa3c6b5ead3b22ac1
 msgid "There are good rules of thumb:"
-msgstr ""
+msgstr "有一些很好的经验法则："
 
 #: 245cd4d193c84bfea7998add3fdffa0c
 msgid "**If it's boring and unmemorable** it's probably *reference*."
-msgstr ""
+msgstr "**如果它枯燥且难以记住**，那大概就是 *参考资料*。"
 
 #: 0e4c7ed2db474de0a2f64e20996293ce
 msgid ""
 "**Lists of things** (such as classes or methods or attributes), and **tables"
 " of information**, will generally turn out to belong in *reference*."
-msgstr ""
+msgstr "**事物清单** （例如类、方法或属性）和 **信息表格**，通常都属于 *参考资料*。"
 
 #: 35c17447eae84f419a684397a5af6847
 msgid ""
 "On the other hand **if you can imagine reading something in the bath**, "
 "probably, it's *explanation* (even if really there is no accounting for what"
 " people might read in the bath)."
-msgstr ""
+msgstr "反之， **如果你能想象在泡澡时阅读某些内容**，那大概是 *解释说明* （尽管人们会在泡澡时读什么，实在无法一概而论）。"
 
 #: 1376214dcdbc4604bd720a94f8ad32de
 msgid ""
 "Imagine asking a friend, while out for a walk or over a drink, **Can you "
 "tell me more about <topic>?** - the answer or discussion that follows is "
 "most likely going to be an *explanation* of it."
-msgstr ""
+msgstr "设想你在散步或喝一杯时问朋友： **能否再多讲讲 <topic>？** ——随后的回答或讨论很可能就是对该主题的 *解释说明*。"
 
 #: 48444b768439439a9d5ad16039630306
 msgid "... but intuition isn't reliable enough"
-msgstr ""
+msgstr "……但直觉并不够可靠"
 
 #: 2da7b01507794773a648d48894034386
 msgid ""
 "Mostly we can rely safely on intuition to manage the distinction between "
 "reference and explanations. But only *mostly* - because it's also quite easy"
 " to slip between one form and the other."
-msgstr ""
+msgstr "大多数时候，我们可放心依靠直觉来区分参考资料和解释说明。但仅仅是 *大多数时候*：因为也很容易从一种形式滑向另一种。"
 
 #: 3b4eeeaa39cc49bb8c231e5271f70601
 msgid ""
@@ -102,7 +103,7 @@ msgid ""
 " - but examples are fun things to develop, and it can be tempting to develop"
 " them into explanation (using them to say *why*, or show *what if*, or how "
 "it came to be)."
-msgstr ""
+msgstr "这种情况通常发生在撰写逐渐扩展的参考资料时。例如，在参考资料中加入说明性示例完全合理（如同百科全书会包含插图）；但示例很有意思，容易让人将其发展为解释说明（用来说明 *为什么*、展示 *如果怎样*，或解释其如何形成）。"
 
 #: 455e4a92633743f39959a0d5ba0f6616
 msgid ""
@@ -111,10 +112,12 @@ msgid ""
 "it's bad for the explanation too, because it's not allowed to develop "
 "appropriately and do its own work."
 msgstr ""
+"结果是，参考资料中常常夹杂解释性材料。这对参考资料不利，因为它被旁枝打断和"
+"遮蔽；对解释说明也不利，因为它无法得到恰当展开，完成自身的工作。"
 
 #: 5a5e54c3da164b68aaa17f274cab9016
 msgid "Work and study"
-msgstr ""
+msgstr "工作与学习"
 
 #: 88e1c3b634d54ac2bb26b6850c6ef913
 msgid ""
@@ -124,32 +127,35 @@ msgid ""
 "task? Or is it something they'd need once they have stepped away from the "
 "work, and want to think about it?"
 msgstr ""
+"不过，若不确定某项内容究竟应是参考资料还是解释说明，真正的检验是：人们会在工作"
+"中——也就是实际完成某事、执行任务时——查阅它吗？还是会在离开工作后、想要思考"
+"相关内容时才需要它？"
 
 #: 2bd37322df3640abb2f4349c4ff00f3f
 msgid ""
 "These are two very fundamentally different *needs* of the reader, that "
 "reflect how, at that moment, the reader stands in relation to the craft in "
 "question, in a relationship of *work* or *study*."
-msgstr ""
+msgstr "这是读者两种根本不同的 *需求*，反映出读者当下与所涉技艺处于 *工作* 或 *学习* 的关系。"
 
 #: 448a7d7f54524d49ab14170b93e7b102
 msgid "To help avoid being misled by intuition, see :ref:`compass`."
-msgstr ""
+msgstr "为避免被直觉误导，请参阅 :ref:`compass`。"
 
 #: 5e6826cabe52466aa3634f12899eb3d3
 msgid ""
 "**Reference** is what a user needs in order help *apply* knowledge and "
 "skill, while they are working."
-msgstr ""
+msgstr "**参考资料** 是在工作中 *应用* 知识和技能时，用户所需要的内容。"
 
 #: 156dd9867291405a83c69277c70ae5c7
 msgid ""
 "**Explanation** is what someone will turn to to help them *acquire* "
 "knowledge and skill - \"study\"."
-msgstr ""
+msgstr "**解释说明** 是帮助人们 *习得* 知识和技能——即“学习”——时会查阅的内容。"
 
 #: a67dbf385b8e41ceab8d9f5294bb280c
 msgid ""
 "Understanding those two relationships and responding to the needs in them is"
 " the key to creating effective reference and explanation."
-msgstr ""
+msgstr "理解这两种关系，并回应其中的需求，是创建有效参考资料和解释说明的关键。"

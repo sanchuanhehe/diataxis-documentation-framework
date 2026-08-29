@@ -148,6 +148,10 @@ class news_item(nodes.Element):
     """Placeholder node replaced at doctree-resolved time."""
 
 
+class news_item_title(nodes.paragraph):
+    """Translatable title rendered as a fixed-level heading."""
+
+
 class NewsItemDirective(Directive):
     required_arguments = 1  # the title
     final_argument_whitespace = True
@@ -181,7 +185,6 @@ class NewsItemDirective(Directive):
         # which would otherwise corrupt the level of any real heading that
         # follows the directive.
         anchor_id = f"news-{slug}"
-        safe_title = html.escape(title)
         open_section = nodes.raw(
             "",
             f'<section id="{anchor_id}" class="news-item">',
@@ -190,12 +193,10 @@ class NewsItemDirective(Directive):
         open_aside = nodes.raw(
             "", '<div class="news-item-aside">', format="html"
         )
-        heading_html = (
-            f'<h2>{safe_title}'
-            f'<a class="headerlink" href="#{anchor_id}" '
-            f'title="Link to this heading">¶</a></h2>'
-        )
-        heading = nodes.raw("", heading_html, format="html")
+        heading = news_item_title(title, title)
+        heading["anchor_id"] = anchor_id
+        heading.source = self.state.document.current_source
+        heading.line = self.lineno
         close_aside = nodes.raw("", "</div>", format="html")
         close_section = nodes.raw("", "</section>", format="html")
 
@@ -248,16 +249,25 @@ def collect_entries(app, doctree, docname):
     build-finished, where the builder's writer has a fully-configured
     document/settings to drive the translator.
     """
+    if app.builder.format != "html":
+        return
+
     env = app.builder.env
     if not hasattr(env, "_atomfeed_entries"):
         env._atomfeed_entries = []
 
-    for node in doctree.traverse(news_item):
+    translated_titles = {
+        title["anchor_id"]: title.astext()
+        for title in doctree.findall(news_item_title)
+    }
+    for node in doctree.findall(news_item):
         env._atomfeed_entries.append(
             {
                 "docname": docname,
                 "date": node["date"],
-                "title": node["title"],
+                "title": translated_titles.get(
+                    f"news-{node['slug']}", node["title"]
+                ),
                 "slug": node["slug"],
                 "body_nodes": node["body_nodes"],
             }
@@ -404,9 +414,24 @@ def on_html_page_context(app, pagename, templatename, context, doctree):
 
 
 def on_build_finished(app, exception):
-    if exception is not None:
+    if exception is not None or app.builder.format != "html":
         return
     build_feed(app)
+
+
+def skip_news_item(self, node):
+    raise nodes.SkipNode
+
+
+def visit_news_item_title(self, node):
+    anchor_id = node["anchor_id"]
+    title = html.escape(node.astext())
+    self.body.append(
+        f'<h2>{title}'
+        f'<a class="headerlink" href="#{anchor_id}" '
+        f'title="Link to this heading">¶</a></h2>'
+    )
+    raise nodes.SkipNode
 
 
 # ---------------------------------------------------------------------------
@@ -417,9 +442,13 @@ def on_build_finished(app, exception):
 def setup(app):
     app.add_node(
         news_item,
-        html=(lambda self, node: None, lambda self, node: None),
-        latex=(lambda self, node: None, lambda self, node: None),
-        text=(lambda self, node: None, lambda self, node: None),
+        html=(skip_news_item, lambda self, node: None),
+        latex=(skip_news_item, lambda self, node: None),
+        text=(skip_news_item, lambda self, node: None),
+    )
+    app.add_node(
+        news_item_title,
+        html=(visit_news_item_title, lambda self, node: None),
     )
     app.add_directive("news-item", NewsItemDirective)
 

@@ -58,7 +58,10 @@ html-pl:
 html-ja:
 	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=ja $(SOURCEDIR) $(HTMLDIR)/ja
 
-html-all: html html-pl
+html-zh_CN:
+	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=zh_CN $(SOURCEDIR) $(HTMLDIR)/zh_CN
+
+html-all: html html-pl html-zh_CN
 
 run-all: html-all run
 
