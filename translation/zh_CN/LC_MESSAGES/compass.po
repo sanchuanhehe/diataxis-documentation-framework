@@ -108,7 +108,7 @@ msgid ""
 "improved. Like many good tools, it's surprisingly banal."
 msgstr ""
 "指南针同样可用于需要文档支持的用户情境，也可用于可能需要移动或改进的文档本身。"
-"和许多好工具一样，它朴素得出人意料。"
+"和许多好工具一样，它出人意料地平淡无奇。"
 
 #: 77e60f58c969409e950fcae88ddc73a3
 msgid ""

@@ -50,7 +50,7 @@ msgid ""
 "which overall patterns emerge."
 msgstr ""
 "Diátaxis 提供的工作方法有悖于文档领域许多被普遍接受的智慧。尤其是，它不鼓励"
-"规划和自上而下的工作流，转而偏好细小、响应式的迭代，并让总体模式从中涌现。"
+"规划和自上而下的工作流，转而偏好小步、灵活应变的迭代，让整体模式从中自然涌现。"
 
 #: 6b18b6544c36461c891efbfb45acf336
 msgid "Use Diátaxis as a guide, not a plan"
@@ -110,7 +110,7 @@ msgid ""
 " material under a certain Diátaxis heading - and that is how your top-level "
 "structure will form. In other words, **Diátaxis changes the structure of "
 "your documentation from the inside**."
-msgstr "相反，遵循后两节描述的工作流程，按 Diátaxis 原则在看到改进机会之处进行改动，让文档逐渐形成某种形态。到某一时刻，已作出的改动似乎会要求你把材料移到某个Diátaxis 标题下——顶层结构便会如此形成。换言之， **Diátaxis 从内部改变文档结构。**"
+msgstr "相反，遵循后两节描述的工作流程，按 Diátaxis 原则在看到改进机会之处进行改动，让文档逐渐形成某种形态。到某一时刻，已作出的改动似乎会要求你把材料移到某个 Diátaxis 标题下——顶层结构便会如此形成。换言之， **Diátaxis 从内部改变文档结构。**"
 
 #: 3a2cfeebc0ba4dc5b88c68e9f68b3747
 msgid "Work one step at a time"
@@ -198,7 +198,7 @@ msgid ""
 "do. It keeps work flowing in the right direction, always towards the desired"
 " end, without having to expend energies on a plan."
 msgstr ""
-"这样工作有助于减轻文档作者工作中最令人瘫痪、最棘手的一方面所带来的压力：弄清"
+"这样工作，有助于减轻文档作者工作里最令人一筹莫展、最麻烦的一环带来的压力：想清楚"
 "该做什么。它让工作持续朝正确方向流动，始终指向期望的终点，无需在计划上耗费精力。"
 
 #: 3bef7bf3491c4347ad04daf923432e7c

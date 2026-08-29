@@ -181,7 +181,7 @@ msgid ""
 "**Take note of the bigger picture.** When you're looking at string by "
 "string translations, it's easy to acquire tunnel vision and lose "
 "awareness of the context."
-msgstr "**留意整体图景。** 逐条查看字符串译文时，很容易产生管中窥豹式的视野，丢失对上下文的意识。"
+msgstr "**留意整体图景。** 逐条查看字符串译文时，很容易视野变得狭窄，只见树木不见森林，失去对语境的感知。"
 
 #: ../../source/translation.rst:80
 msgid "Correcting and updating others' translations"

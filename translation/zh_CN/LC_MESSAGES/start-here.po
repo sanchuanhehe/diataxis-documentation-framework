@@ -25,7 +25,7 @@ msgstr ""
 msgid ""
 "The best way to get started with Diátaxis is by applying it to documentation"
 " problems."
-msgstr "开始使用 Diátaxis 的最佳方式，就是将其用于文档问题上。"
+msgstr "开始使用 Diátaxis 的最佳方式，就是把它用到真实的文档问题上去。"
 
 #: ../../source/start-here.rst:7
 msgid "Start here - Diátaxis in five minutes"
@@ -43,7 +43,7 @@ msgid ""
 " or to start using it in practice. In fact I recommend that you don't. **The"
 " best way to get started with Diátaxis is by applying it** - to something, "
 "however small."
-msgstr "理解或在实践中使用 Diátaxis，不需要读完本网站上的所有内容。实际上，我不推荐你这么做。 **入门 Diátaxis 的最好途径是实践它**，在事情中应用它，哪怕是很小的事。"
+msgstr "理解或在实践中使用 Diátaxis，不需要读完本网站上的所有内容。实际上，我不推荐你这么做。 **入门 Diátaxis 的最好途径，就是去应用它**——应用到某个对象上，无论它多小。"
 
 #: ../../source/start-here.rst:15
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "kinds of documentation, that respond to four different needs. The four kinds"
 " are: *tutorials*, *how-to guides*, *reference* and *explanation*. Each has "
 "a different purpose, and needs to be written in a different way."
-msgstr "Diátaxis 的核心思想是：从根本上说，文档有四种泾渭分明的类型，它们分别回应了四种的不同的需求。四种类型是： *教程*， *实践指南*， *参考资料* 和 *解释说明* 。每一种都有不同的目的，撰写方式也各有不同。"
+msgstr "Diátaxis 的核心思想是：从根本上说，文档有四种泾渭分明的类型，它们分别回应四种不同的需求。四种类型是： *教程*， *实践指南*， *参考资料* 和 *解释说明* 。每一种都有不同的目的，撰写方式也各有不同。"
 
 #: ../../source/start-here.rst:26
 msgid "Tutorials"
@@ -124,14 +124,14 @@ msgstr ":ref:`实践指南详解 <how-to>`"
 msgid ""
 "**A how-to guide addresses a real-world goal or problem**, by providing "
 "practical directions to help the user who is in that situation."
-msgstr "**实践指南通过给出实用的操作方向，回应用户在现实世界中的目标或问题。**"
+msgstr "**实践指南面向现实世界中的目标或问题**，通过提供实用的操作指引，帮助身处相应情境的用户。"
 
 #: ../../source/start-here.rst:51
 msgid ""
 "A how-to guide always addresses an already-competent user, who is expected "
 "to be able to use the guide to help them get their work done. In contrast to"
 " a tutorial, a how-to guide is concerned with *work* rather than *study*."
-msgstr "实践指南总是面向已经具备能力的用户；应当能够借助它完成自己的工作。与教程相比，实践指南关注的是 *工作*，而不是 *学习*。"
+msgstr "实践指南总是面向已经具备相应能力的用户，他们应当能够借助它来完成自己的工作。与教程相比，实践指南关注的是 *工作*，而不是 *学习*。"
 
 #: ../../source/start-here.rst:53
 msgid ""
@@ -199,7 +199,7 @@ msgid ""
 "**Explanatory guides provide context and background.** They serve the need "
 "to understand and put things in a bigger picture. Explanation joins things "
 "together, and helps answer the question *why?*"
-msgstr "**解释说明提供语境和背景。** 它满足理解事物并将其置于更大图景中的需要。解释说明把各个要素联结起来，帮助回答 *为什么？*"
+msgstr "**解释说明提供语境和背景。** 它服务于人们理解事物、并将其置于更宏大图景之中的需要。解释说明把各个要素联结起来，帮助回答 *为什么？*"
 
 #: ../../source/start-here.rst:83
 msgid ""
@@ -222,7 +222,7 @@ msgid ""
 "minimal explanation (\"Here, we use HTTPS because it's safer\") and then "
 "link to an in-depth article (*Secure communication using HTTPS encryption*) "
 "for when the user is ready for it."
-msgstr "教程作者常因担心学生应当 *理解* 知识，而在教程中塞入干扰且无益的解释。这不如先向学习者给出最精简的说明（“这里使用 HTTPS，因为它更安全”），再链接一篇深入文章（ *使用 HTTPS 加密进行安全通信*），等用户准备好时再阅读。"
+msgstr "教程作者常因担心学生应当 *掌握* 知识，而往教程里塞满分散注意力、毫无助益的解释。更好的做法是先给学习者最精简的说明（“这里使用 HTTPS，因为它更安全”），再链接一篇深入文章（ *使用 HTTPS 加密进行安全通信*），等用户准备好时再读。"
 
 #: ../../source/start-here.rst:93
 msgid "The Diátaxis map"
@@ -243,13 +243,13 @@ msgid ""
 "Diátaxis is not just a list of four different things, but a conceptual "
 "arrangement of them. It shows how the four kinds of documentation are "
 "related to each other, and distinct from each other."
-msgstr "Diátaxis 并非四种事物的清单，而是对它们的概念性编排。它展示四类文档如何彼此关联，又如何相互区分。"
+msgstr "Diátaxis 不只是四种事物的清单，更是对它们的概念化组织。它展示四类文档如何彼此关联，又如何相互区分。"
 
 #: ../../source/start-here.rst:103
 msgid ""
 "Crossing or blurring the boundaries described in the map is at the heart of "
 "a vast number of problems in documentation."
-msgstr "地图所描述的边界一旦被跨越或模糊，便会成为大量文档问题的根源。"
+msgstr "跨越或模糊地图所描绘的边界，正是大量文档问题的核心症结。"
 
 #: ../../source/start-here.rst:105
 msgid "Diátaxis"
@@ -295,7 +295,7 @@ msgid ""
 "But a map doesn't tell you what to *do* - it's reference. To guide your "
 "action you need a different sort of tool, in this case, a kind of Diátaxis "
 "compass."
-msgstr "但地图不会告诉你该 *怎么做* ——它属于参考资料。要引导行动，你需要另一种工具；在这里，它就是一种 Diátaxis 指南针。"
+msgstr "但地图不会告诉你该 *怎么做*——它本身就是参考资料。要引导行动，你需要另一种工具；在这里，它就是一种 Diátaxis 指南针。"
 
 #: ../../source/start-here.rst:128
 msgid ":ref:`The compass in more detail <compass>`"
@@ -385,7 +385,7 @@ msgstr ":ref:`how-to-use-diataxis`"
 msgid ""
 "Consider what you see in the documentation, in front of you right now (which"
 " might be literally nothing, if you haven't started yet)."
-msgstr "想想此刻眼前的文档内容（若你尚未开始，它可能确实什么也没有）。"
+msgstr "思考一下你眼前此刻的文档内容（如果你还没开始动笔，它或许真的什么也没有）。"
 
 #: ../../source/start-here.rst:175
 msgid "Ask: *is there any way in which it could be improved?*"

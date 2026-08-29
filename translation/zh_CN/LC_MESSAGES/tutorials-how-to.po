@@ -28,7 +28,7 @@ msgid ""
 "distinction that’s often not made; in fact the single most common conflation"
 " made in software product documentation is that between the *tutorial* and "
 "the *how-to guide*."
-msgstr "在 Diátaxis 中，教程和实践指南有着严格的区别。这种区别往往未被明确区分；事实上，软件产品文档中最常见的混淆便是将 *教程* 与 *实践指南* 混为一谈。"
+msgstr "在 Diátaxis 中，教程和实践指南有着严格的区别。这是一种常常被忽略的区分；事实上，软件产品文档中最常见的混淆，就是把 *教程* 和 *实践指南* 混为一谈。"
 
 #: e1d9db4dd6e343d68d301ed4d4a5cadc
 msgid ""
@@ -52,7 +52,7 @@ msgid ""
 "are both practical guides: they contain directions for the user to follow. "
 "They’re not there to explain or convey information. They exist to guide the "
 "user in what to *do* rather than what there is *to know or understand*."
-msgstr "在许多重要方面，教程和实践指南确实相似。它们都是实用指南：包含用户需遵循的指引。它们存在的目的并非解释或传递信息，而是指导用户做该做的事情，而非让他们去了解或理解那些知识。"
+msgstr "在许多重要方面，教程和实践指南确实相似。它们都是实用指南：包含用户需遵循的指引。它们的存在，是为了引导用户 *该做什么*，而不是该 *知道或理解什么*。"
 
 #: 29d29825a44f4aac871e827fa0150db3
 msgid ""
@@ -62,7 +62,7 @@ msgid ""
 "their hands on the machinery, ready to do things. They both describe ordered"
 " sequences of actions. You can’t expect success unless you perform the "
 "actions in the right order."
-msgstr "两者都为读者设定了需遵循的步骤，并承诺若按此执行即可达成成功的结论。除非用户亲身操作相关设备、准备采取行动，否则这两者都毫无意义。它们都描述了有序的行动序列。若不按正确顺序执行这些行动，便无法获得成功。"
+msgstr "两者都为读者设定了需遵循的步骤，并承诺若按此执行即可达成成功的结论。对没有亲手操作设备、准备动手的用户来说，两者都没什么意义。它们都描述了有序的行动序列。若不按正确顺序执行这些行动，便无法获得成功。"
 
 #: 532cf96268be43eb977562dfe0756928
 msgid ""
@@ -85,7 +85,7 @@ msgstr "Diátaxis 坚持认为，文档中重要的是用户需求，只有关�
 msgid ""
 "Sometimes the user is **at study**, and sometimes the user is **at work**. "
 "Documentation has to serve both those needs."
-msgstr "有时用户处于 **习得** 状态，有时用户处于 **应用** 状态。文档必须同时满足这两方面的需求。"
+msgstr "有时用户处于 **学习** 状态，有时用户处于 **工作** 状态。文档必须同时满足这两方面的需求。"
 
 #: 2a84edbd89e6460e8e41b3e0b443d9c9
 msgid ""
@@ -96,11 +96,11 @@ msgid ""
 "and they are why the distinction between tutorials and how-to guides "
 "matters: tutorials are **learning-oriented**, and how-to guides are **task-"
 "oriented**."
-msgstr "**教程** 服务于处于 **习得** 状态的用户。它的义务是 *提供成功的学习体验*。 **实践指南** 服务于处于 **应用** 状态的用户。它的义务是 *帮助用户完成任务*。这些是完全不同的需求和义务，也是区分 **教程** 和 **实践指南** 的重要性所在： **教程** 是 **以学习为导向** 的，而 **实践指南** 是 **以任务为导向** 的。"
+msgstr "**教程** 服务于处于 **学习** 状态的用户。它的义务是 *提供成功的学习体验*。 **实践指南** 服务于处于 **工作** 状态的用户。它的义务是 *帮助用户完成任务*。这些是完全不同的需求和义务，也是区分 **教程** 和 **实践指南** 的重要性所在： **教程** 是 **以学习为导向** 的，而 **实践指南** 是 **以任务为导向** 的。"
 
 #: 7d8d10eecb17456a9f86d5372223a358
 msgid "At study and at work"
-msgstr "习得与应用"
+msgstr "学习与工作"
 
 #: 343aa3371cde4ecc9be42450de1f155e
 msgid ""
@@ -115,11 +115,11 @@ msgid ""
 "skills*, and sometimes you will be in study situations, *acquiring skills* "
 "(all good doctors, even those with long careers behind them, continue to "
 "study to improve their skills)."
-msgstr "作为医生，有时你会处于工作状态， *应用你的技能*，有时你会处于学习状态， *习得技能* （所有优秀的医生，即使那些职业生涯已长的人，也会继续学习以提高技能）。"
+msgstr "作为医生，有时你会处于工作状态， *应用你的技能*，有时你会处于学习状态， *习得技能* （所有优秀的医生，即便是那些有着漫长职业生涯的人，也会继续学习以提高技能）。"
 
 #: 9689594d8dbe49e69a7ea88b7024019f
 msgid "At study"
-msgstr "习得"
+msgstr "在学习中"
 
 #: c8bea69d5d8244e5b10fb8735e0fc487
 msgid ""
@@ -141,7 +141,7 @@ msgid ""
 "has done, that it deserves such a nasty scratch). Your neighbour will look "
 "dismayed at their own attempt, a ragged cut of wildly uneven depths that "
 "looks like something from a knife-fight."
-msgstr "然后轮到你了。你将拿起手术刀，试探性地将其在垫子顶端划动，并对顶层造成一道无效切口（也许教学助教会取笑你，问道：这可怜的小垫子究竟做了什么，值得遭受如此粗暴的划痕）。你的邻居则对自己那次的尝试感到沮丧——一道参差不齐、深度极不匀称的割裂口，看起来像是电影中的刀光剑影。"
+msgstr "然后轮到你了。你将拿起手术刀，试探性地将其在垫子顶端划动，并对顶层造成一道无效切口（也许教学助教会取笑你，问道：这可怜的小垫子究竟做了什么，值得遭受如此粗暴的划痕）。你的邻居则对自己那次的尝试感到沮丧——一道参差不齐、深浅不一的乱切口，像是持刀斗殴留下的伤。"
 
 #: 6687d1988d3f442d969d62264755333a
 msgid ""
@@ -158,7 +158,7 @@ msgid ""
 "thread. You will hold things in the wrong hand and the wrong way round and "
 "put them down in the wrong places. You will drop the needle. The thread will"
 " fall out. You will be told off for failing to maintain sterility."
-msgstr "但如今你被要求再次将伤口缝合起来！你将观看导师灵巧而精准地演示，仅用几针均匀整齐的缝线便将垫子上的伤口闭合。而你，另一方面，则会笨手笨脚地与线团纠缠不清。你将用错手、拿反物件，并将它们随意放置在不该放的地方。你会掉落针头，线头会从布料中脱落。你还会因未能维持无菌状态而受到斥责。"
+msgstr "但如今你被要求再次将伤口缝合起来！你将观看导师灵巧而精准地演示，仅用几针均匀整齐的缝线便将垫子上的伤口闭合。而你，另一方面，则会笨手笨脚地与线团纠缠不清。你将用错手、拿反物件，并将它们随意放置在不该放的地方。你会掉针，线也会从针眼里滑落。你还会因未能维持无菌状态而受到斥责。"
 
 #: c3d18b1c9c2a4ec9b31ba108289dcb07
 msgid ""
@@ -175,7 +175,7 @@ msgid ""
 "this lesson again and again, and bit by bit your fumbling will turn into "
 "confident practice. You will have acquired basic competence. You will have "
 "**learned by doing**."
-msgstr "但是， *你将缝合了自己的第一道伤口*。你将一次又一次地回到这一课，一点一点地将笨拙的操作转化为自信的实践。你将具备基本的能力。你将通过实践 **学会了如何做事**。"
+msgstr "但是， *你将缝合了自己的第一道伤口*。你将一次又一次地回到这一课，一点一点地将笨拙的操作转化为自信的实践。你将具备基本的能力。你 **通过动手而学会了**。"
 
 #: b2d45edcf36044219e09f00b3a7c6653
 msgid ""
@@ -268,7 +268,7 @@ msgid ""
 "The tutorial follows a **carefully-managed path**, starting at a given point"
 " and working to a conclusion. Along that path, the learner must have the "
 "*encounters* that the lesson requires."
-msgstr "教程遵循一条 **精心管理的路径**，从给定的起点开始工作直至得出结论。沿着这条路径，学习者必须经历课程所要求的 *遭遇*。"
+msgstr "教程遵循一条 **精心管理的路径**，从给定的起点开始工作直至得出结论。沿着这条路径，学习者必须获得课程所要求的那些 *相遇*。"
 
 #: 21e67af39ebd49e7aa1b24952fdf3384
 msgid ""
@@ -283,7 +283,7 @@ msgid ""
 "language, the processes and the way that what they’re working with behaves "
 "and responds, and so on. Its job is to introduce them, manufacturing a "
 "structured, repeatable encounter with them."
-msgstr "教程让学习者 *熟悉* 工作：包括工具、语言、流程，以及他们所操作对象的行为和响应方式等等。它的职责是向他们介绍这些内容，制造出结构化、可重复的遭遇体验。"
+msgstr "教程让学习者 *熟悉* 工作：包括工具、语言、流程，以及他们所操作对象的行为和响应方式等等。它的职责是引介这些东西，营造出有结构、可重复的相遇。"
 
 #: 6b824546de064f519ccf96d3b8aa3c07
 msgid "The how-to guide can and should **assume familiarity** with them all."
@@ -294,7 +294,7 @@ msgid ""
 "The tutorial takes place in a **contrived setting**, a learning environment "
 "where as much as possible is set out in advance to ensure a successful "
 "experience."
-msgstr "教程发生在一种 **人为设定的环境中**，即学习环境中尽可能预先布置一切以确保成功的体验。"
+msgstr "教程发生在一种 **人为搭建的场景** 中，即一个事先尽可能安排妥当、以确保体验成功的学习环境。"
 
 #: fcbf237f63354a46bd80993dcdf20aff
 msgid ""
@@ -347,7 +347,7 @@ msgstr "在教程中， **责任在于教师**。如果学习者陷入麻烦，�
 msgid ""
 "In a how-to guide, **the user has responsibility** for getting themselves in"
 " and out of trouble."
-msgstr "在实践指南中， **用户有责任** 让自己进退自如。"
+msgstr "在实践指南中， **责任在用户**——自己惹的麻烦，自己脱身。"
 
 #: 6dff502c5d57467c8fde4a4fac17d309
 msgid ""
@@ -406,7 +406,7 @@ msgid ""
 "None of these distinctions are arbitrary. They all emerge from the "
 "distinction between **study** and **work**, which we understand as a key "
 "distinction in making sense of what the user of documentation needs."
-msgstr "这些区别并非随意划定。它们均源于 **学习** 与 **工作** 之间的区别，我们将其视为理解文档用户需求的關鍵区别。"
+msgstr "这些区别并非随意划定。它们均源于 **学习** 与 **工作** 之间的区别，我们将其视为理解文档用户需求的关键区别。"
 
 #: 7687d053c9cf45b8b705d14440e5d997
 msgid "The basic and the advanced"
@@ -424,7 +424,7 @@ msgid ""
 "After all, tutorials are for learners, while how-to guides are for already-"
 "skilled practitioners. Tutorials must cover the basics, while how-to guides "
 "have to deal with complexities that learners should not have to face."
-msgstr "毕竟，教程面向学习者，而实践指南面向已具备技能的从业者。教程必须涵盖基础知识，而实践指南则需处理学习者不应面对复杂问题。"
+msgstr "毕竟，教程面向学习者，而实践指南面向已具备技能的从业者。教程必须涵盖基础知识，而实践指南则需处理学习者不应面对的复杂问题。"
 
 #: 34134457d6844f6998205f20b640e366
 msgid ""
@@ -497,7 +497,7 @@ msgid ""
 "our documentation doesn’t bring them to success - if it doesn’t meet the "
 "needs that they have at a particular stage in their cycle of interaction "
 "with our product - they will find something else that does, if they can."
-msgstr "此外，我们也在损害自身。用户并非必须使用我们的产品。如果我们的文档不能引领他们走向成功——即不能满足他们在与产品互动周期中特定阶段的需求——而他们也找得到能实现这一目标的其他东西，那么他们会转向那些替代方案。"
+msgstr "此外，我们也在损害自身。用户并非必须使用我们的产品。如果我们的文档不能让他们成功——不能满足他们在与产品互动的特定阶段所抱有的需求——那么只要他们找得到能满足这些需求的其他东西，就会转向别处。"
 
 #: d7cf2baf2d1f4661a19f7de1739c8b4a
 msgid ""

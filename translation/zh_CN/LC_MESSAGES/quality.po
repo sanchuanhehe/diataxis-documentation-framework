@@ -63,7 +63,7 @@ msgid ""
 "*consistency*, *usefulness*, *precision* and so on. We can call these "
 "aspects of its **functional quality**. Documentation that fails to meet any "
 "one of them is failing to perform one of its key functions."
-msgstr "我们需要文档符合 *准确性*、 *完整性*、 *一致性*、 *有用性*、 *精确性* 等标准。这些方面可称为其 **功能质量**。任何一项未达标的文档，都是未能履行其关键功能之一。"
+msgstr "我们需要文档符合 *准确性*、 *完整性*、 *一致性*、 *有用性*、 *精确性* 等标准。这些方面可称为其 **功能质量**。在任何一项上未达标的文档，都未能履行其一项关键功能。"
 
 #: dd0d0da980864fedbea6c1178a783f44
 msgid ""
@@ -104,7 +104,7 @@ msgid ""
 "ambition. True excellence in documentation implies characteristics of "
 "quality that are not included in accuracy, completeness and so on."
 msgstr ""
-"仅有功能质量并不足够，甚至不能作为令人满意的追求。文档真正的卓越，意味着具有"
+"仅有功能质量并不足够；以它作为唯一的追求，甚至不能令人满意。文档真正的卓越，意味着具有"
 "不包含在准确性、完整性等之内的质量特征。"
 
 #: 8c9a60b698974f288a0a8d0074fb49ed
@@ -343,7 +343,7 @@ msgid ""
 "concerned only with certain aspects of deep quality, some more than others -"
 " though if all the aspects of deep quality are tangled up in each other, "
 "then it affects all of them."
-msgstr "**Diátaxis 无法解决文档的功能质量。** 它只关注深层质量的某些方面，有些方面多于其他方面；不过，若深层质量的所有方面彼此纠缠，它便会影响到所有方面。"
+msgstr "**Diátaxis 无法解决文档的功能质量。** 它只关注深层质量的某些方面——有的方面多一些，有的少一些；不过，如果深层质量的所有方面都彼此缠绕，那么它也会影响到所有方面。"
 
 #: 10496a5331654090b2c50deb5927c1c5
 msgid "Exposing lapses in functional quality"

@@ -26,13 +26,13 @@ msgstr "实践指南"
 msgid ""
 "How-to guides are **directions** that guide the reader through a problem or "
 "towards a result. How-to guides are **goal-oriented**."
-msgstr "实践指南 **是指引读者解决问题或达成结果的说明**。实践指南 **以目标为导向**。"
+msgstr "实践指南是 **方向指引**，引导读者解决问题或走向结果。实践指南 **以目标为导向**。"
 
 #: 13f78e9ba1fb4f87a9a2bcad799e6755
 msgid ""
 "A how-to guide helps the user get something done, correctly and safely; it "
 "guides the user's *action*."
-msgstr "实践指南帮助用户正确且安全地完成某项任务；它引导用户的 *行动*"
+msgstr "实践指南帮助用户正确且安全地完成某项任务；它引导用户的 *行动*。"
 
 #: a5df78efd18142dbbb7c05f63ddbb15e
 msgid ""
@@ -58,7 +58,7 @@ msgid ""
 "things: the list of how-to guides in your documentation helps frame the "
 "picture of what your product can actually *do*. A rich list of how-to guides"
 " is an encouraging suggestion of a product's capabilities."
-msgstr "实践指南之所以重要，不仅是因为用户需要能够完成任务：你的文档中的实践指南列表有助于勾勒产品实际能 *做什么* 的图景。丰富的实践指南列表是对产品功能的一种鼓励性提示。"
+msgstr "实践指南之所以重要，不仅是因为用户需要能够完成任务：你的文档中的实践指南列表有助于勾勒产品实际能 *做什么* 的图景。一份丰富的实践指南清单，是对产品能力的鼓舞人心的展示。"
 
 #: 85615afb69ee4ad994d0a005ed877957
 msgid ""
@@ -182,7 +182,7 @@ msgid ""
 "need to fork and overlap, and they have multiple entry and exit-points. "
 "Often, a how-to guide will need the user to rely on their judgement in "
 "applying the guidance it can provide."
-msgstr "另一种混淆在于，人们常将实践指南仅视为步骤清单。然而，解决问题或完成一项任务并不总能简化为线性流程。现实世界的问题往往不会自动呈现线性解法。实践指南中的行动序列有时需要分支和重叠，且具备多个入口点和出口点。通常情况下，实践指南需要用户依据自身判断来应用其所提供的指引。"
+msgstr "另一种混淆在于，人们常把实践指南仅当作按部就班的流程指引。然而，解决问题或完成一项任务并不总能简化为线性流程。现实世界的问题往往不会自动呈现线性解法。实践指南中的行动序列有时需要分支和重叠，且具备多个入口点和出口点。通常情况下，实践指南需要用户依据自身判断来应用其所提供的指引。"
 
 #: 0502dd6c726041fa9d1b293d357579b2
 msgid "Key principles"
@@ -217,7 +217,7 @@ msgid ""
 "provide reference for completeness. Neither of these are part of guiding the"
 " user in their work. They get in the way of the action; if they're "
 "important, link to them."
-msgstr "任何额外添加的内容都会分散你和用户的注意力，并稀释指南的实用效力。通常，诱惑在于为了完整性而进行解释或提供参考资料。这两者都不属于指导用户工作的一部分。它们会妨碍行动；如果它们很重要，请提供链接。"
+msgstr "任何额外添加的内容，都会分散你和用户的注意力，削弱指南的实际作用。通常，诱惑在于为了完整性而进行解释或提供参考资料。这两者都不属于指导用户工作的一部分。它们会妨碍行动；如果它们很重要，请提供链接。"
 
 #: 780bf79e382c44bdbd1fba104706b197
 msgid ""
@@ -237,7 +237,7 @@ msgid ""
 "addressed is rarely valuable. You can't address every possible case, so you "
 "must find ways to remain open to the range of possibilities, in such a way "
 "that the user can adapt your guidance to their needs."
-msgstr "**实践指南需要适应现实世界的使用场景**。除了你具体解决的狭窄用途外，对任何目的都无用的指南很少有价值。你无法处理所有可能的情况，因此必须找到保持开放以涵盖各种可能性的方法，使得用户能够根据你的指导适应自身需求。"
+msgstr "**实践指南需要适应现实世界的使用场景**。除了你具体解决的狭窄用途外，对任何目的都无用的指南很少有价值。你无法覆盖所有情况，因此必须设法对各种可能性保持开放，让用户能根据自己的需要来活用你的指引。"
 
 #: faf9ae4505a34e12ab43d350fb67feda
 msgid "Omit the unnecessary"
@@ -323,14 +323,14 @@ msgid ""
 " their work? How long do you require the user to hold thoughts open before "
 "they can be resolved in action? If you require the user to jump back to "
 "earlier concerns, is this necessary or avoidable?"
-msgstr "同样，这有时显而易见：让用户在多个上下文和工具间反复切换的工作流程显然笨拙且效率低下。但你要看得更深入。你在要求用户思考什么？他们在工作中从主题到主题的思维流如何展开？你要求用户在将其在行动中解决之前保持开放的想法多久？如果你要求用户跳回早期关注点，这是必要的还是可避免的？"
+msgstr "同样，这有时显而易见：让用户在多个上下文和工具间反复切换的工作流程显然笨拙且效率低下。但你要看得更深入。你在要求用户思考什么？在工作中，他们的思绪如何从一个主题流向另一个？你让用户把尚未落地的念头悬多久，之后才能在行动中落实？如果你要求用户回头处理更早的顾虑，这有必要吗，还是可以避免？"
 
 #: 01eef272d9bd4ae8bbf98a55808c6e67
 msgid ""
 "A how-to guide is concerned not just with logical ordering in time, but "
 "action taking place in time. Action, and a guide to it, has pace and rhythm."
 " Badly-judged pace or disrupted rhythm are both damaging to flow."
-msgstr "实践指南不仅关乎时间上的逻辑顺序，更关乎时间在行动中的展开。行动及其指南具有节奏与步调。不当的节奏或被打乱的节奏都会损害流畅感。"
+msgstr "实践指南不仅关乎时间上的逻辑顺序，更关乎行动在时间中的展开。行动，以及关于行动的指南，都有各自的节奏与步调。拿捏失当的节奏，或被打断的韵律，都会破坏流畅感。"
 
 #: fc723b39d1d74a199ecb94fe3ddf5861
 msgid ""
@@ -338,7 +338,7 @@ msgid ""
 "experience of encountering a guide that appears to *anticipate* the user - "
 "the documentation equivalent of a helper who has the tool you were about to "
 "reach for, ready to place it in your hand."
-msgstr "在最佳状态下，如何操作文档会给用户带来流畅感。遇到似乎能 *预判* 用户需求的指南是一种独特的体验——这相当于文档版的助手，拿着你正要伸手去拿的工具，随时准备递到你手中。"
+msgstr "实践指南文档做到最好时，能给用户带来流畅感。遇到似乎能 *预判* 用户需求的指南是一种独特的体验——这相当于文档版的助手，拿着你正要伸手去拿的工具，随时准备递到你手中。"
 
 #: bf7b3d69136b4ed3a063372f1f0a9b5b
 msgid "Pay attention to naming"
@@ -399,7 +399,7 @@ msgstr "*有关选项的完整列表，请参阅 x 参考资料。*"
 msgid ""
 "Don't pollute your practical how-to guide with every possible thing the user"
 " might do related to x."
-msgstr "切勿将用户可能与 x 相关的每项可能操作都塞入你的实用实践指南中，以免造成污染。"
+msgstr "不要把你撰写的实用实践指南，塞满用户围绕 x 可能做的每一件事，以免把它搞得杂乱无章。"
 
 #: b7029e53851640efa952095b520a1983
 msgid "Applied to food and cooking"
@@ -422,14 +422,14 @@ msgid ""
 "something. A professional chef who has made exactly the same thing multiple "
 "times before may still follow a recipe - even if they *created* the recipe "
 "themselves - to ensure that they do it correctly."
-msgstr "食谱的责任并非 *教授* 你如何制作某物。一位曾多次精准制作完全相同菜肴的专业厨师，在遵循食谱时——即使该食谱由其本人 *创作* ——仍能确保操作正确。"
+msgstr "食谱的责任并非 *教授* 你如何制作某物。一位多次做过完全相同菜肴的专业厨师，也仍会照着食谱做——哪怕这食谱就是他本人写的——以确保做对。"
 
 #: f06beffe4b2d4bb6be138c349edbe184
 msgid ""
 "Even following a recipe **requires at least basic competence**. Someone who "
 "has never cooked before should not be expected to follow a recipe with "
 "success, so a recipe is not a substitute for a cooking lesson."
-msgstr "即便遵循食谱 **也至少需要基本能力**。从未下过厨房的人不应被期待能成功遵循食谱，因此食谱不能替代烹饪课程。"
+msgstr "即便遵循食谱 **也至少需要基本能力**。从未做过饭的人，不应指望单靠一份食谱就能做成功，因此食谱不能替代烹饪课。"
 
 #: 9de01fec08614f49ab76ec09549d0882
 msgid ""
@@ -440,4 +440,4 @@ msgid ""
 " of trying to make it. A good recipe follows a well-established format, that"
 " excludes both teaching and discussion, and focuses only on **how** to make "
 "the dish concerned."
-msgstr "若某人期望获得食谱却得到烹饪课程，难免失望恼怒。同理，虽然了解特定菜肴的背景或历史颇有趣味，但你最不希望面对这些的时候正是亲手制作其间。优质食谱遵循既定的标准格式，既排除教学与讨论，仅聚焦于 **如何** 制作相应菜肴。"
+msgstr "若某人期望获得食谱却得到烹饪课程，难免失望恼怒。同理，虽然了解特定菜肴的背景或历史颇有趣味，但你最不希望面对这些的时候正是亲手制作其间。优质食谱遵循既定的标准格式，排除教学与讨论，只聚焦于 **如何** 制作相应菜肴。"

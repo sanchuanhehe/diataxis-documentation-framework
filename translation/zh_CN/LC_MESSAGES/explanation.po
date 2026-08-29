@@ -56,8 +56,8 @@ msgid ""
 "to be bounded in a reasonable, meaningful way."
 msgstr ""
 "解释说明的视角比其他三种类型更高、更宽。它不像实践指南那样采取用户平视的视角，"
-"也不像参考资料那样近距离观察设备。它每次的范围是一个主题——“一个知识领域”，"
-"必须以合理且有意义的方式界定。"
+"也不像参考资料那样近距离观察设备。在每一种情形下，它所处理的范围都是一个主题——"
+"“一个知识领域”，必须以合理且有意义的方式界定。"
 
 #: 53fe9cf3cb054041bf0c7625f968fb81
 msgid ""
@@ -91,7 +91,7 @@ msgid ""
 "but it's no less *important*. It's not a luxury. No practitioner of a craft "
 "can afford to be without an understanding of that craft, and needs the "
 "explanatory material that will help weave it together."
-msgstr "解释说明的特点是与实践者的当下关切保持距离。它不直接影响实践者的行动或工作，因此有时被认为不那么重要。这是错误的：它可能不如其他三类 *紧迫*，但丝毫不较不 *重要*。它不是奢侈品。任何技艺的实践者都不能缺少对该技艺的理解，需要能帮助把知识编织在一起的解释性材料。"
+msgstr "解释说明的特点是与实践者的当下关切保持距离。它不直接影响实践者的行动或工作，因此有时被认为不那么重要。这是错误的：它可能不如其他三类 *紧迫*，但重要性却毫不逊色。它不是奢侈品。任何技艺的实践者都不能缺少对该技艺的理解，需要能帮助把知识编织在一起的解释性材料。"
 
 #: 2c35d6b5f7f04af8b90c0a1d8bd305b5
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "to form that web that helps hold everything together. Without it, the "
 "practitioner's knowledge of their craft is loose and fragmented and fragile,"
 " and their exercise of it is *anxious*."
-msgstr "理解并不 *来自* 解释说明，但解释说明是形成那张帮助将一切联系起来的网所必需的。没有它，实践者关于技艺的知识会松散、零碎而脆弱，实践时便会感到 *焦虑*。"
+msgstr "理解并不 *来自* 解释说明，但解释说明是织就那张联系一切之网所必需的。没有它，实践者关于技艺的知识会松散、零碎而脆弱，实践时便会感到 *焦虑*。"
 
 #: 44891fbe078f4ce4a58220dae36dbb86
 msgid "Explanation and its boundaries"
@@ -152,7 +152,7 @@ msgid ""
 "Instead, explanation tends to be scattered in small parcels in other "
 "sections."
 msgstr ""
-"解释说明常未被明确识别为文档类型；需要解释事物的想法也往往表达得很微弱。相反，"
+"解释说明常未被明确识别为文档类型；需要解释这一想法，也往往只得到模糊的表达。相反，"
 "解释内容倾向于零散地分布在其他章节中。"
 
 #: 81edd35b01ca46bfb0a67b016a0d5823
@@ -234,7 +234,7 @@ msgid ""
 "should be able to place an implicit (or even explicit) *about* in front of "
 "each title. For example: *About user authentication*, or *About database "
 "connection policies*."
-msgstr "解释指南是主题的 *相关内容*，也就是围绕主题展开。解释指南的名称也应反映这一点；应能在每个标题前加上隐含（甚至明确）的“关于”。例如： *关于用户认证* 或 *关于数据库连接策略*。"
+msgstr "解释指南 *关乎* 某个主题，也就是说它们围绕主题展开。解释指南的名称也应反映这一点；应能在每个标题前加上隐含（甚至明确）的“关于”。例如： *关于用户认证* 或 *关于数据库连接策略*。"
 
 #: 7bad92f28053497a866a0413b6f903b0
 msgid "Admit opinion and perspective"
