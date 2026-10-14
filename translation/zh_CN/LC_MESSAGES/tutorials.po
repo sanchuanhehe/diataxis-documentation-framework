@@ -42,13 +42,13 @@ msgid ""
 "A tutorial serves the user's *acquisition* of skills and knowledge - their "
 "study. Its purpose is not to help the user get something done, but to help "
 "them learn."
-msgstr "教程服务于用户对技能和知识的 *习得*——即他们的学习。它的目的不是帮助用户完成任务，而是帮助他们学习。"
+msgstr "教程服务于 **学（习得）**——即用户对技能和知识的学习。它的目的不是帮助用户完成任务，而是帮助他们学习。"
 
 #: ../../source/tutorials.rst:14
 msgid ""
 "Tutorials - learning-oriented guides that describe practical steps and are "
 "intended to serve our study."
-msgstr "教程——以学习为导向的指南，描述实际操作步骤，旨在服务于我们的学习。"
+msgstr "教程——以学习为导向，通过实际操作步骤（行）服务于技能习得（学）的指南。"
 
 #: ../../source/tutorials.rst:18
 msgid "A tutorial in other words is a lesson."

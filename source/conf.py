@@ -89,6 +89,9 @@ redirects = {
 
 language = "en"
 locale_dirs = ["../translation"]
+# Use translated vector diagrams when available; other images retain their
+# original files. Sphinx resolves these before collecting build dependencies.
+figure_language_filename = "{path}{language}/{basename}.svg"
 gettext_compact = False
 gettext_uuid = False
 gettext_location = True

@@ -26,7 +26,7 @@ msgstr "地图"
 msgid ""
 "One reason Diátaxis is effective as a guide to organising documentation is "
 "that it describes a **two-dimensional structure**, rather than a *list*."
-msgstr "Diátaxis 作为组织文档的指南之所以有效，一个原因是它描述的是 **二维结构**，而非一份 *列表*。"
+msgstr "Diátaxis 作为组织文档的指南之所以有效，一个原因是它描述的是 **二维结构**，而非一份 *列表*：这两个维度是“知与行”和“学与用”。"
 
 #: a60f20d9a4a64db48ffa5dd0cd1dd237
 msgid ""
@@ -279,7 +279,7 @@ msgstr ""
 
 #: 717421ee00a7486a9a4145cadfc0a263
 msgid "guide action"
-msgstr "引导行动"
+msgstr "指导行动（行）"
 
 #: c07ad59641e147f897aa1c6ad03fcf35 8b06e11c49274d29926916926fde74aa
 msgid "tutorials"
@@ -291,7 +291,7 @@ msgstr "实践指南"
 
 #: 5c67fa2ff28d484f96f6cc3eaa8e97ac
 msgid "serve the application of skill"
-msgstr "服务于技能应用"
+msgstr "服务于技能应用（用）"
 
 #: d9b691d316d342498b80bbe0eb761423 838d21b8a2134fa693f16ed75925d2d1
 msgid "reference"
@@ -299,7 +299,7 @@ msgstr "参考资料"
 
 #: a69c11a755554b7592cc6db972c448b9
 msgid "contain propositional knowledge"
-msgstr "包含命题性知识"
+msgstr "包含命题性知识（知）"
 
 #: cbd265062069444ba049053d0c03fe8e 4ccd8a00fc8046d381a57a6257cf322b
 msgid "explanation"
@@ -307,7 +307,7 @@ msgstr "解释说明"
 
 #: a66d21149c764fa4b0c3eac98ba17f60
 msgid "serve the acquisition of skill"
-msgstr "服务于技能习得"
+msgstr "服务于技能习得（学）"
 
 #: 160ab1dbcda3455ea46d144fcdc16085
 msgid ""

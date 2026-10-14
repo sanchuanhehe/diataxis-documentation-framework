@@ -46,7 +46,7 @@ msgstr "否则，它只会是又一种有用的启发式方法，而我们对它
 
 #: cd124bc7ae834854b4897cdde46ca7cc
 msgid "Two dimensions of craft"
-msgstr "技艺的两个维度"
+msgstr "技艺的两个维度：知与行、学与用"
 
 #: bca7be6623524ca8b334b13452b2886a
 msgid ""
@@ -72,7 +72,7 @@ msgstr "理解这些用户的需求，进而意味着理解技艺或技能的本
 
 #: 3d6d516307ed41b7a316d2f0af19b09e
 msgid "Action/cognition"
-msgstr "行动／认知"
+msgstr "知与行"
 
 #: 68769a428e464bb4809b30eda3fc4acb
 msgid ""
@@ -81,11 +81,11 @@ msgid ""
 " *that*, what we think). The two are completely bound up with each other, "
 "but they are counterparts, wholly distinct from each other, two different "
 "aspects of the same thing."
-msgstr "一种技能、技艺或实践同时包含 **行动** （实践知识、知道 *如何*、我们所做的事）和 **认知** （理论知识、知道 *什么*、我们所想的事）。二者完全交织，却又互为对应，彼此截然不同，是同一事物的两个不同方面。"
+msgstr "一种技能、技艺或实践同时包含 **知（认知）** （理论知识、知道 *什么*、我们所想的事）和 **行（行动）** （实践知识、知道 *如何*、我们所做的事）。二者完全交织，却又互为对应，彼此截然不同，是同一事物的两个不同方面。"
 
 #: c8a92a8d27c5478f9cb459b6caffda8a
 msgid "Acquisition/application"
-msgstr "习得／应用"
+msgstr "学与用"
 
 #: 1f9c2c27b2b942cb902a25193c7a949e
 msgid ""
@@ -94,7 +94,7 @@ msgid ""
 "\"at work\" (concerned with applying the skill and knowledge of their craft)"
 " and being \"at study\" (concerned with acquiring them) are once again "
 "counterparts, distinct but bound up with each other."
-msgstr "同样，实践者与其技艺的关系在于：它既需要被 **习得**，也需要被 **应用**。“处于工作中”（关注应用技艺的技能和知识）与“处于学习中”（关注习得它们）同样互为对应，既不同又交织。"
+msgstr "同样，实践者与其技艺的关系也有 **学（习得）** 与 **用（应用）** 两个方面。“处于学习中”（关注习得技艺的技能和知识）与“处于工作中”（关注应用它们）同样互为对应，既不同又交织。"
 
 #: d432d672fc544981b20618fdbba74838
 msgid "The map of the territory"
@@ -104,11 +104,11 @@ msgstr "领域地图"
 msgid ""
 "This gives us two dimensions of skill, that we can lay out on a map - a map "
 "of the territory of craft:"
-msgstr "这给出了技能的两个维度，可将其铺陈在一张地图上——一张技艺领域的地图："
+msgstr "这给出了技能的两个维度——“知与行”和“学与用”，可将其铺陈在一张地图上——一张技艺领域的地图："
 
 #: f43870fbbb02402f92f28847f98fcf62 915328085b384934886dd134246db9dd
 msgid "The territory of craft as a two-dimensional map"
-msgstr "以二维地图表示的技艺领域"
+msgstr "以知与行、学与用两个维度表示的技艺领域"
 
 #: 28c0a32f86b0423aba373426d377c08e
 msgid ""
@@ -173,11 +173,11 @@ msgstr "教程"
 
 #: 71bed2e58cb546c9ad1564dd3eb9524a 7408849212de4a67896114cb09bed1b6
 msgid "acquires their craft"
-msgstr "习得其技艺"
+msgstr "习得技艺（学）"
 
 #: a745f7c2ae384920a61b86424f319f7c 9cb5e5b161bb4bf1a98b94eed440880f
 msgid "informs action"
-msgstr "为行动提供信息"
+msgstr "指导行动（行）"
 
 #: 05325e08276a447ca87f77126635f79c
 msgid "goals"
@@ -189,7 +189,7 @@ msgstr "实践指南"
 
 #: a7a1aacf466649f28710d2a468d9e961 fc2c056760a243b59f41dbbf18df1301
 msgid "applies their craft"
-msgstr "应用其技艺"
+msgstr "应用技艺（用）"
 
 #: 7ae66dac5c8f41cf977aebc34e351167
 msgid "information"
@@ -201,7 +201,7 @@ msgstr "参考资料"
 
 #: 5a27ba57d48a49a381a2895880d24de3 eed2283995a84877a34aa5a4f59df884
 msgid "informs cognition"
-msgstr "为认知提供信息"
+msgstr "帮助认知（知）"
 
 #: 42c3ec02df6740b88483ee663c0e727f
 msgid "understanding"

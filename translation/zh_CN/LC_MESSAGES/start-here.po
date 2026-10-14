@@ -232,7 +232,7 @@ msgstr "Diátaxis 地图"
 msgid ""
 "The four kinds of documentation and the relationships between them can be "
 "summarised in the Diátaxis map."
-msgstr "四类文档及其相互关系，可以用 Diátaxis 地图概括。"
+msgstr "四类文档及其相互关系，可以用 Diátaxis 地图概括。地图有两个维度：知（认知）与行（行动）；学（习得）与用（应用）。"
 
 #: ../../source/start-here.rst:99
 msgid ":ref:`The map in more detail <map>`"
@@ -267,12 +267,12 @@ msgstr "从地图中可以看出："
 msgid ""
 "tutorials and how-to guides are concerned with what the user *does* "
 "(**action**)"
-msgstr "教程和实践指南关注用户 *做什么* （ **行动**）"
+msgstr "教程和实践指南关注用户 *做什么*，属于 **行（行动）**"
 
 #: ../../source/start-here.rst:117
 msgid ""
 "reference and explanation are about what the user *knows* (**cognition**)"
-msgstr "参考资料和解释说明关注用户 *知道什么* （ **认知**）"
+msgstr "参考资料和解释说明关注用户 *知道什么*，属于 **知（认知）**"
 
 #: ../../source/start-here.rst:119
 msgid "On the other hand:"
@@ -282,13 +282,13 @@ msgstr "另一方面："
 msgid ""
 "tutorials and explanation serve the *acquisition* of skill (the user's "
 "**study**)"
-msgstr "教程和解释说明服务于技能的 *习得* （用户的 **学习**）"
+msgstr "教程和解释说明服务于技能的习得，即 **学** （用户的 *学习*）"
 
 #: ../../source/start-here.rst:122
 msgid ""
 "how-to guides and reference serve the *application* of skill (the user's "
 "**work**)"
-msgstr "实践指南和参考资料服务于技能的 *应用* （用户的 **工作**）"
+msgstr "实践指南和参考资料服务于技能的应用，即 **用** （用户的 *工作*）"
 
 #: ../../source/start-here.rst:124
 msgid ""
@@ -339,11 +339,11 @@ msgstr "……那么它必然属于……"
 
 #: ../../source/start-here.rst:147 ../../source/start-here.rst:150
 msgid "informs action"
-msgstr "为行动提供信息"
+msgstr "指导行动（行）"
 
 #: ../../source/start-here.rst:148 ../../source/start-here.rst:157
 msgid "acquisition of skill"
-msgstr "技能习得"
+msgstr "技能习得（学）"
 
 #: ../../source/start-here.rst:149
 msgid "a tutorial"
@@ -351,7 +351,7 @@ msgstr "教程"
 
 #: ../../source/start-here.rst:151 ../../source/start-here.rst:154
 msgid "application of skill"
-msgstr "技能应用"
+msgstr "技能应用（用）"
 
 #: ../../source/start-here.rst:152
 msgid "a how-to guide"
@@ -359,7 +359,7 @@ msgstr "实践指南"
 
 #: ../../source/start-here.rst:153 ../../source/start-here.rst:156
 msgid "informs cognition"
-msgstr "为认知提供信息"
+msgstr "帮助认知（知）"
 
 #: ../../source/start-here.rst:155
 msgid "reference"

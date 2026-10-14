@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1021" height="480" viewBox="0 65 660 310.284" role="img" aria-labelledby="title desc" lang="zh-CN">
+  <title id="title">教程：学习</title>
+  <desc id="desc">行与学：教程帮助读者通过行动习得知识与技能。</desc>
+  <rect width="1200" height="675" fill="#fff"/>
+  <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<line x1="0" y1="337.5" x2="1200" y2="337.5" stroke="#989898" stroke-width="1.5"/>
+<line x1="600" y1="0" x2="600" y2="675" stroke="#989898" stroke-width="1.5"/>
+<rect x="542" y="174" width="116" height="96" fill="#fff"/>
+<text x="600" y="222" text-anchor="middle" font-size="44" font-weight="500" fill="#181818">行</text>
+<text x="600" y="256" text-anchor="middle" font-size="24" font-weight="400" fill="#181818">（行动）</text>
+<rect x="209" y="302" width="212" height="68" fill="#fff"/>
+<text x="315" y="352" text-anchor="middle" fill="#181818"><tspan font-size="44" font-weight="500">学</tspan><tspan font-size="26">（习得）</tspan></text>
+<text x="315" y="210" text-anchor="middle" font-size="56" font-weight="400" fill="#181818">教程</text>
+<text x="315" y="266" text-anchor="middle" font-size="32" font-weight="400" fill="#e98224">学习</text>
+  </g>
+</svg>

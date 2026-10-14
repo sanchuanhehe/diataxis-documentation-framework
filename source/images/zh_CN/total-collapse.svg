@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+  <title id="title">文档结构的完全坍塌</title>
+  <desc id="desc">教程、实践指南、解释说明和参考资料在中央交叉、翻转并重叠；学习、目标、理解和信息也失去了各自的位置。文字的混乱布局是刻意的，表示四类文档失去边界，无法清楚满足各自的用户需求。</desc>
+  <rect width="1200" height="680" fill="#fff"/>
+  <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-weight="400">
+    <g fill="#181818" font-size="90">
+      <text transform="translate(802 240) rotate(186)">实践指南</text>
+      <text transform="translate(490 124) rotate(48)">解释说明</text>
+      <text transform="translate(566 443) rotate(-45)">参考资料</text>
+      <text transform="translate(439 565) rotate(-52)" font-size="110" letter-spacing="24">教程</text>
+    </g>
+    <g fill="#e98224" font-size="40" letter-spacing="9">
+      <text transform="translate(648 175) rotate(54)">目标</text>
+      <text x="537" y="324">学习</text>
+      <text transform="translate(543 379) rotate(180)">理解</text>
+      <text transform="translate(644 402) rotate(16)">信息</text>
+    </g>
+  </g>
+</svg>

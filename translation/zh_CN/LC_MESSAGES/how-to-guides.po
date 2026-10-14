@@ -32,7 +32,7 @@ msgstr "实践指南是 **方向指引**，引导读者解决问题或走向结�
 msgid ""
 "A how-to guide helps the user get something done, correctly and safely; it "
 "guides the user's *action*."
-msgstr "实践指南帮助用户正确且安全地完成某项任务；它引导用户的 *行动*。"
+msgstr "实践指南帮助用户正确且安全地完成某项任务；它引导用户的行动，属于 **行**。"
 
 #: a5df78efd18142dbbb7c05f63ddbb15e
 msgid ""
@@ -42,7 +42,7 @@ msgstr "它关注 *工作* ——从现实问题领域的一侧导航到另一�
 
 #: c01f2307bfca4e4797c4c60e78156bf6
 msgid "How-to guides - task oriented, practical steps, that serve our work"
-msgstr "实践指南——以任务为导向，提供实用的步骤，服务于我们的工作"
+msgstr "实践指南——以任务为导向，通过实际操作步骤（行）服务于技能应用（用）的指南"
 
 #: b9825fa2897048dea98fda2598a50fff
 msgid ""

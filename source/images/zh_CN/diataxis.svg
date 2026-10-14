@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc" lang="zh-CN">
+  <title id="title">Diátaxis：知与行、学与用</title>
+  <desc id="desc">Diátaxis 的两个维度是知与行、学与用。纵向上方为行（行动），下方为知（认知）；横向左侧为学（习得），右侧为用（应用）。左上是教程，重在学习；右上是实践指南，重在目标；左下是解释说明，重在理解；右下是参考资料，重在信息。</desc>
+  <rect width="1200" height="675" fill="#fff"/>
+  <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<line x1="0" y1="337.5" x2="1200" y2="337.5" stroke="#989898" stroke-width="1.5"/>
+<line x1="600" y1="0" x2="600" y2="675" stroke="#989898" stroke-width="1.5"/>
+<rect x="542" y="174" width="116" height="96" fill="#fff"/>
+<text x="600" y="222" text-anchor="middle" font-size="44" font-weight="500" fill="#181818">行</text>
+<text x="600" y="256" text-anchor="middle" font-size="24" font-weight="400" fill="#181818">（行动）</text>
+<rect x="542" y="405" width="116" height="96" fill="#fff"/>
+<text x="600" y="453" text-anchor="middle" font-size="44" font-weight="500" fill="#181818">知</text>
+<text x="600" y="487" text-anchor="middle" font-size="24" font-weight="400" fill="#181818">（认知）</text>
+<rect x="209" y="302" width="212" height="68" fill="#fff"/>
+<text x="315" y="352" text-anchor="middle" fill="#181818"><tspan font-size="44" font-weight="500">学</tspan><tspan font-size="26">（习得）</tspan></text>
+<rect x="779" y="302" width="212" height="68" fill="#fff"/>
+<text x="885" y="352" text-anchor="middle" fill="#181818"><tspan font-size="44" font-weight="500">用</tspan><tspan font-size="26">（应用）</tspan></text>
+<text x="315" y="210" text-anchor="middle" font-size="56" font-weight="400" fill="#181818">教程</text>
+<text x="315" y="266" text-anchor="middle" font-size="32" font-weight="400" fill="#e98224">学习</text>
+<text x="885" y="210" text-anchor="middle" font-size="56" font-weight="400" fill="#181818">实践指南</text>
+<text x="885" y="266" text-anchor="middle" font-size="32" font-weight="400" fill="#e98224">目标</text>
+<text x="315" y="442" text-anchor="middle" font-size="32" font-weight="400" fill="#e98224">理解</text>
+<text x="315" y="518" text-anchor="middle" font-size="56" font-weight="400" fill="#181818">解释说明</text>
+<text x="885" y="442" text-anchor="middle" font-size="32" font-weight="400" fill="#e98224">信息</text>
+<text x="885" y="518" text-anchor="middle" font-size="56" font-weight="400" fill="#181818">参考资料</text>
+  </g>
+</svg>

@@ -48,7 +48,7 @@ msgstr ""
 msgid ""
 "Reference - information oriented, theoretical knowledge, that serves our "
 "work"
-msgstr "参考资料——面向信息、服务工作的理论性知识"
+msgstr "参考资料——面向信息，以理论性知识（知）服务于技能应用（用）"
 
 #: ce63c07c2b3a45aabb5328976da3186d
 msgid ""

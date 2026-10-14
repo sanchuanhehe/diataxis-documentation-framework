@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+  <title id="title">在四类文档之间循环</title>
+  <desc id="desc">顺时针箭头连接四类文档：左上教程以学习为导向，右上实践指南以目标为导向，右下参考资料以信息为导向，左下解释说明以理解为导向，随后回到教程。这表示用户需求可能经历的循环，不是必须遵循的阅读顺序；用户可以从任何位置进入。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 24 24" refX="20" refY="12" markerWidth="29" markerHeight="29" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M 1 1 L 23 12 L 1 23 L 7 12 Z" fill="#e98224"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="680" fill="#fff"/>
+  <g fill="none" stroke="#e98224" stroke-width="13" marker-end="url(#arrow)">
+    <path d="M 520 163 C 544 68 654 68 680 157"/>
+    <path d="M 1007 290 C 1110 308 1110 389 1012 413"/>
+    <path d="M 680 527 C 656 622 546 622 520 533"/>
+    <path d="M 193 413 C 90 395 90 314 188 290"/>
+  </g>
+  <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-weight="400" text-anchor="middle">
+    <g fill="#181818" font-size="64">
+      <text x="350" y="210">教程</text>
+      <text x="850" y="210">实践指南</text>
+      <text x="350" y="503">解释说明</text>
+      <text x="850" y="503">参考资料</text>
+    </g>
+    <g fill="#e98224" font-size="38" letter-spacing="9">
+      <text x="350" y="274">学习</text>
+      <text x="850" y="274">目标</text>
+      <text x="350" y="426">理解</text>
+      <text x="850" y="426">信息</text>
+    </g>
+  </g>
+</svg>

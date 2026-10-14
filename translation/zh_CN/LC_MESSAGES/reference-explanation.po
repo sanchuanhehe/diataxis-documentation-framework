@@ -27,7 +27,7 @@ msgid ""
 "Explanation and reference both belong to the *theory* half of the Diátaxis "
 "map - they don't contain steps to guide the reader, they contain theoretical"
 " knowledge."
-msgstr "解释说明和参考资料都属于 Diátaxis 地图的 *理论* 半边：它们不包含引导读者的步骤，而是提供理论知识。"
+msgstr "解释说明和参考资料都属于 Diátaxis 地图中 **知（认知）** 的一侧：它们不包含引导读者的步骤，而是提供理论知识。"
 
 #: f6149b7797a645b8bd528dee2a88e880
 msgid ""
@@ -35,7 +35,7 @@ msgid ""
 " and how-to guides - the difference between the *acquisition* of skill and "
 "knowledge, and its *application*. In other words it's the distinction "
 "between *study* and *work*."
-msgstr "二者的区别——正如教程和实践指南的区别——在于技能与知识的 *习得* 和 *应用* 之别。换言之，即 *学习* 与 *工作* 的区别。"
+msgstr "二者的区别——正如教程和实践指南的区别——在于 **学（习得）** 与 **用（应用）**：前者关注习得技能与知识，后者关注应用它们。换言之，即 *学习* 与 *工作* 的区别。"
 
 #: ab0e3bba23d5424eb99e563172726ecd
 msgid "A straightforward distinction, *mostly*"

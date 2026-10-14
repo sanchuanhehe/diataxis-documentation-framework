@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc" lang="zh-CN">
+  <title id="title">学与用：习得与应用</title>
+  <desc id="desc">竖线分隔两种目的：左侧的学指习得知识与技能，右侧的用指应用已有的知识与技能。</desc>
+  <rect width="1200" height="675" fill="#fff"/>
+  <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<line x1="600" y1="14" x2="600" y2="661" stroke="#989898" stroke-width="1.5"/>
+<rect x="314" y="302" width="212" height="68" fill="#fff"/>
+<text x="420" y="352" text-anchor="middle" fill="#181818"><tspan font-size="44" font-weight="500">学</tspan><tspan font-size="26">（习得）</tspan></text>
+<rect x="674" y="302" width="212" height="68" fill="#fff"/>
+<text x="780" y="352" text-anchor="middle" fill="#181818"><tspan font-size="44" font-weight="500">用</tspan><tspan font-size="26">（应用）</tspan></text>
+  </g>
+</svg>

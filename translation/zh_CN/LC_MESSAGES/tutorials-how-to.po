@@ -489,7 +489,7 @@ msgid ""
 "guide that doesn’t understand whether its purpose is to help the user in "
 "their study - the acquisition of skills - or in their work - the application"
 " of skills."
-msgstr "在软件文档等领域，我们往往能避免严重后果，因为我们的混淆和错误很少会危及任何人。然而，我们确实会给用户带来大量的低级别不便和不快；每当我们发布一份未能明确其目的是帮助用户进行 **习得** （技能的获得）还是帮助他们在工作中 **应用** 技能的教程或实践指南时，这种伤害便会增加一分。"
+msgstr "在软件文档等领域，我们往往能避免严重后果，因为我们的混淆和错误很少会危及任何人。然而，我们确实会给用户带来大量的低级别不便和不快；每当我们发布一份未能明确其目的是服务于 **学（习得）**——帮助用户学习技能，还是服务于 **用（应用）**——帮助用户在工作中运用技能的教程或实践指南时，这种伤害便会增加一分。"
 
 #: a647a6af47ee4b9481d29c879e5d1711
 msgid ""

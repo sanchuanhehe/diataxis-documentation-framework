@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+  <title id="title">文档结构的部分坍塌</title>
+  <desc id="desc">教程与实践指南向彼此靠拢，解释说明与参考资料也相互挤压。学习、目标、理解、信息四种目的之间的边界开始模糊。文字的轻微旋转和刻意重叠表示结构正在坍塌。</desc>
+  <rect width="1200" height="680" fill="#fff"/>
+  <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-weight="400" text-anchor="middle">
+    <g fill="#181818" font-size="76">
+      <text x="470" y="254" transform="rotate(-2 470 254)">教程</text>
+      <text x="684" y="254" transform="rotate(2 684 254)">实践指南</text>
+      <text x="432" y="470" transform="rotate(2 432 470)">解释说明</text>
+      <text x="728" y="470" transform="rotate(-2 728 470)">参考资料</text>
+    </g>
+    <g fill="#e98224" font-size="40" letter-spacing="9">
+      <text x="520" y="323" transform="rotate(3 520 323)">学习</text>
+      <text x="600" y="322" transform="rotate(-3 600 322)">目标</text>
+      <text x="407" y="352">理解</text>
+      <text x="775" y="386" transform="rotate(-4 775 386)">信息</text>
+    </g>
+  </g>
+</svg>

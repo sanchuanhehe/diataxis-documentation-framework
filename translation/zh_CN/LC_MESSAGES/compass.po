@@ -71,11 +71,11 @@ msgstr "……那么它必然属于……"
 
 #: f828c72191fc4a44ad51651253f0a249 ffb6df72ddf34d76964a9a80896a5599
 msgid "informs action"
-msgstr "为行动提供信息"
+msgstr "指导行动（行）"
 
 #: d757a2c0984242d8be8de6fab4879885 2ee0a46c9fd8467cb38fa1b6904c35b0
 msgid "acquisition of skill"
-msgstr "技能习得"
+msgstr "技能习得（学）"
 
 #: 0c7d5fc7f7f44fa59ba665f7c4b6d7d6
 msgid "a tutorial"
@@ -83,7 +83,7 @@ msgstr "教程"
 
 #: ce1dc1d073904f0eaea1fe04129ef794 9a672520a1204bd98c56657fc3589add
 msgid "application of skill"
-msgstr "技能应用"
+msgstr "技能应用（用）"
 
 #: 2f80f4e346954762a9abac06ca8bd933
 msgid "a how-to guide"
@@ -91,7 +91,7 @@ msgstr "实践指南"
 
 #: 07ec22b0b4504b74b46dcb1f658007cc 241df3eb67a94179a2d6b661fe0c2598
 msgid "informs cognition"
-msgstr "为认知提供信息"
+msgstr "帮助认知（知）"
 
 #: f41fa4283e2b4b4fad3022c5bf68322c
 msgid "reference"
@@ -114,7 +114,7 @@ msgstr ""
 msgid ""
 "To use the compass, just two questions need to be asked: *action or "
 "cognition?* *acquisition or application?*"
-msgstr "使用指南针，只需问两个问题： *行动还是认知？* *习得还是应用？*"
+msgstr "使用指南针，只需问两个问题： *知还是行？* *学还是用？*"
 
 #: cdace25583004046bd3c686b5be01faf
 msgid "And it yields the answer."
@@ -142,19 +142,19 @@ msgstr "尤其是在最初辨明方向时，应灵活使用指南针的术语；
 
 #: ecd0c8f6dcb548ecadd29bcf4a92e0d6
 msgid "*action*: practical steps, doing"
-msgstr "*行动*：实际步骤、动手做"
+msgstr "*行（行动）*：实际步骤、动手做"
 
 #: 3ec6ddd265f347c0ac4640b4129eef9d
 msgid "*cognition*: theoretical or propositional knowledge, thinking"
-msgstr "*认知*：理论性或命题性知识、思考"
+msgstr "*知（认知）*：理论性或命题性知识、思考"
 
 #: 75bd1ed5b3ca41939cba8e0ab90dafd5
 msgid "*acquisition*: study"
-msgstr "*习得*：学习"
+msgstr "*学（习得）*：学习知识与技能"
 
 #: a276cb5c19df40bbb2dd9f1a019c7472
 msgid "*application*: work"
-msgstr "*应用*：工作"
+msgstr "*用（应用）*：运用知识与技能开展工作"
 
 #: 93e8b8485c5b40d8a5890d0dd933fb9a
 msgid "And the questions themselves can also be used in different ways:"

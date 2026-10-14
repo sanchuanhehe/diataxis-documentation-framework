@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc" lang="zh-CN">
+  <title id="title">知与行：认知与行动</title>
+  <desc id="desc">横线分隔两种活动：上方的行指行动，下方的知指认知。</desc>
+  <rect width="1200" height="675" fill="#fff"/>
+  <g font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif">
+<line x1="38" y1="337.5" x2="1162" y2="337.5" stroke="#989898" stroke-width="1.5"/>
+<rect x="542" y="202" width="116" height="96" fill="#fff"/>
+<text x="600" y="250" text-anchor="middle" font-size="44" font-weight="500" fill="#181818">行</text>
+<text x="600" y="284" text-anchor="middle" font-size="24" font-weight="400" fill="#181818">（行动）</text>
+<rect x="542" y="405" width="116" height="96" fill="#fff"/>
+<text x="600" y="453" text-anchor="middle" font-size="44" font-weight="500" fill="#181818">知</text>
+<text x="600" y="487" text-anchor="middle" font-size="24" font-weight="400" fill="#181818">（认知）</text>
+  </g>
+</svg>

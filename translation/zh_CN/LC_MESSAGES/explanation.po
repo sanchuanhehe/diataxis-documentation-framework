@@ -38,7 +38,7 @@ msgstr "解释说明加深并拓宽读者对主题的理解，带来清晰、启
 msgid ""
 "Explanation - understanding oriented, theoretical knowledge, that serves our"
 " study"
-msgstr "解释说明——面向理解、服务学习的理论性知识"
+msgstr "解释说明——面向理解，以理论性知识（知）服务于技能习得（学）"
 
 #: b8e7ce4fb16c4db686468a1e32080bbc
 msgid ""
