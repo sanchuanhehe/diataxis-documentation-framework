@@ -12,6 +12,14 @@
   {% block content %}
   <nav class="language-switcher" aria-label="Language">
     {% for code, label in language_switcher %}
+    {% if pages_base_url is defined %}
+      {% if code == 'zh_CN' %}
+        {% set lang_href = pathto(pagename) %}
+      {% else %}
+        {% set lang_prefix = '' if code == 'en' else '/' ~ code %}
+        {% set lang_href = 'https://diataxis.fr' ~ lang_prefix ~ '/' ~ (pagename ~ '/' if pagename != 'index' else '') %}
+      {% endif %}
+    {% else %}
     {%- if code == default_language -%}
       {%- set lang_prefix = '' -%}
     {%- else -%}
@@ -22,6 +30,7 @@
     {%- else -%}
       {%- set lang_href = lang_prefix ~ '/' ~ pagename ~ '/' -%}
     {%- endif -%}
+    {% endif %}
     <a href="{{ lang_href }}" lang="{{ code }}"{% if code == language %} aria-current="true"{% endif %}>
       <span class="language-switcher-full-label">{{ label }}</span>
       <span class="language-switcher-short-label">{{ code|upper }}</span>

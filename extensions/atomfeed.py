@@ -336,6 +336,8 @@ def build_feed(app):
     # Non-default languages are served under a /<lang>/ path prefix on this
     # site (e.g. https://diataxis.fr/pl/news.html); English lives at the root.
     lang_prefix = f"{language}/" if language and language != "en" else ""
+    if app.config.atom_feed_language_prefix is not None:
+        lang_prefix = app.config.atom_feed_language_prefix
 
     # Sort newest first.
     entries.sort(key=lambda e: e["date"], reverse=True)
@@ -346,7 +348,7 @@ def build_feed(app):
         feed, _atom("link"), rel="self", href=absolute_url(base_url, f"{lang_prefix}atom.xml")
     )
     ET.SubElement(
-        feed, _atom("link"), rel="alternate", href=absolute_url(base_url, f"{lang_prefix}{feed_source_doc}.html")
+        feed, _atom("link"), rel="alternate", href=absolute_url(base_url, lang_prefix + app.builder.get_target_uri(feed_source_doc))
     )
     ET.SubElement(feed, _atom("id")).text = tag_uri(
         base_url, language, _FEED_TAG_DATE, "feed"
@@ -361,7 +363,7 @@ def build_feed(app):
     ET.SubElement(author_el, _atom("name")).text = feed_author
 
     for entry in entries:
-        page = f"{lang_prefix}{entry['docname']}.html"
+        page = lang_prefix + app.builder.get_target_uri(entry['docname'])
         anchor = f"news-{entry['slug']}"
         link = absolute_url(base_url, page, anchor)
         eid = tag_uri(base_url, language, entry["date"], entry["slug"])
@@ -404,6 +406,8 @@ def on_html_page_context(app, pagename, templatename, context, doctree):
         return
     language = app.config.language or "en"
     lang_prefix = f"{language}/" if language != "en" else ""
+    if app.config.atom_feed_language_prefix is not None:
+        lang_prefix = app.config.atom_feed_language_prefix
     href = absolute_url(base_url, f"{lang_prefix}atom.xml")
     title = app.config.html_title or app.config.project or "Feed"
     context["metatags"] = context.get("metatags", "") + (
@@ -455,6 +459,7 @@ def setup(app):
     app.add_config_value("atom_feed_base_url", None, "env")
     app.add_config_value("atom_feed_source", "news", "env")
     app.add_config_value("atom_feed_author", None, "env")
+    app.add_config_value("atom_feed_language_prefix", None, "env")
 
     app.connect("doctree-resolved", collect_entries)
     app.connect("html-page-context", on_html_page_context)

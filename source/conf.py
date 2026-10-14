@@ -98,3 +98,18 @@ gettext_location = True
 atom_feed_base_url = "https://diataxis.fr"
 atom_feed_source = "news"
 atom_feed_author = author
+
+# The fork publishes Chinese at the root of its GitHub Pages project site.
+# Keep upstream/Read the Docs builds unchanged unless explicitly requested.
+if os.environ.get("GITHUB_PAGES") == "true":
+    language = "zh_CN"
+    html_title = "Diátaxis 中文文档"
+    html_baseurl = os.environ.get(
+        "PAGES_BASE_URL",
+        "https://sanchuanhehe.github.io/diataxis-documentation-framework",
+    ).rstrip("/") + "/"
+    html_context["pages_base_url"] = html_baseurl
+    html_context["default_language"] = "zh_CN"
+    atom_feed_base_url = html_baseurl
+    atom_feed_language_prefix = ""
+    redirects = {name: "../colophon/" for name in redirects}

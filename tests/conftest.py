@@ -52,7 +52,7 @@ Welcome
 """
 
 
-def _build(tmp_path: Path, language: str) -> Path:
+def _build(tmp_path: Path, language: str, buildername="html", extra_config="") -> Path:
     """Build a Sphinx project for the given language; return the outdir."""
     src = tmp_path / "src"
     out = tmp_path / "out"
@@ -60,7 +60,7 @@ def _build(tmp_path: Path, language: str) -> Path:
 
     src.mkdir()
     (src / "conf.py").write_text(
-        CONF_PY.format(language=language), encoding="utf-8"
+        CONF_PY.format(language=language) + extra_config, encoding="utf-8"
     )
     (src / "index.rst").write_text(INDEX_RST, encoding="utf-8")
     (src / "news.rst").write_text(NEWS_RST, encoding="utf-8")
@@ -75,7 +75,7 @@ def _build(tmp_path: Path, language: str) -> Path:
         confdir=str(src),
         outdir=str(out),
         doctreedir=str(doctree),
-        buildername="html",
+        buildername=buildername,
         freshenv=True,
     )
     app.build()
