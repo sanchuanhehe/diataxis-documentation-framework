@@ -29,26 +29,28 @@ msgstr "教程"
 msgid ""
 "A tutorial is an **experience** that takes place under the guidance of a "
 "tutor. A tutorial is always **learning-oriented**."
-msgstr "教程是在导师指导下进行的一种 **体验**。教程始终 **以学习为导向**。"
+msgstr "**体验**——教程是在导师指导下展开的一段经历。教程永远是**面向学习**的。"
 
 #: ../../source/tutorials.rst:10
 msgid ""
 "A tutorial is a *practical activity*, in which the student learns by doing "
 "something meaningful, towards some achievable goal."
-msgstr "教程是一种 *实践活动*，学生在其中通过完成某项有意义的任务来学习，以达成某些可实现的目标。"
+msgstr "教程是一种*实践活动*：学生在其中通过动手做一件有意义的事来学习，朝着某个可以"
+"达到的目标前进。"
 
 #: ../../source/tutorials.rst:12
 msgid ""
 "A tutorial serves the user's *acquisition* of skills and knowledge - their "
 "study. Its purpose is not to help the user get something done, but to help "
 "them learn."
-msgstr "教程服务于 **学（习得）**——即用户对技能和知识的学习。它的目的不是帮助用户完成任务，而是帮助他们学习。"
+msgstr "教程服务于用户对技能与知识的*习得*，也就是他们的学习。它的目的不是帮用户把某"
+"件事做成，而是帮他们学习。"
 
 #: ../../source/tutorials.rst:14
 msgid ""
 "Tutorials - learning-oriented guides that describe practical steps and are "
 "intended to serve our study."
-msgstr "教程——以学习为导向，通过实际操作步骤（行）服务于技能习得（学）的指南。"
+msgstr "教程——面向学习、描述实操步骤的指南，意在服务于我们的学习（学）。"
 
 #: ../../source/tutorials.rst:18
 msgid "A tutorial in other words is a lesson."
@@ -62,7 +64,10 @@ msgid ""
 "familiarity. They will learn how things relate to each other and interact, "
 "and how to interact with them. They will learn the names of things, the use "
 "of tools, workflows, concepts, commands. And so on."
-msgstr "重要的是要明白：虽然学生是动手学会的，但他们 *做的* 并不一定就是他们 *学到的*。通过动手，他们会获得理论知识（即事实）、理解和熟悉感；他们会了解事物之间如何关联、如何相互作用，以及如何与它们打交道；他们会记住事物的名称，学会使用工具、工作流程、概念和命令，等等。"
+msgstr "有一点要明白：学生固然是动手学会的，但他们*做*的事，未必就是他们*学到*的东西"
+"。通过动手，他们会获得理论知识（也就是事实）、理解和熟悉感。他们会了解事物之"
+"间如何关联、如何相互作用，也会了解如何与它们打交道。他们会知道事物的名称，学"
+"会使用工具、工作流程、概念、命令。诸如此类。"
 
 #: ../../source/tutorials.rst:27
 msgid "The tutorial as a lesson"
@@ -73,20 +78,22 @@ msgid ""
 "A lesson entails a relationship between a teacher and a pupil. In all "
 "learning of this kind, *learning takes place as the pupil applies themself "
 "to tasks under the instructor's guidance*."
-msgstr "一堂课意味着教师与学生之间存在一种关系。在所有这类学习中， *学生只有在导师指导下投身各项任务，学习才会真正发生*。"
+msgstr "一堂课意味着教师与学生之间存在一种关系。在所有这类学习中，*学生只有在导师指"
+"导下投身各项任务，学习才会真正发生*。"
 
 #: ../../source/tutorials.rst:31
 msgid ""
 "A lesson is a *learning experience*. In a learning experience, what matters "
 "is what the learner does and what happens. By contrast, the teacher's "
 "explanations and recitations of fact are far less important."
-msgstr "一堂课是一种 *学习体验*。在学习体验中，重要的是学习者做了什么以及发生了什么事。相比之下，教师的解释和事实复述则远不那么重要。"
+msgstr "一堂课是一种*学习体验*。在学习体验里，要紧的是学习者做了什么、发生了什么。相"
+"比之下，教师的解释和对事实的复述则远没有那么重要。"
 
 #: ../../source/tutorials.rst:33
 msgid ""
 "A good lesson gives the learner confidence, by showing them that they can be"
 " successful in a certain skill or with a certain product."
-msgstr "一堂好课通过向学习者展示他们能在某项技能或某个产品上取得成功，来给他们带来自信。"
+msgstr "一堂好课给学习者信心——让他们看到，自己能在某项技能或某个产品上获得成功。"
 
 #: ../../source/tutorials.rst:37
 msgid "Obligations of the teacher"
@@ -94,7 +101,7 @@ msgstr "教师的义务"
 
 #: ../../source/tutorials.rst:41
 msgid "It's not easy being a teacher."
-msgstr "为人师表绝非易事。"
+msgstr "当教师绝非易事。"
 
 #: ../../source/tutorials.rst:43
 msgid ""
@@ -105,34 +112,37 @@ msgid ""
 "responsibility of the pupil in this contract is to be attentive and to "
 "follow the teacher's directions as closely as they can. There is no "
 "responsibility on the pupil to learn, understand or remember."
-msgstr "一堂课是教师与学生之间的一种契约，其中几乎所有的责任都落在教师身上。教师对学生将要学习的内容、为学习该内容而需进行的活动以及学生的成功负有责任。与此同时，在该契约中，学生唯一需要承担的责任是保持专注并尽可能严格地遵循教师的指示。学生并无学习、理解或记住的责任。"
+msgstr "一堂课是教师与学生之间的一种契约，几乎所有责任都落在教师身上。学生要学什么、"
+"为学会它要做什么、以及学生能否成功，都是教师的责任。而在这份契约里，学生唯一"
+"的责任就是专心，并尽可能严格地照教师的指示去做。学生没有学习、理解或记住的责"
+"任。"
 
 #: ../../source/tutorials.rst:45
 msgid "At the same time, the exercise you put your pupils through must be:"
-msgstr "同时，你让学生经历的练习必须是："
+msgstr "与此同时，你让学生经历的练习必须是："
 
 #: ../../source/tutorials.rst:47
 msgid "*meaningful* - the pupil needs to have a sense of achievement"
-msgstr "*有意义的* ——学生需要有一种成就感"
+msgstr "*有意义的*——学生需要有一种成就感"
 
 #: ../../source/tutorials.rst:48
 msgid "*successful* - the pupil needs to be able to complete it"
-msgstr "*成功的* ——学生需要能够完成它"
+msgstr "*成功的*——学生需要能够完成它"
 
 #: ../../source/tutorials.rst:49
 msgid ""
 "*logical* - the path that the pupil takes through it needs to make sense"
-msgstr "*符合逻辑* ——学习者所走的路径必须合乎逻辑"
+msgstr "*符合逻辑*——学生所走的路径必须说得通"
 
 #: ../../source/tutorials.rst:50
 msgid ""
 "*usefully complete* - the pupil must have an encounter with all of the "
 "actions, concepts and tools they need to become familiar with"
-msgstr "*具有实用完整性* ——学习者必须接触到所有需要熟悉的操作、概念和工具"
+msgstr "*完整而有用*——学生必须接触到所有需要熟悉的行动、概念和工具"
 
 #: ../../source/tutorials.rst:54
 msgid "The problem of tutorials"
-msgstr "教程的问题"
+msgstr "教程的难题"
 
 #: ../../source/tutorials.rst:56
 msgid ""
@@ -140,20 +150,22 @@ msgid ""
 "to do well, and partly because they are not well understood. In software, "
 "many products lack good tutorials, or lack tutorials completely; tutorials "
 "are often conflated with how-to guides."
-msgstr "教程很少做得好，部分是因为做好它们确实很难，部分是因为人们对它们的理解不足。在软件领域，许多产品缺少良好的教程，甚至完全没有教程；人们常常将教程与实践指南混为一谈。"
+msgstr "教程很少做得好，部分是因为要做好它确实很难，部分是因为人们对它理解不足。在软"
+"件领域，许多产品缺少好教程，或者干脆没有教程；教程常常与实践指南混为一谈。"
 
 #: ../../source/tutorials.rst:58
 msgid ""
 "In an ideal lesson, the teacher is present and interacts with and responds "
 "to the student, correcting their mistakes and checking their learning. In "
 "documentation, none of this is possible."
-msgstr "在一堂理想的课程中，教师在场并与学生互动、回应学生的提问，纠正其错误并检查其学习进展。而在文档中，这一切都不可能实现。"
+msgstr "在一堂理想的课上，教师就在现场，与学生互动、回应学生，纠正他们的错误，检查他"
+"们的学习。而在文档里，这一切都做不到。"
 
 #: ../../source/tutorials.rst:62
 msgid ""
 "Writing and maintaining tutorials can consume a remarkable amount of effort "
 "and time."
-msgstr "编写和维护教程需要耗费大量精力和时间。"
+msgstr "编写和维护教程，会耗掉多得惊人的精力和时间。"
 
 #: ../../source/tutorials.rst:64
 msgid ""
@@ -161,7 +173,8 @@ msgid ""
 "standards described above; in many contexts the product itself evolves "
 "rapidly, meaning that all that work needs to be done again to ensure that "
 "the tutorial still performs its required functions."
-msgstr "要构建符合上述所有标准的学习体验已经十分困难；在许多情境中，产品本身发展迅速，这意味着必须反复重做这些工作，以确保教程仍能履行其应有的功能。"
+msgstr "要打造一段符合上述所有标准的学习体验，已经够难了；而在很多情境下，产品本身变"
+"化飞快，意味着所有这些活儿都得重做一遍，才能保证教程仍然发挥它该有的作用。"
 
 #: ../../source/tutorials.rst:66
 msgid ""
@@ -170,7 +183,9 @@ msgid ""
 "changes and improvements can generally be made discretely; in tutorials, "
 "where the end-to-end learning journey must make sense, they often cascade "
 "through the entire story."
-msgstr "你还会经常发现，文档中的其他部分并不会像教程那样频繁修订。在文档的其他部分，变更和改进通常可以独立进行；而在教程中，由于端到端的学习旅程必须合乎逻辑，任何改动往往会波及整个故事线。"
+msgstr "你还常常会发现，文档里没有别的部分像教程那样频繁地修订。文档的其他地方，改动"
+"和改进通常可以各改各的；但在教程里，从头到尾的学习旅程必须讲得通，一处改动往"
+"往会一路荡开，波及整个故事。"
 
 #: ../../source/tutorials.rst:68
 msgid ""
@@ -179,7 +194,9 @@ msgid ""
 "creator of a tutorial have a good sense of what the user must learn, and "
 "when, they must also devise a meaningful learning journey that somehow "
 "delivers all that."
-msgstr "最后，教程还有一个额外的复杂之处：要在 *该学什么* 与 *该做什么* 之间作出区分。教程的创作者不仅要对用户必须学什么、何时学有清楚的把握，还要设计出一条富有意义的学习旅程，把这一切切实承载起来。"
+msgstr "最后，教程还多一层麻烦：*要学的是什么*、*要做的是什么*，这两者得区分开。教程"
+"的创作者不仅要清楚用户必须学会什么、何时学会，还要设计出一段有意义的学习旅程"
+"，把这一切都兜住。"
 
 #: ../../source/tutorials.rst:74
 msgid "Key principles"
@@ -195,13 +212,14 @@ msgid ""
 "outlined below - repetition, action, small steps, results early and often, "
 "concreteness and so on - are not secrets, but they are not always well "
 "understood."
-msgstr "这个问题并不简单，但也并非神秘莫测。下文所述的原则——重复、行动、小步递进、尽早且频繁地获得成果、具体化等——并非什么秘密，但它们也常常未被充分理解。"
+msgstr "它不是个容易的问题，但也并非什么谜团。下文列出的那些原则——重复、行动、小步推"
+"进、尽早且频繁地拿到结果、具体化等等——都不是什么秘密，却也没有被普遍理解。"
 
 #: ../../source/tutorials.rst:80
 msgid ""
 "Still, there are straightforward, effective ways to address the problems of "
 "pedagogy in practice."
-msgstr "然而，在实践中解决教学问题依然存在直接而有效的方法。"
+msgstr "不过，在实践中解决教学问题，还是有直接而有效的办法。"
 
 #: ../../source/tutorials.rst:84
 msgid "abstraction, generalisation"
@@ -226,7 +244,9 @@ msgid ""
 "to learn. A teacher inevitably feels a kind of anxiety to impart knowledge "
 "and understanding, but if you give into it and try to teach by telling and "
 "explaining, you will jeopardise the learning experience."
-msgstr "**教学的第一条准则很简单：别试图去教。** 你作为教师的职责，是给学习者提供一种能让他们真正学会的体验。教师难免会有一种急于灌输知识和理解的冲动，但如果你放任这种冲动，试图靠讲解来教学，就会毁掉这次学习体验。"
+msgstr "教学的第一条准则很简单：**别试图去教**。作为教师，你的职责是给学习者一段能让"
+"他们学习的体验。教师总会有一种急于传授知识和理解的焦躁，但你一旦屈从于它，想"
+"靠讲述和解释来教，就会毁掉这段学习体验。"
 
 #: ../../source/tutorials.rst:91
 msgid ""
@@ -235,11 +255,13 @@ msgid ""
 "learn. Sadly, however much you desire it, you will not be able to learn for "
 "your pupil. You cannot make them learn. All you can do is make it so *they* "
 "can learn."
-msgstr "**相反，让学习自然发生**，并相信它会如此。给你的学习者一些 **可做** 的事情，通过这些活动他们可以学习。只有你的学生才能学会知识。遗憾的是，无论多么渴望，你都无法替学生去学习。你不能强制他们学习。你所能做的只是创造条件，让他们 **能够** 学习。"
+msgstr "相反，*让学习发生*，并相信它自会发生。给学习者一些事情去*做*，让他们从中学习"
+"。只有你的学生才能学。遗憾的是，无论你多么渴望，都无法替你的学生去学。你没法"
+"让他们学会。你所能做的，只是把学习变成可能；真正学得会的，是*他们*。"
 
 #: ../../source/tutorials.rst:95
 msgid "Show the learner where they'll be going"
-msgstr "**向学习者展示他们将要去往何处**"
+msgstr "让学习者知道此行的去向"
 
 #: ../../source/tutorials.rst:97
 msgid ""
@@ -247,7 +269,8 @@ msgid ""
 "achieve right from the start. As well as helping to set expectations, it "
 "allows them to see themselves building towards the completed goal as they "
 "work."
-msgstr "**从一开始就让学习者形成对自己将达成成果的认识是很重要的**。这不仅有助于设定期望，还使他们能够在工作中看到自己朝着完成的目标逐步迈进。"
+msgstr "从一开始就让学习者对将要取得的成果有个概念，这很重要。这既有助于建立预期，也"
+"让他们在做的过程中看到自己正一步步走向最终的目标。"
 
 #: ../../source/tutorials.rst:99
 msgid ""
@@ -255,17 +278,19 @@ msgid ""
 "informing them at the outset: *In this tutorial we will create and deploy a "
 "scalable web application. Along the way we will encounter containerisation "
 "tools and services.*"
-msgstr "**在教程里勾勒学习者所需的图景，可以简单到一开场就告诉他们：**“本教程中，我们将构建并部署一个可扩展的 Web 应用；途中会接触到容器化工具和服务。”"
+msgstr "在教程里给出学习者需要的那幅图景，可以简单到一开头就告诉他们：*本教程中，我"
+"们将创建并部署一个可扩展的 Web 应用。一路上我们会遇到容器化工具与服务。*"
 
 #: ../../source/tutorials.rst:101
 msgid ""
 "This is not the same as saying: *In this tutorial you will learn...* - which"
 " is presumptuous and a very poor pattern."
-msgstr "这不是在说“在本教程中你将学会……”——那样显得自以为是，是一种很差的做法。"
+msgstr "这和说这句话不是一回事：*在本教程中你将会学到……*——那样说显得有些自以为是，是"
+"一种很糟的套路。"
 
 #: ../../source/tutorials.rst:105
 msgid "Deliver visible results early and often"
-msgstr "**尽早并频繁地展示可见成果**"
+msgstr "尽早、频繁地交付可见的成果"
 
 #: ../../source/tutorials.rst:107
 msgid ""
@@ -274,17 +299,19 @@ msgid ""
 "causes and effects, so let them see the results and make the connections "
 "rapidly and repeatedly. Each one of those results should be something that "
 "the user can see as meaningful."
-msgstr "你的学习者可能正在尝试一些新颖且陌生的操作，而他们尚未完全理解。理解源于能够建立因果关系之间的联系，因此要让他们看到结果，并迅速、重复地建立这些联系。每一个结果都应是用户能视为有意义的东西。"
+msgstr "你的学习者大概正在做一些新奇的、陌生的事情，自己还没完全弄懂。理解来自在因果"
+"之间建立联系，所以要让他们看到结果，并迅速、反复地建立这种联系。每一个这样的"
+"结果，都应当是用户看得出意义的东西。"
 
 #: ../../source/tutorials.rst:109
 msgid ""
 "Every step the learner follows should produce a comprehensible result, "
 "however small."
-msgstr "学习者遵循的每一步都应产生一个可理解的结果，无论其多么微小。"
+msgstr "学习者每走一步，都应当得出一个看得懂的结果，无论多小。"
 
 #: ../../source/tutorials.rst:113
 msgid "Maintain a narrative of the expected"
-msgstr "持续叙述预期中的结果"
+msgstr "持续叙述预期"
 
 #: ../../source/tutorials.rst:115
 msgid ""
@@ -292,32 +319,36 @@ msgid ""
 "this action produce the correct result? Part of the work of a successful "
 "tutorial is to keep providing feedback to the learner that they are indeed "
 "on the right path."
-msgstr "在教程的每一步，用户都会经历一个焦虑的时刻：这个操作会得到正确的结果吗？成功的教程，一部分工作就在于不断向学习者反馈，让他们确信自己正走在正确的路上。"
+msgstr "教程的每一步，用户都会经历一个焦虑的瞬间：这个行动会产生正确的结果吗？成功的"
+"教程，有一部分功夫就花在不断给学习者反馈，让他们确信自己确实走在正确的路上。"
 
 #: ../../source/tutorials.rst:117
 msgid ""
 "Keep up a narrative of expectations: \"You will notice that ...\"; \"After a"
 " few moments, the server responds with ...\". Show the user actual example "
 "output, or even the exact expected output."
-msgstr "持续叙述预期：“你将注意到……”；“片刻之后，服务器会返回……”。向用户展示实际的示例输出，甚至精确的预期输出。"
+msgstr "不断叙述你的预期：“你会注意到……”；“过一会儿，服务器会返回……”。向用户展示真实"
+"的示例输出，甚至是精确的预期输出。"
 
 #: ../../source/tutorials.rst:119
 msgid ""
 "If you know in advance what the likely signs of going wrong are, consider "
 "flagging them: \"If the output doesn't show ..., you have probably forgotten"
 " to ...\"."
-msgstr "如果你预先知道可能出现问题的迹象，请考虑对其进行标记：\"如果输出未显示……，你可能忘记……\"。"
+msgstr "如果你事先知道出错通常会有哪些征兆，不妨把它们标出来：“如果输出里没有显示……"
+"，你多半是忘了……”。"
 
 #: ../../source/tutorials.rst:121
 msgid ""
 "It's helpful to prepare the user for possibly surprising actions: \"The "
 "command will probably return several hundred lines of logs in your "
 "terminal.\""
-msgstr "提前让用户对可能出人意料的操作有所准备，会很有帮助：\"该命令将在你的终端中返回数百行日志。\""
+msgstr "提前让用户对可能出人意料的操作有个心理准备，会很有帮助：“这条命令大概会在你"
+"的终端里返回几百行日志。”"
 
 #: ../../source/tutorials.rst:125
 msgid "Point out what the learner should notice"
-msgstr "指出学习者应该注意的内容。"
+msgstr "指出学习者该注意什么"
 
 #: ../../source/tutorials.rst:127
 msgid ""
@@ -325,77 +356,84 @@ msgid ""
 "but one of the first is when the learner  observes the signs in their "
 "environment. In a lesson, a learner is typically too focused on what they "
 "are doing to notice them, unless they are prompted by the teacher."
-msgstr "学习需要反思。反思发生在多个层面、多种深度，但最早的一层，是学习者留意到周围环境中的种种迹象。在课堂上，学习者通常太专注于手上的事，注意不到这些迹象，除非有老师提示。"
+msgstr "学习需要反思。反思会在多个层面、多种深度上发生，但最先发生的一层，是学习者留"
+"意到周围环境中的种种迹象。在课堂上，学习者通常太专注于手上的事，注意不到这些"
+"迹象，除非老师提醒。"
 
 #: ../../source/tutorials.rst:129
 msgid ""
 "Your job as teacher is to close the loops of learning by pointing things "
 "out, in passing, as the lesson moves along. This can be as simple as "
 "pointing out how a command line prompt changes, for example."
-msgstr "作为教师，你要在课程推进中顺带把关键之处点明，让学习形成闭环。这可以简单到比如指出命令行提示符的变化。"
+msgstr "作为教师，你要在课程推进的过程中顺手指点，把一处处学习回路闭合起来。这可以简"
+"单到比如指一下命令行提示符的变化。"
 
 #: ../../source/tutorials.rst:131
 msgid ""
 "Observing is an active part of a craft, not a merely passive one. It means "
 "paying attention to the environment, a skill in itself. It's often "
 "neglected."
-msgstr "观察是技艺的一个积极组成部分，而不仅仅是一种被动的行为。这意味着关注环境，这本身就是一种技能。它经常被忽视。"
+msgstr "观察是技艺中主动的一环，而非仅仅被动的一环。它意味着对环境保持留意，这本身就"
+"是一门技能。而它常常被忽视。"
 
 #: ../../source/tutorials.rst:135
 msgid "Target *the feeling of doing*"
-msgstr "以 *行事的感受* 为目标"
+msgstr "以*行事的感受*为目标"
 
 #: ../../source/tutorials.rst:137
 msgid ""
 "In all skill or craft, the accomplished practitioner experiences a *feeling "
 "of doing*, a joined-up purpose, action, thinking and result."
-msgstr "在任何技艺中，娴熟的实践者都会体验到一种 *行事的感受*：目的、行动、思考与结果融为一体。"
+msgstr "*行事的感受*——在一切技能、一切技艺中，娴熟的实践者都会体验到它：目的、行动、"
+"思考与结果连成一体。"
 
 #: ../../source/tutorials.rst:139
 msgid ""
 "As skill develops, it flows in a confident rhythm and becomes a kind of "
 "pleasure. It's the pleasure of walking, for example."
-msgstr "随着技艺精进，它会以自信的节奏自然流淌，逐渐成为一种愉悦——比如行走时的那种愉悦。"
+msgstr "技艺渐长，动作便以自信的节奏流动起来，成为一种愉悦——比如走路的那种愉悦。"
 
 #: ../../source/tutorials.rst:143
 msgid ""
 "Pay attention to your own *feeling of doing* in your work. What is it like "
 "to perform a particular operation?"
-msgstr "留意自己工作时那份 *行事的感受*。执行某个具体操作时，是什么感觉？"
+msgstr "留意你自己工作时的*行事的感受*。做某个具体操作时，那是什么感觉？"
 
 #: ../../source/tutorials.rst:145
 msgid ""
 "Your learner's skill depends upon their discovering this feeling, and its "
 "becoming a pleasure."
-msgstr "学习者的技艺，取决于他们能否体会到这种感受，并让它成为一种愉悦。"
+msgstr "学习者的技艺，取决于他们能否发现这份感受，并让它成为一种愉悦。"
 
 #: ../../source/tutorials.rst:147
 msgid ""
 "Your challenge as the creator of a tutorial is to ensure that its tasks tie "
 "together purpose and action so they become a cradle for this feeling."
-msgstr "作为教程创作者，你的挑战在于确保教程中的任务能把目的与行动紧密相连，使之成为滋养这种感受的摇篮。"
+msgstr "作为教程的创作者，你的挑战在于：让教程中的任务把目的与行动系为一体，成为孕育"
+"这份感受的摇篮。"
 
 #: ../../source/tutorials.rst:151
 msgid "Encourage and permit repetition"
-msgstr "鼓励并允许重复练习"
+msgstr "鼓励并允许重复"
 
 #: ../../source/tutorials.rst:153
 msgid ""
 "Learners will return to and repeat an exercise that gives them success, for "
 "the pleasure they find in getting the expected result. Doing so reaffirms to"
 " them that they can do it, and that it works."
-msgstr "学习者会愿意反复练习自己能够成功完成的内容，因为得到预期结果会带来愉悦。这会再次确认：他们能够做到，而且方法确实有效。"
+msgstr "凡是能带来成功的练习，学习者都会一再回头去做，因为拿到预期结果让他们感到愉悦"
+"。这样做会再一次向他们确认：他们做得到，而且这办法管用。"
 
 #: ../../source/tutorials.rst:155
 msgid ""
 "Repetition is a key to establishing the feeling of doing; being at home with"
 " that feeling is a foundational layer of learning."
-msgstr "重复是建立这种行事的感受的关键；对这种感受习以为常，是学习的基石。"
+msgstr "重复是建立行事的感受的关键；对这份感受习以为常，是学习的基础层。"
 
 #: ../../source/tutorials.rst:159
 msgid ""
 "Repetition is not the best teacher - sometimes it's the *only* teacher."
-msgstr "重复并非最好的教师——有时它甚至是唯一的教师。"
+msgstr "重复并非最好的老师——有时，唯有它才是*唯一的老师*。"
 
 #: ../../source/tutorials.rst:161
 msgid ""
@@ -405,11 +443,14 @@ msgid ""
 "wherever you can. Watching a user follow a tutorial, you may often be amazed"
 " to see how often they choose to repeat a step. They are doing it just to "
 "see that the same thing really does happen again."
-msgstr "在你的教程中，尽量使特定步骤和结果能够被重复。这颇具挑战，例如在处理不可逆的操作时（难以返回到之前的步骤）——但请尽一切可能去寻找重复的机会。观察用户跟随教程时，你往往会惊讶地发现他们选择重复某一步骤的频率之高。他们这样做仅仅是为了亲眼确认同样的事情确实会再次发生。"
+msgstr "在你的教程里，尽量让某一步骤及其结果能够被重复。这有时并不容易，比如在不可逆"
+"的操作中（很难退回上一步）——但只要找得到机会，就去找。看着用户跟着教程做，你"
+"常会惊讶地发现，他们选择重复某一步的频率有多高。他们这么做，只是想亲眼看到同"
+"一件事真的又发生了一次。"
 
 #: ../../source/tutorials.rst:165
 msgid "Ruthlessly minimise explanation"
-msgstr "无情地精简解释说明"
+msgstr "毫不留情地精简解释"
 
 #: ../../source/tutorials.rst:167
 msgid ""
@@ -418,7 +459,9 @@ msgid ""
 "results. *Later*, when they are ready, they will seek explanation, but right"
 " now they are concerned with *doing*. Explanation distracts their attention "
 "from that, and blocks their learning."
-msgstr "*教程不是进行解释说明的场合。* 在教程中，用户正专注于正确遵循你的指示并获得预期结果。 **稍后**，当他们做好准备时，他们会主动寻求解释说明，但此刻他们关注的是 **行动**。解释说明会分散他们的注意力，阻碍其学习。"
+msgstr "*教程不是做解释说明的地方*。在教程里，用户正专注于正确跟从你的指示、拿到预期"
+"的结果。*稍后*，等他们准备好了，自会去寻求解释说明；但此刻，他们在意的是*做*"
+"。解释说明会把他们的注意力从这件事上引开，阻碍他们学习。"
 
 #: ../../source/tutorials.rst:169
 msgid ""
@@ -426,13 +469,15 @@ msgid ""
 "because it's more secure.* There is a place for extended discussion and "
 "explanation of HTTPS, but not now. Instead, provide a link or reference to "
 "that explanation, so that it's available, but doesn't get in the way."
-msgstr "例如，这样说就足够了： *我们使用 HTTPS，因为它更安全可靠。* 有关 HTTPS 的深入讨论和解释有它的位置，但不在这里。取而代之的是，提供指向该解释的链接或参考资料，以便其可用，却不会造成干扰。"
+msgstr "比如，这样说就足够了：*我们用 HTTPS，因为它更安全*。关于 HTTPS 的长篇讨论和"
+"解释自有它的去处，但不是现在。改为提供一条链接或参考指向那段解释，让它随手可"
+"取，又不挡路。"
 
 #: ../../source/tutorials.rst:173
 msgid ""
 "Explanation is only pertinent at the moment the *user* wants it. It is not "
 "for the documentation author to decide."
-msgstr "解释只在 *用户* 需要的时刻才相关，而非由文档作者决定。"
+msgstr "解释，只在*用户*想要它的那一刻才切题。这不是文档作者该决定的事。"
 
 #: ../../source/tutorials.rst:175
 msgid ""
@@ -444,31 +489,37 @@ msgid ""
 "means grasping general ideas, and abstraction is the logical form of "
 "understanding - but these are not what we need in a tutorial, and it's not "
 "how successful learning or teaching works."
-msgstr "解释是教师最难抗拒的诱惑之一；即使是有经验的教师也发现难以接受学生的学习并不依赖于解释这一事实。这完全合乎情理。一旦我们理解了某事，我们就依靠抽象的力量来在内心构建它——这也是我们希望向他人呈现的方式。理解意味着把握一般概念，而抽象则是理解的逻辑形式——但这并非教程所需，也不是成功的学习或教学运作方式。"
+msgstr "解释是教师最难抗拒的诱惑之一；即便是经验丰富的教师，也难以接受学生的学习并不"
+"依赖解释。这再自然不过。一旦我们弄懂了什么，就会借助抽象的力量在心里把它框定"
+"成形——而我们想展示给别人的，也正是这个样子。理解意味着把握一般的观念，抽象则"
+"是理解的逻辑形式——但这些并不是教程里需要的东西，成功的学习或教学也不靠这个。"
 
 #: ../../source/tutorials.rst:177
 msgid ""
 "One must see it for oneself, to see the focused attention of a student "
 "dissolve into air, when a teacher's well-intentioned explanation breaks the "
 "magic spell of learning."
-msgstr "这需要亲眼去看：当教师好心的讲解打破了学习的魔力时，学生原本专注的注意力，如何顷刻间烟消云散。"
+msgstr "人非得亲眼见到，才能看到学生的专注如何顷刻化为乌有——就在教师一番好意的解释打"
+"破学习的魔法之时。"
 
 #: ../../source/tutorials.rst:181
 msgid "... and focus on the concrete"
-msgstr "...并聚焦于具体事物"
+msgstr "……并聚焦于具体"
 
 #: ../../source/tutorials.rst:183
 msgid ""
 "In a learning situation, your student is in the moment, a moment composed of"
 " concrete things. You are responsible for setting up and maintaining the "
 "student's flow, from one concrete action and result to another."
-msgstr "在学习情境中，学生身处由具体事物构成的当下。你负责建立并维持学生的流畅感，引导其从一个具体行动和结果走向下一个。"
+msgstr "在学习情境中，你的学生身处当下，而当下由一件件具体事物构成。你的责任是营造并"
+"维持学生的流畅感，让他从一个具体的行动与结果，走向下一个。"
 
 #: ../../source/tutorials.rst:185
 msgid ""
 "Focus on *this* problem, *this* action, *this* result, in such a way that "
 "you lead the learner from step to concrete step."
-msgstr "聚焦于 *这个* 问题、 *这个* 行动、 *这个* 结果，以这种方式引导学生从一步迈向具体的下一步。"
+msgstr "*这个问题*、*这个行动*、*这个结果*——聚焦于此，从而领着学习者从一个具体步骤走"
+"向下一个。"
 
 #: ../../source/tutorials.rst:187
 msgid ""
@@ -478,11 +529,14 @@ msgid ""
 " well is to perceive general patterns from concrete examples. All learning "
 "moves in one direction: from the concrete and particular, towards the "
 "general and abstract. The latter *will* emerge from the former."
-msgstr "似乎维持对具体和个别事物的专注会剥夺学生观察或把握更大一般模式的机会，但事实恰恰相反。我们的大脑擅长的一件事就是从具体例子中感知一般模式。所有学习都朝一个方向进行：从具体和个别走向一般和抽象。后者 *将* 会从前者中涌现。"
+msgstr "你也许会以为，一直盯住具体和个别，就剥夺了学生看到或把握更宏大的普遍模式的机"
+"会；事实恰恰相反。我们的大脑有一件事做得极其漂亮：从具体的例子中看出普遍的模"
+"式。一切学习都朝着同一个方向走：从具体、个别，通向普遍、抽象。后者*终将*从前"
+"者之中生长出来。"
 
 #: ../../source/tutorials.rst:191
 msgid "Ignore options and alternatives"
-msgstr "忽略选项和替代方案"
+msgstr "忽略选项与替代方案"
 
 #: ../../source/tutorials.rst:193
 msgid ""
@@ -492,23 +546,25 @@ msgid ""
 "task you're describing) - ignore them. *Your guidance needs to remain "
 "focused on what's required to reach the conclusion*, and everything else can"
 " be left for another time."
-msgstr "你的工作是引导学习者走向成功的结局。途中可能会有许多有趣的岔路（例如：你使用的命令的不同选项、使用 API 的不同方式、完成你所描述任务的不同方法）——请忽略它们。 *你的指导需要始终聚焦于达成所需结果所必需的内容*，其余所有东西都可以留待以后处理。"
+msgstr "你的职责，是把学习者一路引向成功的结局。一路上可能有许多有趣的岔路（你在用的"
+"命令还有别的选项，使用 API 还有别的路子，你要讲的任务还有别的做法）——忽略它"
+"们。*你的指引必须始终聚焦在抵达终点所必需的东西上*，其余一切都可以留到以后。"
 
 #: ../../source/tutorials.rst:195
 msgid ""
 "Doing this helps keep your tutorial shorter and crisper, and saves both you "
 "and the reader from having to do extra cognitive work."
-msgstr "这样做有助于让你的教程更简短、更精炼，同时也能为你和读者省去额外的认知工作量。"
+msgstr "这样做能让你的教程更简短、更利落，也省得你和读者多做额外的脑力活。"
 
 #: ../../source/tutorials.rst:199
 msgid "Aspire to perfect reliability"
-msgstr "力求实现完美可靠性"
+msgstr "追求完美的可靠性"
 
 #: ../../source/tutorials.rst:201
 msgid ""
 "All of the above are general principles of pedagogy, but there is a special "
 "burden on the creator of a tutorial."
-msgstr "上述所有都是教育的一般原则，但教程的创作者负有特殊责任。"
+msgstr "以上都是教学的一般原则，但教程的创作者还背着一副特别的担子。"
 
 #: ../../source/tutorials.rst:203
 msgid ""
@@ -517,11 +573,13 @@ msgid ""
 "do something, they must see the result you promise. A learner who follows "
 "your directions and doesn't get the expected results will quickly lose "
 "confidence, in the tutorial, the tutor and themselves."
-msgstr "教程必须能激发信心。信心只能层层累积，且极易动摇。在每个阶段，当你要求学生执行某项操作时，他们必须看到你所承诺的结果。如果学习者遵循你的指示却未获得预期结果，他们会迅速失去对教程、导师乃至自身的信心。"
+msgstr "教程必须能让人生出信心。信心只能一层一层垒起来，却极易动摇。每一个阶段，你让"
+"学生做什么，他们都必须看到你许诺的结果。学习者照着你的指示做，却没拿到预期的"
+"结果，很快就会失去信心——对教程、对导师、也对自己。"
 
 #: ../../source/tutorials.rst:207
 msgid "You are required to be present, but condemned to be absent."
-msgstr "你被要求在场，却又注定缺席。"
+msgstr "要求你在场，却注定缺席。"
 
 #: ../../source/tutorials.rst:209
 msgid ""
@@ -529,13 +587,14 @@ msgid ""
 " In a tutorial, you can't do that. Your tutorial ought to be so well "
 "constructed that things *can't* go wrong, that your tutorial works for every"
 " user, every time."
-msgstr "一位与学习者同在的教师可以在事情出错时救他们于危难之中。而在教程中，你却做不到这一点。你的教程应当构造得如此精良，以至于事情 *不可能* 出错；它应能每次都对每一位用户有效运作。"
+msgstr "教师陪在学习者身边，出了岔子还能救一把。在教程里，你做不到。你的教程应当构造"
+"得如此严密：事情*不可能*出错，对每一位用户、每一次，它都管用。"
 
 #: ../../source/tutorials.rst:211
 msgid ""
 "It's hard work to create a reliable experience, but that is what you must "
 "aspire to in creating a tutorial."
-msgstr "创建一个可靠的用户体验是一项艰巨的工作，但在编写教程时，这正是你必须追求的目标。"
+msgstr "打造一份可靠的体验是件苦功夫，但编写教程时，这正是你必须追求的目标。"
 
 #: ../../source/tutorials.rst:213
 msgid ""
@@ -544,7 +603,9 @@ msgid ""
 "discover them for you. The only way to learn what they are is by finding out"
 " what actually happens when users do the tutorial, through extensive testing"
 " and observation."
-msgstr "无论你的教程写得多么仔细，它总会存在缺陷和漏洞。你无法独自发现所有这些问题，必须依靠用户来帮你发现。唯一能了解这些问题的方法，是通过广泛的测试和观察，找出当用户实际操作教程时真正发生的事情。"
+msgstr "无论教程写得多仔细，总会有缺陷和漏洞。你没法一个人把它们全找出来，只能靠用户"
+"替你发现。想知道它们是什么，唯一的办法是通过大量的测试和观察，弄清用户真的照"
+"着教程做时会发生什么。"
 
 #: ../../source/tutorials.rst:219
 msgid "The language of tutorials"
@@ -558,7 +619,7 @@ msgstr "我们……"
 msgid ""
 "The first-person plural affirms the relationship between tutor and learner: "
 "you are not alone; we are in this together."
-msgstr "第一人称复数强调了导师与学习者之间的关系：你并不孤单，我们要共同努力。"
+msgstr "第一人称复数确认了导师与学习者之间的关系：你并不孤单；这件事我们一起做。"
 
 #: ../../source/tutorials.rst:223
 msgid "In this tutorial, we will ..."
@@ -566,45 +627,45 @@ msgstr "在本教程中，我们将……"
 
 #: ../../source/tutorials.rst:224
 msgid "Describe what the learner will accomplish."
-msgstr "描述学习者将要完成的任务。"
+msgstr "说明学习者将达成什么。"
 
 #: ../../source/tutorials.rst:225
 msgid "First, do x. Now, do y. Now that you have done y, do z."
-msgstr "首先，执行 x。现在，执行 y。既然你已经完成了 y，接下来执行 z。"
+msgstr "先做 x。现在做 y。既然做完了 y，就做 z。"
 
 #: ../../source/tutorials.rst:226
 msgid "No room for ambiguity or doubt."
-msgstr "不容许任何含糊或怀疑。"
+msgstr "不留一丝含糊或怀疑的余地。"
 
 #: ../../source/tutorials.rst:227
 msgid ""
 "We must always do x before we do y because... (see Explanation for more "
 "details)."
-msgstr "我们必须始终先做 x，再做 y，因为……（更多细节见“解释说明”）。"
+msgstr "我们必须先做 x 再做 y，因为……（详见“解释说明”）。"
 
 #: ../../source/tutorials.rst:228
 msgid ""
 "Provide minimal explanation of actions in the most basic language possible. "
 "Link to more detailed explanation."
-msgstr "用最基本的语言提供行动的最小化解释说明。链接至更详细的解释说明。"
+msgstr "用最基础的语言，对行动做最低限度的解释说明。链接到更详细的解释说明。"
 
 #: ../../source/tutorials.rst:229
 msgid "The output should look something like ..."
-msgstr "输出应大致如下所示..."
+msgstr "输出应该大致像这样……"
 
 #: ../../source/tutorials.rst:230
 msgid "Give your learner clear expectations."
-msgstr "给予你的学习者明确的期望。"
+msgstr "给学习者明确的预期。"
 
 #: ../../source/tutorials.rst:231
 msgid "Notice that ... Remember that ... Let's check ..."
-msgstr "注意...请记住...让我们检查..."
+msgstr "注意……记住……我们来检查一下……"
 
 #: ../../source/tutorials.rst:232
 msgid ""
 "Give your learner plenty of clues to help confirm they are on the right "
 "track and orient themselves."
-msgstr "为你的学习者提供充分的提示，以帮助确认他们处于正确的方向并确定自身的方位。"
+msgstr "给学习者足够多的线索，帮他们确认自己走对了路，也帮他们找准方位。"
 
 #: ../../source/tutorials.rst:233
 msgid "You have built a secure, three-layer hylomorphic stasis engine..."
@@ -613,7 +674,7 @@ msgstr "你已经构建了一台安全的三层质形静态引擎……"
 #: ../../source/tutorials.rst:234
 msgid ""
 "Describe (and admire, in a mild way) what your learner has accomplished."
-msgstr "描述（并以温和的方式赞赏）你的学习者的成就。"
+msgstr "描述（并温和地赞赏）学习者取得的成就。"
 
 #: ../../source/tutorials.rst:240
 msgid "Applied to food and cooking"
@@ -621,27 +682,29 @@ msgstr "应用于食物与烹饪"
 
 #: ../../source/tutorials.rst:242
 msgid "A child proudly showing a dish he has helped prepare"
-msgstr "一个孩子自豪地展示他帮忙准备的菜肴"
+msgstr "一个孩子自豪地展示他帮忙做好的菜"
 
 #: ../../source/tutorials.rst:245
 msgid ""
 "Someone who has had the experience of teaching a child to cook will "
 "understand what matters in a tutorial, and just as importantly, the things "
 "that don't matter at all."
-msgstr "曾有过教孩子做饭经验的人，会明白在教程中什么才是重要的，同样重要的是，哪些完全不重要。"
+msgstr "教过孩子做饭的人，会明白教程里什么要紧；同样重要的是，也明白什么根本不要紧。"
 
 #: ../../source/tutorials.rst:247
 msgid ""
 "It really doesn't matter what the child makes, or how correctly they do it. "
 "The value of a lesson lies in what the child gains, not what they produce."
-msgstr "孩子做什么并不真正重要，也不在于他们做得是否正确。课程的价值在于孩子获得的收获，而非他们产出的东西。"
+msgstr "孩子做出什么，做得对不对，其实都无所谓。一堂课的价值，在于孩子得到了什么，而"
+"不在于他做出了什么。"
 
 #: ../../source/tutorials.rst:249
 msgid ""
 "Success in a cooking lesson with a child is not the culinary outcome, or "
 "whether the child can now repeat the processes on their own. Success is when"
 " the child acquires the knowledge and skills you were hoping to impart."
-msgstr "与孩子一起上烹饪课的成功，不在于最终的美食成果，也不在于孩子是否现在能独立重复这些流程。成功在于孩子习得了你希望传授的知识和技能。"
+msgstr "跟孩子上烹饪课，成功不在于最后做出什么菜，也不在于孩子从此能不能自己重复那些"
+"流程。成功，是孩子真的学到了你希望传授的知识和技能。"
 
 #: ../../source/tutorials.rst:251
 msgid ""
@@ -649,7 +712,8 @@ msgid ""
 "experience of being in the kitchen with you, and wants to return to it. "
 "Learning a skill is never a once and for all matter. Repetition is always "
 "required."
-msgstr "其中一个关键条件是：孩子必须从与你一起在厨房里的经历中发现乐趣，并希望再次回到那里。掌握一项技能从来不是\"一劳永逸\"的事。重复总是必要的。"
+msgstr "这里的一个关键条件是：孩子要从和你一起待在厨房里的经历中发现乐趣，并且愿意再"
+"回来。学一门技能，从来不是“一劳永逸”的事。重复永远少不了。"
 
 #: ../../source/tutorials.rst:253
 msgid ""
@@ -658,14 +722,17 @@ msgid ""
 "learn might be things like: *that we wash our hands before handling food*; "
 "*how to hold a knife*; *why the oil must be hot*; *what this utensil is "
 "called*, *how to time and measure things*."
-msgstr "与此同时，烹饪课可以围绕学习制作特定菜肴这一想法来构建框架，但我们实际上需要孩子学习的可能是诸如： *我们在处理食物前要洗手*； *如何握刀*； *为什么油必须加热*； *这个器具叫什么*； *如何定时和测量* 等内容。"
+msgstr "与此同时，烹饪课或许是围绕“学做某道菜”来搭框架的，但我们真正需要孩子学的，可"
+"能是这些：*碰食物之前要先洗手*；*怎么握刀*；*为什么油一定要热*；*这件器具叫"
+"什么*，*怎么把握时间和分量*。"
 
 #: ../../source/tutorials.rst:255
 msgid ""
 "The child learns all this by working alongside you in the kitchen; in its "
 "own time, at its own pace, **through the activities** you do together, and "
 "not from the things you say or show."
-msgstr "孩子通过与你在厨房并肩工作，学到这一切：在你们共同进行的 **活动** 当中，按照它自己的时机和节奏，而不是靠你说的话或展示的东西。"
+msgstr "孩子是在厨房里和你并肩干活时学会这一切的：按他自己的时间、自己的节奏，**通过"
+"你们一起做的活动**，而不是靠你说的话或展示的东西。"
 
 #: ../../source/tutorials.rst:257
 msgid ""
@@ -675,4 +742,7 @@ msgid ""
 "achieve something - however small - and enjoyed doing it, it will have laid "
 "down something in the construction of its technical expertise, that can be "
 "returned to and built upon next time."
-msgstr "和年幼的孩子一起学习时，课程常会在原定目标尚未完成前突然结束。这很正常，也在预料之中；孩子的注意力持续时间较短。但只要孩子完成了某件事——无论多小——并从中获得乐趣，就已为其技艺能力打下一块基础，下次可以回到这里继续构建。"
+msgstr "跟年幼的孩子在一起，你常会发现，还没做完原打算做的事，课就不得不突然结束了。"
+"这很正常，也在意料之中；孩子的注意力本来就短。但只要孩子做成了点什么——无论多"
+"小——而且做得开心，他就为自己的技术能力添上了一块砖，下次可以回到这里继续往上"
+"垒。"

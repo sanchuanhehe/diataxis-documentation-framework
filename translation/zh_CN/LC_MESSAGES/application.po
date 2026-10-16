@@ -25,23 +25,23 @@ msgstr "应用 Diátaxis"
 #: 6e5404a764ff4dabbfe520d8341dfd9a
 msgid ""
 "The pages in this section are concerned with putting Diátaxis into practice."
-msgstr "本节页面讨论如何将 Diátaxis 付诸实践。"
+msgstr "本节各页，讲的都是如何把 Diátaxis 付诸实践。"
 
 #: a12cecbbdf8146b382b774e1eac1ae50
 msgid ""
 "Diátaxis is underpinned by :doc:`systematic theoretical principles "
 "<theory>`, but understanding them is not necessary to make effective use of "
 "the system."
-msgstr "Diátaxis 以 :doc:`系统化的理论原则 <theory>` 为基础，但不必理解它们，也能有效使用这一体系。"
+msgstr "Diátaxis 以:doc:`系统化的理论原则 <theory>`为支撑，但要有效运用这套体系，并"
+"不需要先理解它们。"
 
 #: 49a053e1440840f68f56f8fc4fe5c9c5
 msgid ""
 "Diátaxis is primarily intended as a pragmatic approach for people working on"
 " documentation. Most of the key principles required to put it into practice "
 "successfully can be grasped intuitively."
-msgstr ""
-"Diátaxis 主要是一种面向文档工作者的务实方法。要成功实践它，所需的大多数关键原则"
-"都可以凭直觉理解。"
+msgstr "Diátaxis 首先是一种务实的方法，面向做文档的人。要把它成功付诸实践，所需的关"
+"键原则大多凭直觉就能掌握。"
 
 #: dbc09913e9034c6998897a9e32a49866
 msgid ""
@@ -49,18 +49,16 @@ msgid ""
 "practice. Not only do you not need to understand it all to make use of it, "
 "you will not understand it until you have started using it (this itself is a"
 " Diátaxis principle)."
-msgstr ""
-"不要等到理解 Diátaxis 后才尝试实践它。你不仅无需完全理解它就能使用，而且在开始"
-"使用之前也不会真正理解它（这本身就是一项 Diátaxis 原则）。"
+msgstr "别等理解了 Diátaxis 才动手实践。要用它，你不必先全都理解；如果不开始用，你也"
+"理解不了它（这本身就是一项 Diátaxis 原则）。"
 
 #: 070a684f4d8c40e4a8dd9f9eaaa95494
 msgid ""
 "As soon as you feel you have picked up an idea that seems worth applying to "
 "your work, try applying it. Come back here when you need more clarity or "
 "reassurance. Iterate between your work and reflecting on your work."
-msgstr ""
-"一旦觉得掌握了某个值得用于工作的想法，就去试一试。需要更多清晰认识或信心时，"
-"再回到这里。让实际工作与对工作的反思反复迭代。"
+msgstr "一旦觉得抓到了什么想法，值得用在自己工作上，就动手试试。需要更清楚一些，或者"
+"需要一点安心时，再回到这里。在工作与对工作的反思之间来回迭代。"
 
 #: 877524c8d6f14457863948f1b7f41d46
 msgid "In this section"
@@ -71,25 +69,24 @@ msgid ""
 "At the core of Diátaxis are the four different kinds of documentation it "
 "identifies. If you're encountering Diátaxis for the first time, start with "
 "these pages."
-msgstr ""
-"Diátaxis 的核心是它识别出的四种不同文档类型。若你是第一次接触 Diátaxis，请从"
-"这些页面开始。"
+msgstr "Diátaxis 的核心，是它识别出的四种不同文档类型。如果你是第一次接触 Diátaxis，"
+"就从这几页开始。"
 
 #: 3bc277834ad547179d5de97ea7a6faf4
 msgid ":doc:`tutorials` - learning-oriented experiences"
-msgstr ":doc:`tutorials` ——面向学习的体验"
+msgstr ":doc:`tutorials`——面向学习的体验"
 
 #: 6d5d78f2b69b4dde887f4d5d69e6e24b
 msgid ":doc:`how-to-guides` - goal-oriented directions"
-msgstr ":doc:`how-to-guides` ——面向目标的操作指引"
+msgstr ":doc:`how-to-guides`——面向目标的方向指引"
 
 #: d3362c632a0f47dbb34f7db7e32d1919
 msgid ":doc:`reference` - information-oriented technical description"
-msgstr ":doc:`reference` ——面向信息的技术描述"
+msgstr ":doc:`reference`——面向信息的技术描述"
 
 #: 955dba7477054deda75420cdd041a228
 msgid ":doc:`explanation` - understanding-oriented discussion"
-msgstr ":doc:`explanation` ——面向理解的论述"
+msgstr ":doc:`explanation`——面向理解的论述"
 
 #: b8e43937f06b478b8dc8313ddb3132cb
 msgid ""
@@ -97,14 +94,13 @@ msgid ""
 "particular ways of working, with implications for documentation process and "
 "execution. Once you've made your first start, the tools and methods outlined"
 " here will help smooth your way."
-msgstr ""
-"Diátaxis 提供引导行动的原则。它们转化为特定的工作方式，并影响文档的流程与执行。"
-"完成第一步后，这里概述的工具和方法将帮助你更顺利地前进。"
+msgstr "Diátaxis 规定了一些引导行动的原则。这些原则会转化为特定的工作方式，对文档的"
+"流程与执行都有影响。一旦起步，这里列出的工具和方法会帮你把路走顺。"
 
 #: 11b0dafaf969466989e23220f908b918
 msgid ":doc:`compass` - a simple tool for direction-finding"
-msgstr ":doc:`compass` ——用于辨明方向的简单工具"
+msgstr ":doc:`compass`——一件辨明方向的简单工具"
 
 #: 31052eb59ca0432990498e5bd9909a21
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
-msgstr "Diátaxis 中的 :doc:`工作流程 <how-to-use-diataxis>`"
+msgstr "Diátaxis 中的:doc:`工作流程 <how-to-use-diataxis>`"

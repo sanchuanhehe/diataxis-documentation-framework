@@ -26,22 +26,22 @@ msgstr "地图"
 msgid ""
 "One reason Diátaxis is effective as a guide to organising documentation is "
 "that it describes a **two-dimensional structure**, rather than a *list*."
-msgstr "Diátaxis 作为组织文档的指南之所以有效，一个原因是它描述的是 **二维结构**，而非一份 *列表*：这两个维度是“知与行”和“学与用”。"
+msgstr "Diátaxis 作为组织文档的指南之所以有效，一个原因在于它描述的是**二维结构**，"
+"而非一份*列表*。"
 
 #: a60f20d9a4a64db48ffa5dd0cd1dd237
 msgid ""
 "It specifies its types of documentation in such a way that the structure "
 "naturally helps guide and shape the material it contains."
-msgstr "它以这样的方式规定文档类型：结构自然有助于引导和塑造其中包含的材料。"
+msgstr "它规定文档类型的方式，让这套结构能自然而然地引导并塑造它所容纳的材料。"
 
 #: ea46c096a2fe441090662418b6e67ef0
 msgid ""
 "As a map, it places the different forms of documentation into relationships "
 "with each other. Each one occupies a space in the mental territory it "
 "outlines, and the boundaries between them highlight their distinctions."
-msgstr ""
-"作为地图，它将不同形式的文档置于彼此关联中。每一种都占据其勾勒出的心理领域中"
-"的一块空间，它们之间的边界凸显各自的区别。"
+msgstr "作为地图，它让不同形式的文档彼此建立关联。每一种都在它勾勒出的心智疆域中占据"
+"一方，而它们之间的边界，凸显出彼此的区别。"
 
 #: 28b66fe2dfa841edbecde3374c209dcb
 msgid "The problem of structure"
@@ -52,16 +52,16 @@ msgid ""
 "When documentation fails to attain a good structure, it's rarely just a "
 "problem of structure (though it's bad enough that it makes it harder to use "
 "and maintain). Architectural faults infect and undermine content too."
-msgstr ""
-"文档未能形成良好结构时，很少只是结构问题（尽管这已经足以使使用和维护更困难）。"
-"架构缺陷也会侵蚀并削弱内容。"
+msgstr "文档没能形成良好的结构时，问题很少只出在结构上（可单是这一点，就已经让文档更"
+"难使用、更难维护）。架构上的缺陷同样会侵染、削弱内容。"
 
 #: f8ba12790b56458380fddbfb4192286d
 msgid ""
 "In the absence of a clear, generalised documentation architecture, "
 "documentation creators will often try to structure their work around "
 "features of a product."
-msgstr "缺乏清晰、通用的文档架构时，文档创建者往往会尝试围绕产品特性来组织工作。"
+msgstr "缺乏清晰、通用的文档架构时，文档创建者往往会试着围绕产品的功能特性来组织工作"
+"。"
 
 #: b6a9a7312d494a6598ca2d67a32a5546
 msgid ""
@@ -69,16 +69,17 @@ msgid ""
 "documentation instances, the results are wild inconsistency. Much better is "
 "the adoption of a scheme that tries to provide an answer to the question: "
 "how to arrange documentation *in general?*"
-msgstr "即使对单个实例，这种做法也很少成功；在一组文档实例中，结果会是严重的不一致。更好的方式是采用一种方案，尝试回答：如何 *总体上* 安排文档？"
+msgstr "这种做法即使只在一处使用，也很少成功；放到一批文档实例里，结果便是杂乱无章的"
+"不一致。好得多的办法，是采用一套方案，试着回答这个问题：究竟该如何*总体上*安"
+"排文档？"
 
 #: 2b0b9e41214d4443ad187573f57175a9
 msgid ""
 "In fact any orderly attempt to organise documentation into clear content "
 "categories will help improve it (for authors as well as users), by providing"
 " lists of content types."
-msgstr ""
-"事实上，任何将文档有序组织为清晰内容类别的尝试都会有所帮助（对作者和用户皆然），"
-"因为它提供内容类型清单。"
+msgstr "事实上，只要把文档有条理地分进清晰的内容类别，就总能让文档有所改善（对作者如"
+"此，对用户也一样），因为它给出了内容类型的清单。"
 
 #: e7c862e3d4c946b1836e41f27df271d4
 msgid ""
@@ -88,10 +89,10 @@ msgid ""
 "there is a sense of arbitrariness about the structure that they find "
 "themselves working with - why this particular list of content types rather "
 "than another? And if another competing list is proposed, which to adopt?"
-msgstr ""
-"即便如此，作者常需撰写难以融入方案所提出类别的特定内容，或费力改写既有材料。"
-"他们使用的结构常带有任意性：为何是这份内容类型清单而非另一份？若提出了相互竞争"
-"的清单，又该采用哪一份？"
+msgstr "即便如此，作者也常常发现自己要写的内容偏偏塞不进方案给出的那些类别，或者为改"
+"写既有材料而大伤脑筋。对自己正在使用的那套结构，他们常有一种随意之感——为什么"
+"偏偏是这份内容类型清单，而不是另一份？假如有人提出另一份与之竞争的清单，该采"
+"用哪一份？"
 
 #: f5891811e7154cf68715187b669984e1
 msgid "Expectations and guidance"
@@ -103,7 +104,8 @@ msgid ""
 "clear *expectations* (to the reader) and *guidance* (to the author). It's "
 "clear what the purpose of any particular piece of content is, it specifies "
 "how it should be written and it shows where it should be placed."
-msgstr "这样组织材料的明显优势是：它同时给出清晰的 *预期* （面向读者）和 *指引* （面向作者）。每一项内容的目的很清楚，它规定应如何撰写，也显示应放在何处。"
+msgstr "这样组织材料，有一个明显的好处：它既给读者以清晰的*预期*，也给作者以*指引*。"
+"每一项内容的目的都一清二楚，它规定该怎么写，也指明该放在哪里。"
 
 #: c738a82259e04f128b20e24fde831b26
 msgid "\\"
@@ -151,11 +153,11 @@ msgstr "回答的问题"
 
 #: 52ea36d8943b491d8746c88bcf482ece
 msgid "\"Can you teach me to...?\""
-msgstr "“你能教我如何……吗？”"
+msgstr "“你能教我怎么……吗？”"
 
 #: 428b401aae3c45d2815666f2451e87bd
 msgid "\"How do I...?\""
-msgstr "“我如何……？”"
+msgstr "“我该怎么做……？”"
 
 #: 193a4fa5609c4328bd832bcb56840ed5
 msgid "\"What is...?\""
@@ -199,7 +201,7 @@ msgstr "帮助实现特定目标"
 
 #: 8f94eaffea9b4cd8bcd850e10863daab
 msgid "to describe the machinery"
-msgstr "描述设备"
+msgstr "描述系统"
 
 #: 9a847694818843f38f5034867524192a
 msgid "to illuminate a topic"
@@ -219,11 +221,11 @@ msgstr "一系列步骤"
 
 #: f0d39408018e489d9c268b1c7e769d63
 msgid "dry description"
-msgstr "简洁严谨的描述"
+msgstr "平实的描述"
 
 #: 059d95e1125e474ab84e9227b9744609
 msgid "discursive explanation"
-msgstr "论述式解释"
+msgstr "娓娓道来的解释"
 
 #: c28a0a00d5cc497c9ebddbbc07f95475
 msgid "analogy"
@@ -231,11 +233,11 @@ msgstr "类比"
 
 #: 091db0ed33ab40a58821dc0e2fb4333c
 msgid "teaching a child how to cook"
-msgstr "教孩子如何烹饪"
+msgstr "教孩子做菜"
 
 #: a808d2f6def74ed89132fbc445748920
 msgid "a recipe in a cookery book"
-msgstr "烹饪书中的食谱"
+msgstr "烹饪书里的食谱"
 
 #: 9e5a3cba0fbe496e85e9337bd0923967
 msgid "information on the back of a food packet"
@@ -243,15 +245,15 @@ msgstr "食品包装背面的信息"
 
 #: ffcaa2532d20403b945d2d106852f9ba
 msgid "an article on culinary social history"
-msgstr "一篇烹饪社会史文章"
+msgstr "一篇关于烹饪社会史的文章"
 
 #: 8b881170cb244b2ca5e1b533369c907b
 msgid ""
 "Each piece of content is of a kind that not only has one particular job to "
 "do, that job is also clearly distinguished from and contrasted with the "
 "other functions of documentation."
-msgstr ""
-"每项内容不仅属于一种有特定任务的类型，其任务也与文档的其他功能清楚地区分和对照。"
+msgstr "每一份内容都属于某一类型：这一类型不仅有自己的一项特定任务要完成，这项任务还"
+"与文档的其他功能清楚地区别开来、形成对照。"
 
 #: ee84b0f58fea4579b1ebb64bf12f7e7c
 msgid "Blur"
@@ -273,13 +275,12 @@ msgid ""
 "forms of documentation and its neighbours on the map, and a natural tendency"
 " to blur the distinctions (that can be seen repeatedly in examples of "
 "documentation)."
-msgstr ""
-"然而，不同文档形式与地图上的相邻形式之间有某种天然亲和性，也自然倾向于模糊"
-"区别（在文档实例中可反复看到）。"
+msgstr "然而，每一种文档形式与地图上的近邻之间，都存在某种天然的亲近，也都有一种模糊"
+"彼此区别的天然倾向（这在文档实例中一再可见）。"
 
 #: 717421ee00a7486a9a4145cadfc0a263
 msgid "guide action"
-msgstr "指导行动（行）"
+msgstr "引导行动（行）"
 
 #: c07ad59641e147f897aa1c6ad03fcf35 8b06e11c49274d29926916926fde74aa
 msgid "tutorials"
@@ -291,7 +292,7 @@ msgstr "实践指南"
 
 #: 5c67fa2ff28d484f96f6cc3eaa8e97ac
 msgid "serve the application of skill"
-msgstr "服务于技能应用（用）"
+msgstr "服务于技能的应用（用）"
 
 #: d9b691d316d342498b80bbe0eb761423 838d21b8a2134fa693f16ed75925d2d1
 msgid "reference"
@@ -307,7 +308,7 @@ msgstr "解释说明"
 
 #: a66d21149c764fa4b0c3eac98ba17f60
 msgid "serve the acquisition of skill"
-msgstr "服务于技能习得（学）"
+msgstr "服务于技能的习得（学）"
 
 #: 160ab1dbcda3455ea46d144fcdc16085
 msgid ""
@@ -316,9 +317,8 @@ msgid ""
 "way into inappropriate places. It also causes structural problems, which "
 "make it even more difficult to maintain the discipline of appropriate "
 "writing."
-msgstr ""
-"允许这些区别模糊时，不同类型的文档会彼此渗透。写作风格和内容会进入不适当的"
-"位置，也会造成结构问题，使维持恰当写作的纪律更加困难。"
+msgstr "一旦任由这些区别模糊下去，不同类型的文档就会彼此渗透。写作风格和内容会溜进本"
+"不该出现的地方。这还会造成结构问题，让人更难保持恰当写作的严谨。"
 
 #: 76c274eca1944c3a9af87cda73b709db
 msgid "Total collapse of the structure"
@@ -329,18 +329,18 @@ msgid ""
 "In the worst case there is a complete or partial collapse of tutorials and "
 "how-to guides into each other, making it impossible to meet the needs served"
 " by either."
-msgstr ""
-"最坏情况下，教程和实践指南会完全或部分坍塌为彼此，致使二者所服务的需求均无法满足。"
+msgstr "最坏的情况下，教程和实践指南会完全或部分地坍塌到一起，以致二者各自所服务的需"
+"求都无从满足。"
 
 #: f21285fb505842eca265e95c50d0b959
 msgid "The journey around the map"
-msgstr "围绕地图的旅程"
+msgstr "地图上的旅程"
 
 #: 47def3815c8c4b8893515dfa9e80a16f
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
-msgstr "Diátaxis 旨在帮助文档在用户与产品的 *交互循环* 中更好地服务用户。"
+msgstr "Diátaxis 旨在帮助文档在用户与产品的*交互循环*中更好地服务用户。"
 
 #: 02e865b8d403415aba0cb6b304d689fc
 msgid ""
@@ -350,47 +350,52 @@ msgid ""
 "practice, an actual user may enter the documentation anywhere in search of "
 "guidance on some particular subject, and what they want to read will change "
 "from moment to moment as they use your documentation."
-msgstr "不应过于字面地理解这句话。并非用户必须按 *教程* > *实践指南* > *技术参考资料* > *解释说明* 的顺序接触各类文档。实践中，用户可从任何位置进入文档，寻找特定主题的指引；随着使用文档，想读的内容会时刻变化。"
+msgstr "这句话不该理解得太死。并不是说，用户必须按*教程* > *实践指南* > *技术参考资"
+"料* > *解释说明*的顺序去接触各类文档。实际上，真实的用户可能从任何地方进入文"
+"档，去寻找某个具体主题的指引；而在使用你的文档的过程中，他们想读的内容时时刻"
+"刻都在变。"
 
 #: f1f3540644fc4fd796eb1cc7d668e0ad
 msgid ""
 "However, the idea of a cycle of documentation needs, that proceeds through "
 "different phases, is sound and corresponds to the way that people actually "
 "do become expert in a craft. There is a sense and meaning to this ordering."
-msgstr ""
-"不过，文档需求会经历不同阶段的循环这一理念是合理的，也与人们真正成为技艺专家"
-"的方式相符。这个顺序有其意义。"
+msgstr "不过，文档需求构成一个循环、依次经过不同阶段，这一想法是站得住的，也与人们真"
+"正精通一门技艺的方式相符。这个顺序自有道理，也自有意义。"
 
 #: 7e2b987545ef4a5495f4c9caf646dd4b
 msgid "Moving around the map"
-msgstr "在地图中移动"
+msgstr "在地图上移动"
 
 #: 92753d7671e948d99383f15cd28c9ba1
 msgid ""
 "*learning-oriented phase*: We begin by learning, and learning a skill means "
 "diving straight in to do it - under the guidance of a teacher, if we're "
 "lucky."
-msgstr "*面向学习的阶段*：我们从学习开始；学习一项技能意味着直接投入去做——幸运的话，有教师引导。"
+msgstr "*面向学习的阶段*：我们从学习开始；学一项技能，就是一头扎进去动手做——运气好的"
+"话，还有教师在旁指点。"
 
 #: 6a5115944134439b95a70f61363f64d9
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
-msgstr "*面向目标的阶段*：接着我们希望将技能用于工作。"
+msgstr "*面向目标的阶段*：接着，我们想把这门技能用起来。"
 
 #: 688b2991ec5c41a4a5a4f2e3a4576d60
 msgid ""
 "*information-oriented phase*: As soon as our work calls upon knowledge that "
 "we don't already have in our head, it requires us to consult technical "
 "reference."
-msgstr "*面向信息的阶段*：工作一旦需要脑中没有的知识，就必须查阅技术参考资料。"
+msgstr "*面向信息的阶段*：工作一旦要用到脑子里还没有的知识，我们就得去查阅技术参考资"
+"料。"
 
 #: 1d1c53bd5eca46dda11113bb6bdc5afa
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
-msgstr "*面向解释的阶段*：最后，离开工作后，我们反思实践与知识以理解整体。"
+msgstr "*面向解释的阶段*：最后，我们从工作中抽身出来，反思自己的实践与知识，以理解整"
+"体。"
 
 #: f9d887a57f3c48b1922a403d28532d06
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."
-msgstr "然后又回到起点，也许是为了掌握新事物，或是为了更深入地领会。"
+msgstr "然后又回到起点，也许是为了掌握一样新东西，也许是为了钻得更深。"

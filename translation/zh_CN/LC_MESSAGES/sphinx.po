@@ -32,11 +32,11 @@ msgstr "首页"
 
 #: 486690d3d9984baf89bf4f789a36b5e0
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
-msgstr "<a href=\"%(path)s\">版权</a> &#169; %(copyright)s"
+msgstr "<a href=\"%(path)s\">版权所有</a> &#169; %(copyright)s"
 
 #: 74792d06efb14cd8984df83bdc066d38
 msgid "Copyright &#169; %(copyright)s"
-msgstr "版权 &#169; %(copyright)s"
+msgstr "版权所有 &#169; %(copyright)s"
 
 #: ce36840190774eb2ba9f9f90897ecb44
 msgid "Last updated on %(last_updated)s"

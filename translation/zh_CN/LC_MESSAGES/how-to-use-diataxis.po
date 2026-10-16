@@ -20,13 +20,13 @@ msgstr ""
 
 #: adb8af5ca4b5437e99d48ce61dee91e8
 msgid "Diátaxis as a guide to work"
-msgstr "将 Diátaxis 用作工作指南"
+msgstr "Diátaxis 作为工作指南"
 
 #: 86b1d5750d5f4afcba1e6c0376f51742
 msgid ""
 "As well as providing a guide to documentation content, Diátaxis is also a "
 "guide to documentation process and execution."
-msgstr "Diátaxis 不仅提供文档内容方面的指引，也指导文档的流程与执行。"
+msgstr "Diátaxis 不仅是文档内容的指南，也是文档工作方式与执行方式的指南。"
 
 #: 2a7dc2807ac740f0b27796ee2880f7ea
 msgid ""
@@ -37,10 +37,10 @@ msgid ""
 " and develops. It's also the experience of many people who work on "
 "documentation to find themselves responsible for improving or even "
 "remediating a body of work."
-msgstr ""
-"大多数技术文档工作者都必须在工作过程中决定如何开展工作。在某些语境中，文档必须"
-"一次性交付，完整且处于最终状态；但更常见的是，它是持续进行的项目，例如与不断"
-"演变发展的产品一起开发。许多文档工作者也会发现，自己负责改进甚至整治一整套文档。"
+msgstr "大多数做技术文档的人，都得一边做事，一边决定该怎么做。在有些场合，文档只交付"
+"一次，交出去时就得是完整、定稿的状态；但更常见的情况是，文档是个一直在推进的"
+"项目，比如与一个自身也不断演进、发展的产品同行。许多做文档的人也有这样的体会"
+"：发现自己要负责改进、甚至补救一整套文档。"
 
 #: 0f4e7a45a1ad43dd834d74b106429c65
 msgid ""
@@ -48,13 +48,12 @@ msgid ""
 "accepted wisdom in documentation. In particular, it discourages planning and"
 " top-down workflows, preferring instead small, responsive iterations from "
 "which overall patterns emerge."
-msgstr ""
-"Diátaxis 提供的工作方法有悖于文档领域许多被普遍接受的智慧。尤其是，它不鼓励"
-"规划和自上而下的工作流，转而偏好小步、灵活应变的迭代，让整体模式从中自然涌现。"
+msgstr "Diátaxis 给出的工作方法，与文档领域许多公认的智慧背道而驰。它尤其不鼓励规划"
+"和自上而下的工作流，而更青睐注重响应的小步迭代，让整体格局从中浮现。"
 
 #: 6b18b6544c36461c891efbfb45acf336
 msgid "Use Diátaxis as a guide, not a plan"
-msgstr "将 Diátaxis 用作指南，而非计划"
+msgstr "把 Diátaxis 当指南，而非计划"
 
 #: c5de4888ee4b42f88fd469f40f916af4
 msgid ""
@@ -62,7 +61,9 @@ msgid ""
 "structure it proposes is not intended to be a **plan**, something you must "
 "complete in your documentation. It's a **guide**, a map to help you check "
 "that you're in the right place and going in the right directions."
-msgstr "Diátaxis 描绘了文档的完整图景，但其提出的结构并非必须在文档中完成的 **计划**。它是一份 **指南**，一张帮助你确认自己身处正确位置、朝正确方向前进的地图。"
+msgstr "Diátaxis 描绘了文档的完整图景。不过，它提出的结构，本意并不是一份你必须在文"
+"档中完成的**计划**。它是一份**指南**，一张地图，帮你确认自己身在正确的位置、"
+"正朝着正确的方向。"
 
 #: 402ba5c33a3c48379b137fdd7eb9ea10
 msgid ""
@@ -70,19 +71,20 @@ msgid ""
 "your documentation, so that you can make better sense of what it's doing and"
 " what you're trying to do with it. It provides tools that help assess it, "
 "identify where its problems lie, and judge what you can do to improve it."
-msgstr ""
-"Diátaxis 的要点是让你能思考和理解自己的文档，从而更好地理解它在做什么，以及你"
-"试图借它完成什么。它提供工具来帮助评估文档、定位问题，并判断可以怎样改进。"
+msgstr "Diátaxis 的用意，是给你一种方式，去思考和理解自己的文档，从而更明白它在做什"
+"么、你想拿它做什么。它还提供工具，帮你评估文档、找出问题所在、判断你能做些什"
+"么来改进。"
 
 #: 2d1151a1e5b945619fe971eb2893aa9d
 msgid "Don't worry about structure"
-msgstr "不必忧虑结构"
+msgstr "别为结构操心"
 
 #: ea6ec681da854dc4a29ca2e1a15cd141
 msgid ""
 "Although structure is key to documentation, **using Diátaxis means not "
 "spending energy trying to get its structure correct**."
-msgstr "尽管结构是文档的关键， **使用 Diátaxis 意味着不必耗费精力试图让其结构正确。**"
+msgstr "尽管结构对文档至关重要，但**用 Diátaxis，就意味着不必耗费精力去把它的结构弄"
+"对**。"
 
 #: eae1660cdb8b4a5cbb256bb24114d1b9
 msgid ""
@@ -90,7 +92,9 @@ msgid ""
 "your documentation will assume the Diátaxis structure - but it will have "
 "assumed that shape *because* it has been improved. It's not the other way "
 "round, that the structure must be imposed upon documentation to improve it."
-msgstr "只要持续遵循 Diátaxis 的提示，文档最终会呈现 Diátaxis 的结构——但它获得这种形状是 *因为* 已被改进，而不是反过来，必须先将结构强加给文档才能改进它。"
+msgstr "只要一直跟着 Diátaxis 的提示走，你的文档最终会呈现 Diátaxis 的结构——但它是*"
+"因为*被改进了，才长成那个形状。而不是反过来，必须先给文档强加结构，才能改进"
+"它。"
 
 #: 2ef3c54dcf2f49c28596da1204cb9112
 msgid ""
@@ -99,7 +103,9 @@ msgid ""
 "you should create empty structures for tutorials/howto "
 "guides/reference/explanation with nothing in them.** Don't do that. It's "
 "horrible."
-msgstr "开始使用 Diátaxis，并不需要考虑把文档分成四个部分。 **当然更不意味着应先为教程、实践指南、参考资料和解释说明创建没有任何内容的空结构。** 不要这样做，太糟糕了。"
+msgstr "开始使用 Diátaxis，并不需要你去考虑把文档分成四个部分。**当然，这更不意味着"
+"你该为教程、实践指南、参考资料和解释说明搭起空架子，里面什么都没有。**别这么"
+"做，那很糟糕。"
 
 #: 9ea084abd71d40489c7400ecc2319c52
 msgid ""
@@ -110,18 +116,22 @@ msgid ""
 " material under a certain Diátaxis heading - and that is how your top-level "
 "structure will form. In other words, **Diátaxis changes the structure of "
 "your documentation from the inside**."
-msgstr "相反，遵循后两节描述的工作流程，按 Diátaxis 原则在看到改进机会之处进行改动，让文档逐渐形成某种形态。到某一时刻，已作出的改动似乎会要求你把材料移到某个 Diátaxis 标题下——顶层结构便会如此形成。换言之， **Diátaxis 从内部改变文档结构。**"
+msgstr "相反，照着接下来两节讲的工作流程，按 Diátaxis 的原则，看到哪里可改进，就在哪"
+"里动手改，让文档开始显露出某种形态。到某个时候，你做的这些改动仿佛会要求你把"
+"材料归到某个 Diátaxis 标题之下——你的顶层结构就是这样形成的。换言之，**Diá"
+"taxis 从内部改变你文档的结构**。"
 
 #: 3a2cfeebc0ba4dc5b88c68e9f68b3747
 msgid "Work one step at a time"
-msgstr "一次推进一步"
+msgstr "一步一个脚印地做"
 
 #: b772a6e2f3334f9baf73ff43a597840c
 msgid ""
 "Diátaxis strongly prescribes a structure, but whatever the state of your "
 "existing documentation - even if it's a complete mess by any standards - "
 "it's always possible to improve it, **iteratively**."
-msgstr "Diátaxis 对结构有明确要求；但无论现有文档处于何种状态——即使按任何标准都一团糟——总能通过 **迭代** 加以改进。"
+msgstr "Diátaxis 给结构定下了极严的规矩，但无论你现有的文档是什么状态——哪怕按任何标"
+"准看都一团糟——总能**迭代**着把它改好。"
 
 #: 7c36e800993a4a19aaf4b95697bf1ae5
 msgid ""
@@ -129,9 +139,8 @@ msgid ""
 "them, so that you have something substantial to show each time. Avoid this "
 "temptation - every step in the right direction is worth publishing "
 "immediately."
-msgstr ""
-"人们自然会想先完成大量工作再发布，以便每次都有实质成果可展示。请避免这种诱惑——"
-"朝正确方向迈出的每一步，都值得立刻发布。"
+msgstr "人们自然想先把一大批工作做完再发布，好让每次拿出来的东西都够分量。要忍住这种"
+"诱惑——朝正确方向迈出的每一步，都值得立刻发布。"
 
 #: 8758a5321a9442ec9a41d23e30cff07d
 msgid ""
@@ -139,11 +148,12 @@ msgid ""
 "**don't try to work on the big picture**. It's both unnecessary and "
 "unhelpful. Diátaxis is designed to guide small steps; keep taking small "
 "steps to arrive where you want to go."
-msgstr "尽管 Diátaxis 意在提供文档的大图景， **不要试图处理大图景本身**。那既不必要也无益。Diátaxis 用于引导小步前进；持续迈出小步，便能抵达想去的地方。"
+msgstr "尽管 Diátaxis 意在给出文档的大图景，**但不要试图从大图景入手**。那既不必要，"
+"也没有益处。Diátaxis 要引导的，正是小步；一直迈小步，就能走到你想去的地方。"
 
 #: 131a5fe47822492c9dfd214529b49291
 msgid "Just do something"
-msgstr "先做点什么"
+msgstr "动手做点什么"
 
 #: a4a5a525abbe4c91b921b2b020ae14c3
 msgid ""
@@ -151,9 +161,8 @@ msgid ""
 "start again. Again, avoid it. As far as improving documentation in-line with"
 " Diátaxis goes, it isn't necessary to seek out things to improve. Instead, "
 "the best way to apply Diátaxis is as follows:"
-msgstr ""
-"面对一大摊混乱，容易想将它全部推倒重来。再次提醒，请避免这样做。要按照 Diátaxis"
-"改进文档，无需特意寻找要改进的事物；应用 Diátaxis 的最佳方式如下："
+msgstr "收拾一大摊烂摊子时，很容易想推倒重来。同样，要忍住。就依照 Diátaxis 改进文档"
+"这件事来说，其实不必特意去找可改之处。运用 Diátaxis 的最佳方式如下："
 
 #: fb82a32c21f14a259b7ecf1c9f5a760d
 msgid ""
@@ -162,7 +171,9 @@ msgid ""
 "outstanding problems. Just look at what you have right in front of you at "
 "that moment: the file you’re in, the last page you read - it doesn’t matter."
 " If there isn’t one just choose something, literally at random."
-msgstr "**选择某个对象** ——文档中的任意部分。若还没有明确想修正的内容，不要去搜寻遗留问题。只需看此刻眼前已有的内容：当前文件、最后读过的页面——都可以。若实在没有，就随机选一个。"
+msgstr "**挑一样东西**——文档里的任何一块都行。如果你心里还没有什么明确想修正的东西，"
+"就别去翻找遗留的问题。只看那一刻眼前有什么：正打开的文件、刚读过的页面——都无"
+"所谓。要是手边没有，那就随便挑一样，真的是随手挑。"
 
 #: 90b383784c614080b9169d5cf11c4b0a
 msgid ""
@@ -172,24 +183,29 @@ msgid ""
 "*What user need is represented by this? How well does it serve that need? "
 "What can be added, moved, removed or changed to serve that need better? Do "
 "its language and logic meet the requirements of this mode of documentation?*"
-msgstr "**评估它。** 接着批判性地思考该对象。最好选小一点的对象，不超过一页；再小一些，一段或一句就更好。根据 Diátaxis 的标准审视它： *它代表何种用户需求？它对该需求服务得如何？可以添加、移动、删除或更改什么，以更好地服务该需求？其语言和逻辑是否符合这种文档形式的要求？*"
+msgstr "**评估它**。接下来，用批判的眼光审视这个东西。最好是个小东西，不超过一页——再"
+"小些更好，一段话或一句话就够。然后按 Diátaxis 确立的标准去质疑它：*它代表着"
+"什么用户需求？它把这个需求满足得如何？要更好地满足这个需求，可以增加、移动、"
+"删除或改动什么？它的语言和逻辑，符合这类文档的要求吗？*"
 
 #: 9b86771791f44d55aa4e202cf0097ce1
 msgid ""
 "**Decide what to do**. Decide, based on your answers to those questions: "
 "*What single next action will produce an immediate improvement here?*"
-msgstr "**决定怎么做。** 根据对这些问题的回答作出决定： *哪一项单独的下一步行动能立即带来改进？*"
+msgstr "**决定做什么**。根据你对这些问题的回答来决定：*哪一项单独的下一步行动，能立"
+"刻给这里带来改进？*"
 
 #: 13999cf56d0148268a182fbade28a491
 msgid ""
 "**Do it**. Complete that next single action, *and consider it completed* - "
 "i.e. publish it, or at least commit the change. Don't feel that you need to "
 "do anything else to make a worthy improvement."
-msgstr "**去做。** 完成那一项单独的下一步行动， *并将其视为已完成* ——即发布它，或至少提交这项改动。无需认为还必须做其他事，才能称得上一次有价值的改进。"
+msgstr "**动手做**。把那单独的下一步行动做完，*并且就当它已经完成*——也就是把它发布出"
+"去，或者至少提交这次改动。别以为非得再做点什么，才算得上有价值的改进。"
 
 #: 268e6e1bb39c4605959189ad1ecfa2d8
 msgid "And then go back to the beginning of the cycle."
-msgstr "然后回到循环的起点。"
+msgstr "然后，回到循环的起点。"
 
 #: 9cef7be3d9154d9abc1d1a43f49bd8ed
 msgid ""
@@ -197,9 +213,9 @@ msgid ""
 "troublesome aspects of the documentation-writer's work: working out what to "
 "do. It keeps work flowing in the right direction, always towards the desired"
 " end, without having to expend energies on a plan."
-msgstr ""
-"这样工作，有助于减轻文档作者工作里最令人一筹莫展、最麻烦的一环带来的压力：想清楚"
-"该做什么。它让工作持续朝正确方向流动，始终指向期望的终点，无需在计划上耗费精力。"
+msgstr "这样工作，能帮你卸掉一份压力——文档作者最让人无从下手、最麻烦的事情之一，就是"
+"想清楚该做什么。它让工作始终朝正确的方向流动，始终奔向想要的终点，而不必在计"
+"划上耗费精力。"
 
 #: 3bef7bf3491c4347ad04daf923432e7c
 msgid "Allow your work to develop organically"
@@ -210,9 +226,8 @@ msgid ""
 "There's a strong urge to work in a cycle of planning and execution in order "
 "to work towards results. But it's not the only way, and there are often "
 "better ways when working with documentation."
-msgstr ""
-"为了取得成果，人们强烈倾向于在计划和执行的循环中工作。但这并非唯一方式；处理"
-"文档时，往往有更好的方法。"
+msgstr "人们总有一种强烈的冲动：为了做出成果，就在计划与执行的循环里工作。但这并非唯"
+"一的办法；做文档时，往往还有更好的做法。"
 
 #: 945250a6de89464ca214a1c283951def
 msgid "Well-formed organic growth"
@@ -226,13 +241,16 @@ msgid ""
 "development of cells, according to rules that are appropriate to each kind "
 "of cell. It's not the other way round, that a structure is imposed on the "
 "organism from above or outside. Good structure develops from within."
-msgstr "文档的一个好模型是 **适应外部条件、良好成形的有机生长**。有机生长发生在细胞层面；整体结构由细胞依其类型适用的规则健康发展来保证。这并非从上方或外部把结构强加给有机体；良好结构从内部发展而来。"
+msgstr "文档的好模型，是**适应外部条件、良好成形的有机生长**。有机生长发生在细胞层面"
+"：细胞按各自适用的规则健康发育，有机体作为整体的结构便有了保证。而不是反过来"
+"，从上方或外部把结构强加给有机体。好的结构由内而生。"
 
 #: 8cded9e9878044efa74bef73050a90d2
 msgid ""
 "Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
 "reproduced with kind permission."
-msgstr "插图版权归 `Linette Voller <https://linettevoller.com>`_ 所有，2021 年，经许可转载。"
+msgstr "插图版权归 `Linette Voller <https://linettevoller.com>`_ 所有，2021 年，经慨"
+"允转载。"
 
 #: cb6af9c24a10435c9247e10bd2c8cc58
 msgid ""
@@ -240,13 +258,13 @@ msgid ""
 "provides, your documentation will attain a healthy structure, because its "
 "internal components themselves are well-formed - like a living organism, it "
 "will have built itself up from the inside-out, one cell at a time."
-msgstr ""
-"文档也是如此：遵循 Diátaxis 提供的原则，文档会获得健康的结构，因为其内部组成"
-"部分本身良好成形——就像生物体一样，它会从内向外、逐个细胞地构建自己。"
+msgstr "文档也一样：只要遵循 Diátaxis 提供的原则，你的文档就会长出健康的结构，因为它"
+"的内部构件本身都良好成形——就像活的有机体，由内而外、一个细胞一个细胞地把自己"
+"搭建起来。"
 
 #: 700112f301ec451c9ef20d3c454242ab
 msgid "Complete, not finished"
-msgstr "完整，而非终结"
+msgstr "完整，而非完成"
 
 #: c5c7f6bb260e4584a5d915e09e7a5986
 msgid ""
@@ -256,22 +274,23 @@ msgid ""
 "fully-mature tree, it's **always complete** - there's never something "
 "missing from it. At any point, it is in a state that is appropriate to its "
 "stage of development."
-msgstr "想想一株植物。作为活着且不断生长的有机体，植物 **永远不会终结** ——它始终可以继续发展，进入生长和成熟的下一阶段。但在其从种子到完全成熟大树的每一个发展阶段，它又 **始终是完整的** ——从不缺失什么。在任何时点，它都处于适合其发展阶段的状态。"
+msgstr "想想一株植物。植物是活着的、不断生长的有机体，**永远不会完成**——它总能继续发"
+"展，走向生长与成熟的下一阶段。可是，从一粒种子到一棵完全长成的大树，在它发育"
+"的每一个阶段，它又**始终是完整的**——从不缺少什么。在任何时刻，它都处在与自身"
+"发展阶段相称的状态。"
 
 #: 40b9576a59ec4faa8a574004efb3899e
 msgid ""
 "Similarly, documentation is also never finished, because it always has to "
 "keep adapting and changing to the product and to users' needs, and can "
 "always be developed and improved further."
-msgstr ""
-"同样，文档也永远不会终结，因为它总要持续适应产品和用户需求的变化，并且总能被"
-"进一步发展和改进。"
+msgstr "同样，文档也永远不会完成，因为它总得不断适应产品、适应用户需求，随之而变，也"
+"总能继续发展、继续改进。"
 
 #: e1ad5ecae3524d17a3395ac045bb56b6
 msgid ""
 "However it can always be complete: useful to users, appropriate to its "
 "current stage of development, and in a healthy structural state and ready to"
 " go on to the next stage."
-msgstr ""
-"不过它始终可以是完整的：对用户有用，适合当前的发展阶段，结构健康，并准备好进入"
-"下一阶段。"
+msgstr "不过，它随时都可以是完整的：对用户有用，合乎当前的发展阶段，结构处于健康状态"
+"，并已准备好进入下一阶段。"

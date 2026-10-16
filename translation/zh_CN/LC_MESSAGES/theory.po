@@ -35,16 +35,16 @@ msgid ""
 "The pages in this section are intended to provide some theoretical grounding"
 " for the practices Diátaxis prescribes, and to explore some of the questions"
 " it raises."
-msgstr "本节页面旨在为 Diátaxis 所倡导的实践提供一些理论基础，并探讨它引出的若干问题。"
+msgstr "本节各页，意在为 Diátaxis 所主张的实践提供一些理论依据，并探讨它引出的若干问"
+"题。"
 
 #: f6b75ae5e747432fb96ef28148aba51c
 msgid ""
 "Within the discipline of documentation, discourse tends towards the "
 "practical and concrete. The approach is generally heuristic: guidelines, "
 "rules of thumb, specific imperatives, principles that we know work."
-msgstr ""
-"在文档这一专业领域中，讨论往往偏向实用和具体。通常采用启发式方法：指引、经验"
-"法则、具体命令，以及我们已知有效的原则。"
+msgstr "在文档这一专业领域里，讨论往往偏向务实而具体。方法大体是启发式的：准则、经验"
+"法则、具体的硬性要求、我们确知管用的原则。"
 
 #: f237d6aab8104003bda2525bc36a52e0
 msgid ""
@@ -53,13 +53,15 @@ msgid ""
 "of the right way to do things is largely based on a combination of intuition"
 " and experience. The theoretical aspect of the discipline receives far less "
 "attention."
-msgstr "作为实践者，我们对做什么、如何做以及它如何起作用有很多可说的，但对它 *为什么* 起作用谈得相对很少。对于正确做事方式的判断，很大程度建立在直觉与经验的结合上。这一专业的理论层面受到的关注要少得多。"
+msgstr "作为实践者，做什么、怎么做、它如何起作用，我们有很多话可说；它*为什么*有效，"
+"却说得相对很少。怎样做才对，我们的判断大半来自直觉与经验的结合。这门学科的理"
+"论层面，受到的关注要少得多。"
 
 #: 6b5d2e800cab4a20aa0e6d434d5d089f
 msgid ""
 "Diátaxis aims to place documentation practice on a more rigorous theoretical"
 " footing."
-msgstr "Diátaxis 旨在为文档实践奠定更严谨的理论基础。"
+msgstr "Diátaxis 力图让文档实践立足于更严谨的理论根基。"
 
 #: a25a80e892ef4a62993c4289b25670d2
 msgid "In this section"
@@ -67,15 +69,15 @@ msgstr "本节内容"
 
 #: 1faf203ee256435b8f843ad4614aee57
 msgid "These pages dig deeper into the thinking that underpins Diátaxis."
-msgstr "这些页面更深入地探讨支撑 Diátaxis 的思考。"
+msgstr "这些页面更深入地挖掘支撑 Diátaxis 的思想。"
 
 #: 546834c679b34f3fb47aeba3c3b0fc1a
 msgid ":doc:`foundations` - *why* Diátaxis works"
-msgstr ":doc:`foundations` ——Diátaxis *为什么* 有效"
+msgstr ":doc:`foundations`——Diátaxis *为什么*有效"
 
 #: 2d8ca9422dbe414ca9b8c80fc99417e2
 msgid ":doc:`map` - documentation in two dimensions"
-msgstr ":doc:`map` ——二维的文档"
+msgstr ":doc:`map`——文档的两个维度"
 
 #: a82b0a0ff01b423fa09bb9793c15db14
 msgid ":doc:`quality`"
@@ -83,7 +85,7 @@ msgstr ":doc:`quality`"
 
 #: a512f428ca8a4f07b724ac6d672c55cf
 msgid "Common problems explored:"
-msgstr "所探讨的常见问题："
+msgstr "常见问题探讨："
 
 #: 26f102a0f62c4f5ebb4e34d3f70c2fc8
 msgid ":doc:`tutorials-how-to`"

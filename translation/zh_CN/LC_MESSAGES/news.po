@@ -30,7 +30,7 @@ msgstr "2026 年 8 月 6 日"
 
 #: ../../source/news.rst:7
 msgid "Added an atom feed, https://diataxis.fr/atom.xml."
-msgstr "已添加 Atom 订阅源：https://diataxis.fr/atom.xml。"
+msgstr "新增了 Atom 订阅源，https://diataxis.fr/atom.xml。"
 
 #: ../../source/news.rst:9
 msgid "Polish translation"
@@ -42,11 +42,12 @@ msgstr "2026 年 8 月 4 日"
 
 #: ../../source/news.rst:12
 msgid "`Diátaxis is now available in Polish <https://diataxis.fr/pl>`_, courtesy of the translation efforts of `Piotr Nawrot <https://piotrnawrot.com/>`_."
-msgstr "`Diátaxis 现已提供波兰语版本 <https://diataxis.fr/pl>`_，这得益于 `Piotr Nawrot <https://piotrnawrot.com/>`_ 的翻译贡献。"
+msgstr "`Diátaxis 现在有波兰语版了 <https://diataxis.fr/pl>`_，多亏 `Piotr Nawrot <"
+"https://piotrnawrot.com/>`_ 费心翻译。"
 
 #: ../../source/news.rst:14
 msgid "Other translations are in progress."
-msgstr "其他语言的翻译正在进行中。"
+msgstr "其他语言的翻译正在推进。"
 
 #: ../../source/news.rst:16
 msgid ":doc:`More information about translating Diátaxis <translation>`"
